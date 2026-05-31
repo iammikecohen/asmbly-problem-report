@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asmbly Problem Reports</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1e2030;
+      --surface-hover: #252840;
+      --text: #e0e0e0;
+      --text-muted: #888;
+      --accent: #4a9eff;
+      --red: #e74c3c;
+      --yellow: #f39c12;
+      --green: #2ecc71;
+      --border: #2a2d45;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, sans-serif;
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    header h1 { margin: 0; font-size: 1.2rem; font-weight: 600; }
+
+    .updated { font-size: 0.8rem; color: var(--text-muted); }
+
+    main { max-width: 1100px; margin: 0 auto; padding: 1.5rem; }
+
+    /* Landing */
+    .workspace-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+
+    .workspace-card {
+      background: var(--surface);
+      border-radius: 8px;
+      padding: 1.2rem;
+      border-left: 4px solid var(--border);
+      cursor: pointer;
+      text-decoration: none;
+      color: var(--text);
+      display: block;
+      transition: background 0.15s;
+    }
+
+    .workspace-card:hover { background: var(--surface-hover); }
+    .workspace-card.has-problems { border-left-color: var(--red); }
+    .workspace-card.no-problems { border-left-color: var(--green); }
+
+    .workspace-card .ws-name { font-size: 1rem; font-weight: 600; }
+
+    .workspace-card .ws-count {
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1;
+      margin: 0.4rem 0 0.2rem;
+    }
+
+    .workspace-card.has-problems .ws-count { color: var(--red); }
+    .workspace-card.no-problems .ws-count { color: var(--green); }
+
+    .workspace-card .ws-label { font-size: 0.75rem; color: var(--text-muted); }
+
+    /* Workspace detail */
+    .back-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.9rem;
+      display: inline-block;
+      margin-bottom: 1rem;
+    }
+
+    .back-link:hover { text-decoration: underline; }
+
+    .workspace-heading {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .workspace-heading h2 { margin: 0; font-size: 1.5rem; }
+
+    /* Badges */
+    .badge {
+      font-size: 0.75rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .badge-red    { background: rgba(231,76,60,0.15);  color: var(--red); }
+    .badge-yellow { background: rgba(243,156,18,0.15); color: var(--yellow); }
+    .badge-green  { background: rgba(46,204,113,0.15); color: var(--green); }
+    .badge-muted  { background: rgba(255,255,255,0.08); color: var(--text-muted); }
+
+    /* Equipment group */
+    .equipment-group { margin-bottom: 1.75rem; }
+
+    .equipment-name {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .problem-card {
+      background: var(--surface);
+      border-radius: 6px;
+      padding: 0.9rem 1rem;
+      margin-bottom: 0.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .problem-summary { font-size: 0.9rem; flex: 1; }
+
+    .problem-meta {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.35rem;
+      flex-shrink: 0;
+    }
+
+    .problem-meta a {
+      color: var(--accent);
+      font-size: 0.8rem;
+      text-decoration: none;
+    }
+
+    .problem-meta a:hover { text-decoration: underline; }
+
+    .empty-state, .loading {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--text-muted);
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Asmbly Problem Reports</h1>
+    <span class="updated" id="updated-time"></span>
+  </header>
+  <main id="app">
+    <div class="loading">Loading...</div>
+  </main>
+  <footer id="footer"></footer>
+
+  <script>
+    let data = null;
+
+    // ── Utilities ──────────────────────────────────────────────
+
+    function esc(str) {
+      return String(str ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function toSlug(name) {
+      return name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    }
+
+    function relativeTime(iso) {
+      const diff = Math.floor((Date.now() - new Date(iso).getTime()) / 60000);
+      if (diff < 1) return 'Updated just now';
+      if (diff === 1) return 'Updated 1 minute ago';
+      return `Updated ${diff} minutes ago`;
+    }
+
+    function groupBy(arr, key) {
+      return arr.reduce((acc, item) => {
+        const k = item[key] || 'Unknown';
+        (acc[k] = acc[k] || []).push(item);
+        return acc;
+      }, {});
+    }
+
+    function statusBadgeClass(status) {
+      const s = (status || '').toLowerCase();
+      if (s === 'open') return 'badge-red';
+      if (s.includes('progress') || s.includes('review')) return 'badge-yellow';
+      return 'badge-muted';
+    }
+
+    // ── Rendering ─────────────────────────────────────────────
+
+    function renderLanding() {
+      const byWorkspace = groupBy(data.tasks, 'workspace');
+      const sorted = Object.entries(byWorkspace)
+        .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+
+      if (sorted.length === 0) {
+        document.getElementById('app').innerHTML =
+          '<div class="empty-state">No open problems reported.</div>';
+        return;
+      }
+
+      const cards = sorted.map(([name, tasks]) => {
+        const slug = tasks[0]?.workspace_slug || toSlug(name);
+        const count = tasks.length;
+        const cls = count > 0 ? 'has-problems' : 'no-problems';
+        const label = count === 1 ? 'open problem' : 'open problems';
+        return `<a class="workspace-card ${cls}" href="#${slug}">
+          <div class="ws-name">${esc(name)}</div>
+          <div class="ws-count">${count}</div>
+          <div class="ws-label">${label}</div>
+        </a>`;
+      }).join('');
+
+      document.getElementById('app').innerHTML =
+        `<div class="workspace-grid">${cards}</div>`;
+    }
+
+    function renderWorkspace(slug) {
+      const tasks = data.tasks.filter(t => t.workspace_slug === slug);
+      const name = tasks[0]?.workspace || slug;
+
+      const back = `<a class="back-link" href="#">← All Workspaces</a>`;
+
+      if (tasks.length === 0) {
+        document.getElementById('app').innerHTML =
+          `${back}<div class="empty-state">No open problems in this workspace.</div>`;
+        return;
+      }
+
+      const countBadge = `<span class="badge badge-red">${tasks.length} open</span>`;
+      const heading = `<div class="workspace-heading">
+        <h2>${esc(name)}</h2>${countBadge}
+      </div>`;
+
+      const byEquipment = groupBy(tasks, 'equipment');
+      const groups = Object.entries(byEquipment).map(([equip, problems]) => {
+        const cards = problems.map(t => {
+          const links = [
+            t.discourse_url
+              ? `<a href="${esc(t.discourse_url)}" target="_blank" rel="noopener">Discourse ↗</a>`
+              : '',
+            t.slack_url
+              ? `<a href="${esc(t.slack_url)}" target="_blank" rel="noopener">Slack ↗</a>`
+              : '',
+          ].filter(Boolean).join('');
+
+          return `<div class="problem-card">
+            <div class="problem-summary">${esc(t.summary)}</div>
+            <div class="problem-meta">
+              <span class="badge ${statusBadgeClass(t.status)}">${esc(t.status)}</span>
+              ${links}
+            </div>
+          </div>`;
+        }).join('');
+
+        return `<div class="equipment-group">
+          <div class="equipment-name">${esc(equip)}</div>
+          ${cards}
+        </div>`;
+      }).join('');
+
+      document.getElementById('app').innerHTML = `${back}${heading}${groups}`;
+    }
+
+    // ── Routing ───────────────────────────────────────────────
+
+    function render() {
+      if (!data) return;
+      const slug = window.location.hash.slice(1);
+      slug ? renderWorkspace(slug) : renderLanding();
+    }
+
+    // ── Bootstrap ─────────────────────────────────────────────
+
+    async function init() {
+      const res = await fetch('./data.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      data = await res.json();
+
+      const timeText = relativeTime(data.updated);
+      document.getElementById('updated-time').textContent = timeText;
+      document.getElementById('footer').textContent = timeText;
+
+      render();
+    }
+
+    window.addEventListener('hashchange', render);
+
+    init().catch(err => {
+      document.getElementById('app').innerHTML =
+        `<div class="empty-state">Failed to load data: ${esc(err.message)}</div>`;
+    });
+  </script>
+</body>
+</html>
