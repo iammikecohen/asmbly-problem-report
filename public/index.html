@@ -196,10 +196,6 @@
         .replace(/"/g, '&quot;');
     }
 
-    function toSlug(name) {
-      return name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    }
-
     function relativeTime(iso) {
       const diff = Math.floor((Date.now() - new Date(iso).getTime()) / 60000);
       if (diff < 1) return 'Updated just now';
@@ -222,6 +218,10 @@
       return 'badge-muted';
     }
 
+    function safeUrl(url) {
+      return (typeof url === 'string' && url.startsWith('https://')) ? url : null;
+    }
+
     // ── Rendering ─────────────────────────────────────────────
 
     function renderLanding() {
@@ -236,7 +236,7 @@
       }
 
       const cards = sorted.map(([name, tasks]) => {
-        const slug = tasks[0]?.workspace_slug || toSlug(name);
+        const slug = tasks[0]?.workspace_slug || '';
         const count = tasks.length;
         const cls = count > 0 ? 'has-problems' : 'no-problems';
         const label = count === 1 ? 'open problem' : 'open problems';
@@ -272,10 +272,10 @@
       const groups = Object.entries(byEquipment).map(([equip, problems]) => {
         const cards = problems.map(t => {
           const links = [
-            t.discourse_url
+            safeUrl(t.discourse_url)
               ? `<a href="${esc(t.discourse_url)}" target="_blank" rel="noopener">Discourse ↗</a>`
               : '',
-            t.slack_url
+            safeUrl(t.slack_url)
               ? `<a href="${esc(t.slack_url)}" target="_blank" rel="noopener">Slack ↗</a>`
               : '',
           ].filter(Boolean).join('');
