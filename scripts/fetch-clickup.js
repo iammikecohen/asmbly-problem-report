@@ -17,17 +17,38 @@ async function fetchPage(page) {
   const url = `https://api.clickup.com/api/v2/list/${LIST_ID}/task?page=${page}&include_closed=true&subtasks=true`;
   const res = await fetch(url, { headers: { Authorization: API_TOKEN } });
   if (!res.ok) {
+    if (res.status === 401 || res.status === 403) {
+      throw new Error(`ClickUp API authentication failed (${res.status})`);
+    }
     const body = await res.text();
     throw new Error(`ClickUp API ${res.status}: ${body}`);
   }
-  return res.json();
+  const text = await res.text();
+  try {
+    return JSON.parse(text);
+  } catch {
+    throw new Error(`ClickUp API ${res.status}: invalid JSON response`);
+  }
+}
+
+async function fetchPageWithRetry(page, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      return await fetchPage(page);
+    } catch (err) {
+      if (attempt === retries) throw err;
+      const delay = attempt * 2000;
+      console.warn(`Attempt ${attempt} failed (${err.message}), retrying in ${delay / 1000}s...`);
+      await new Promise(r => setTimeout(r, delay));
+    }
+  }
 }
 
 async function fetchAllTasks() {
   const tasks = [];
   let page = 0;
   while (true) {
-    const data = await fetchPage(page);
+    const data = await fetchPageWithRetry(page);
     const batch = data.tasks || [];
     tasks.push(...batch);
     if (batch.length < 100) break;
@@ -51,11 +72,11 @@ async function main() {
         workspace,
         workspace_slug: toSlug(workspace),
         equipment: parsed.equipment || 'Unknown Equipment',
-        summary: parsed.summary || t.name,
+        summary: parsed.summary || t.name || 'No summary',
         status: t.status?.status || 'Unknown',
         discourse_url: parsed.discourse_url,
         slack_url: parsed.slack_url,
-        created: new Date(parseInt(t.date_created, 10)).toISOString(),
+        created: t.date_created ? new Date(parseInt(t.date_created, 10)).toISOString() : new Date().toISOString(),
       };
     });
 
