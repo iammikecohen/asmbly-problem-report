@@ -63,6 +63,11 @@ describe('toSlug', () => {
   test('strips non-alphanumeric characters', () => {
     expect(toSlug('Laser/CNC Room')).toBe('lasercnc-room');
   });
+
+  test('trims leading and trailing whitespace', () => {
+    expect(toSlug('  Woodshop  ')).toBe('woodshop');
+    expect(toSlug('\tMetal Shop\n')).toBe('metal-shop');
+  });
 });
 
 describe('getWorkspaceValue', () => {

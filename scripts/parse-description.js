@@ -18,7 +18,7 @@ function parseDescription(description) {
 }
 
 function toSlug(name) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 function getWorkspaceValue(customFields) {
