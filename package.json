@@ -1,0 +1,13 @@
+{
+  "name": "asmbly-problem-report",
+  "version": "1.0.0",
+  "description": "Asmbly equipment problem report dashboard",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "fetch": "node scripts/fetch-clickup.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
