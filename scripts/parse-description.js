@@ -21,8 +21,8 @@ function toSlug(name) {
   return name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
-function getWorkspaceValue(customFields) {
-  const field = (customFields || []).find(f => f.name === 'Workspace');
+function getCustomFieldValue(customFields, fieldName) {
+  const field = (customFields || []).find(f => f.name === fieldName);
   if (!field) return null;
 
   if (field.type === 'drop_down' && field.type_config?.options) {
@@ -35,4 +35,8 @@ function getWorkspaceValue(customFields) {
   return field.value ? String(field.value).trim() : null;
 }
 
-module.exports = { parseDescription, toSlug, getWorkspaceValue };
+function getWorkspaceValue(customFields) {
+  return getCustomFieldValue(customFields, 'Workspace');
+}
+
+module.exports = { parseDescription, toSlug, getWorkspaceValue, getCustomFieldValue };

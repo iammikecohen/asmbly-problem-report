@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { parseDescription, toSlug, getWorkspaceValue } = require('./parse-description');
+const { parseDescription, toSlug, getWorkspaceValue, getCustomFieldValue } = require('./parse-description');
 
 const API_TOKEN = process.env.CLICKUP_API_TOKEN;
 const LIST_ID = process.env.CLICKUP_LIST_ID;
@@ -67,11 +67,12 @@ async function main() {
     .map(t => {
       const workspace = getWorkspaceValue(t.custom_fields) || 'Uncategorized';
       const parsed = parseDescription(t.description || '');
+      const asset = getCustomFieldValue(t.custom_fields, 'Asset');
       return {
         id: t.id,
         workspace,
         workspace_slug: toSlug(workspace),
-        equipment: parsed.equipment || 'Unknown Equipment',
+        equipment: parsed.equipment || asset || 'Unknown Equipment',
         summary: parsed.summary || t.name || 'No summary',
         status: t.status?.status || 'Unknown',
         discourse_url: parsed.discourse_url,
