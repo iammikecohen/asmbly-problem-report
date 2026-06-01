@@ -6,7 +6,7 @@ const { parseDescription, toSlug, getWorkspaceValue } = require('./parse-descrip
 
 const API_TOKEN = process.env.CLICKUP_API_TOKEN;
 const LIST_ID = process.env.CLICKUP_LIST_ID;
-const OUT_FILE = path.join(__dirname, '..', 'public', 'data.json');
+const OUT_FILE = path.join(__dirname, '..', 'docs', 'data.json');
 
 if (!API_TOKEN) throw new Error('CLICKUP_API_TOKEN env var is not set');
 if (!LIST_ID) throw new Error('CLICKUP_LIST_ID env var is not set');
