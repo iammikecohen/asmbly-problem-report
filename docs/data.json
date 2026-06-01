@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T22:54:58.644Z",
+  "updated": "2026-06-01T23:30:41.583Z",
   "tasks": [
     {
       "id": "86ahu341g",
@@ -156,18 +156,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779497326391199",
       "created": "2026-05-23T00:48:45.865Z"
-    },
-    {
-      "id": "86ahnen82",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "No more storage tickets available",
-      "description": "Problem Type: Other\nWorkspace:  Woodshop\nAsset:  \nSummary:  No more storage tickets available\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/5-22-2026-1559-woodshop/15879\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779480546387439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-22-2026-1559-woodshop/15879",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779480546387439",
-      "created": "2026-05-22T20:09:05.150Z"
     },
     {
       "id": "86ahm4612",
@@ -398,42 +386,6 @@
       "created": "2026-05-08T19:22:39.183Z"
     },
     {
-      "id": "86ahcf93n",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "No power",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  No power\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778261090573069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778261090573069",
-      "created": "2026-05-08T17:24:49.904Z"
-    },
-    {
-      "id": "86ahbap75",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Power switch intermittent",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Power switch intermittent \nAdditional Info:  Power switch doesn’t always work. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778119077001469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778119077001469",
-      "created": "2026-05-07T01:57:55.519Z"
-    },
-    {
-      "id": "86ahbaac9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Tape measure messed up",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Tape measure messed up\nAdditional Info:  Someone used packing tape to take the ruler back to the saw. We should replace it. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778114778353159\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778114778353159",
-      "created": "2026-05-07T00:46:17.296Z"
-    },
-    {
       "id": "86ahaf6x7",
       "workspace": "Lasers",
       "workspace_slug": "lasers",
@@ -444,42 +396,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778026284843649",
       "created": "2026-05-06T00:11:24.361Z"
-    },
-    {
-      "id": "86ah93nnq",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "Recalibration",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Recalibration \nAdditional Info:  Needs recalibration. If facing the in-feed side. The left is still a bit higher than the right. This requires running pieces twice and dealing with imprecise levels on the sides.\n\nDiscourse Link: https://yo.asmbly.org/t/5-4-2026-1219-belt-sander-large-36-powermatic/15770\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777917268772779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-4-2026-1219-belt-sander-large-36-powermatic/15770",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777917268772779",
-      "created": "2026-05-04T17:54:27.133Z"
-    },
-    {
-      "id": "86ah8d78y",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Planer,  router table",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Planer,  router table\nAdditional Info:  Member used planer followed by router table left chips on machines and floor. Left shop without cleaning up after. This happend during sander class.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777836091436669\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777836091436669",
-      "created": "2026-05-03T19:21:30.953Z"
-    },
-    {
-      "id": "86ah84ewq",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Breaker tripping in woodshop",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Breaker tripping in woodshop\nAdditional Info:  The breaker has tripped twice in the woodshop. L5 switch 3. The only equipment being run at the time was the small CNC, the sanding table, the rigid orbital sander, and one rigid vac. It tripped within 3-5 minutes of each other. Not sure what’s happening. Will attach picture and video\n\nDiscourse Link: https://yo.asmbly.org/t/5-2-2026-1431-woodshop-other/15759\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777750898832529\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-2-2026-1431-woodshop-other/15759",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777750898832529",
-      "created": "2026-05-02T19:41:37.707Z"
     },
     {
       "id": "86ah6n5m3",
@@ -506,30 +422,6 @@
       "created": "2026-04-30T02:08:16.522Z"
     },
     {
-      "id": "86ah5mhb9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Edge Sander - South Bend",
-      "summary": "Sparks coming off belt",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Sparks coming off belt\nAdditional Info:  The left side of the belt throws an occasional spark. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777415852049399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777415852049399",
-      "created": "2026-04-28T22:37:31.371Z"
-    },
-    {
-      "id": "86ah3npy9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "possible cartridge detection issue",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  possible cartridge detection issue\nAdditional Info:  triggered a cartridge in the off position (both switches off), but did not pinch blade\n\nDiscourse Link: https://yo.asmbly.org/t/4-26-2026-1336-woodshop-table-saw-2-sawstop/15717\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777229924061039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-26-2026-1336-woodshop-table-saw-2-sawstop/15717",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777229924061039",
-      "created": "2026-04-26T18:58:42.588Z"
-    },
-    {
       "id": "86ah3ng5p",
       "workspace": "Textiles",
       "workspace_slug": "textiles",
@@ -542,18 +434,6 @@
       "created": "2026-04-26T18:24:44.183Z"
     },
     {
-      "id": "86ah3jd63",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drum Sander - Supermax 25/50",
-      "summary": "Equipment not turning on",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Equipment not turning on\nAdditional Info:  Circuit trigger not showing red or green light\n\nDiscourse Link: https://yo.asmbly.org/t/4-25-2026-2213-woodshop-drum-sander-supermax-25-50/15714\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777173920539899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-25-2026-2213-woodshop-drum-sander-supermax-25-50/15714",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777173920539899",
-      "created": "2026-04-26T03:25:19.566Z"
-    },
-    {
       "id": "86ah2c3m0",
       "workspace": "3D Printing",
       "workspace_slug": "3d-printing",
@@ -564,18 +444,6 @@
       "discourse_url": "https://yo.asmbly.org/t/4-23-2026-1503-3d-printing-prusa-xl/15704",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776975971166179",
       "created": "2026-04-23T20:26:09.875Z"
-    },
-    {
-      "id": "86ah1mr7n",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Woodshop door not reliably closing",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Woodshop door not reliably closing\nAdditional Info:  Door rubbing on threshold, maglock not consistently catching as a result\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776891731893659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776891731893659",
-      "created": "2026-04-22T21:02:11.290Z"
     },
     {
       "id": "86agzb587",
@@ -612,66 +480,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776524578619729",
       "created": "2026-04-18T15:02:56.981Z"
-    },
-    {
-      "id": "86agynwgx",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Router Table, Router and lift",
-      "summary": "Router plate broke",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Router plate broke\nAdditional Info:  1/4 inch router plastic plate for table broke\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776445012740419\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776445012740419",
-      "created": "2026-04-17T16:56:51.686Z"
-    },
-    {
-      "id": "86agy7r3a",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Low Suction Warning Light Turned On",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Low Suction Warning Light Turned On\nAdditional Info:  Yellow low Suction Warning Light tuned turned on in Felder control panel on machine. Per the instruction manual I turned it off and switched it to manual cleaning cycle. Cleaning cycle completed however the yellow warning light is staying on. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776384482238769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776384482238769",
-      "created": "2026-04-17T00:07:58.797Z"
-    },
-    {
-      "id": "86agxhj9h",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "My door fob is not working",
-      "description": "Problem Type: Other\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  My door fob is not working\nAdditional Info:  It stoppwed working a few weeks ago\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776313873293039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776313873293039",
-      "created": "2026-04-16T04:31:12.115Z"
-    },
-    {
-      "id": "86agxgg35",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Brake",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Brake\nAdditional Info:  Table saw 2 brake was triggered when we started  WSS and Box building. Blade was not impacted.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776307013622079\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776307013622079",
-      "created": "2026-04-16T02:36:51.861Z"
-    },
-    {
-      "id": "86agxgf2x",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Blade\nAdditional Info:  Blade is unusable.  It would not even resaw the 2x4 in WSS.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776306654618899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776306654618899",
-      "created": "2026-04-16T02:30:53.829Z"
     },
     {
       "id": "86agw78fn",
@@ -734,54 +542,6 @@
       "created": "2026-04-08T00:38:07.397Z"
     },
     {
-      "id": "86agqxm5r",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Angle crank doesn’t lock",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Angle crank doesn’t lock\nAdditional Info:  This is the west table saw\n\nDiscourse Link: https://yo.asmbly.org/t/4-7-2026-1643-woodshop-table-saw-2-sawstop/15620\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775599011250809\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-7-2026-1643-woodshop-table-saw-2-sawstop/15620",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775599011250809",
-      "created": "2026-04-07T21:56:50.082Z"
-    },
-    {
-      "id": "86agnpggh",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Software edits",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Software edits\nAdditional Info:  ‘Machine’ and ‘Post Processor’ have been removed. Will not operate correctly now\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775400902167639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775400902167639",
-      "created": "2026-04-05T14:55:01.251Z"
-    },
-    {
-      "id": "86agnbd2n",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "I gouged the spoil board",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  I gouged the spoil board\nAdditional Info:  I'm really sorry.  I'm learning Fusion 360, and I had the material depth wrong, and made a big gouge in the big CNC's spoil board without realizing it until pulling up my material.  I immediately figured out the problem with my files and fixed it.  All my future cuts were fine, but the first one was really bad.  I'm so sorry.  \n\nIt's a funky square-ish shape in the front center, if you want to take a look.  Again, I'm sooo sorry.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775251084410549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775251084410549",
-      "created": "2026-04-03T21:18:03.836Z"
-    },
-    {
-      "id": "86aghp0nz",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "DC Down: Excessive Vibrations",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  DC Down: Excessive Vibrations\nAdditional Info:  Needs Investigation. Suddenly it started vibrating excessively beyond any normal levels. Most tools are offline until DC is approved to turn back on. I'm working on this now.\n\nRobert\n\nDiscourse Link: https://yo.asmbly.org/t/3-30-2026-1216-felder-rl-350-main-shop-dust-collector/15591\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774890626240909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/3-30-2026-1216-felder-rl-350-main-shop-dust-collector/15591",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774890626240909",
-      "created": "2026-03-30T17:10:24.525Z"
-    },
-    {
       "id": "86agezzhk",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -792,54 +552,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774515212010519",
       "created": "2026-03-26T08:53:31.570Z"
-    },
-    {
-      "id": "86agezzgp",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade broken\nAdditional Info:  No blade? \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774515166788719\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774515166788719",
-      "created": "2026-03-26T08:52:46.299Z"
-    },
-    {
-      "id": "86agew51q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Noisy",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Noisy \nAdditional Info:  Has squeaks and squealing as it is running.  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774485176252769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774485176252769",
-      "created": "2026-03-26T00:32:55.437Z"
-    },
-    {
-      "id": "86agegmfw",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Small Laguna CNC Dust Collector",
-      "summary": "The z surface sensor is not attached",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Small Laguna CNC Dust Collector\nSummary:  The z surface sensor is not attached\nAdditional Info:  Could not find the z surface sensor that is attached to the machine.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774461142644289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774461142644289",
-      "created": "2026-03-25T17:52:22.083Z"
-    },
-    {
-      "id": "86agegj7q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "No tape and superglue spray",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  No tape and superglue spray\nAdditional Info:  Could not find the blue tapes, super glue and glue accelerator near any of the CNCs\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774461034618369\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774461034618369",
-      "created": "2026-03-25T17:50:34.047Z"
     },
     {
       "id": "86age054d",
@@ -854,42 +566,6 @@
       "created": "2026-03-25T01:00:05.143Z"
     },
     {
-      "id": "86agd614k",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "Some retard jacked up the home position",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Some retard jacked up the home position\nAdditional Info:  It's backwards and tries to home outside the range of the axis. Axis are reversed\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774328717805739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774328717805739",
-      "created": "2026-03-24T05:05:17.365Z"
-    },
-    {
-      "id": "86agbzmpx",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "Machine stuck after “All Axis Home”",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Machine stuck after “All Axis Home”\nAdditional Info:  It’s possible I unintentionally change something when trying to turn off the spindle for a use of a drag knife. I can move X and Y in a limited manner if I don’t chose “All Axis Home” \n\nDiscourse Link: https://yo.asmbly.org/t/3-22-2026-1610-woodshop-laguna-small-cnc/15552\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774215497372549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/3-22-2026-1610-woodshop-laguna-small-cnc/15552",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774215497372549",
-      "created": "2026-03-22T21:38:16.374Z"
-    },
-    {
-      "id": "86agbz3fc",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade broke",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade broke\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/3-22-2026-1540-woodshop-14-bandsaw-1-grizzly/15551\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774211628137699\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/3-22-2026-1540-woodshop-14-bandsaw-1-grizzly/15551",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774211628137699",
-      "created": "2026-03-22T20:33:47.113Z"
-    },
-    {
       "id": "86agbuntu",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -900,18 +576,6 @@
       "discourse_url": "https://yo.asmbly.org/t/3-21-2026-2218-metal-shop-tormach-pcnc-1100/15549",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774151665918609",
       "created": "2026-03-22T03:54:24.829Z"
-    },
-    {
-      "id": "86agbhfnj",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Wood Lathe - Laguna Revo 18/36",
-      "summary": "No good safety drive",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Laguna Revo 18/36\nSummary:  No good safety drive\nAdditional Info:  Extra Safety drives are not in good working order. Need to have one before next spindle class and vase class.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774051078928329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774051078928329",
-      "created": "2026-03-20T23:57:58.351Z"
     },
     {
       "id": "86agbchnr",
@@ -926,18 +590,6 @@
       "created": "2026-03-20T20:16:46.808Z"
     },
     {
-      "id": "86ag8km9d",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Blade is throwing sparks",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Blade is throwing sparks\nAdditional Info:  Ran it a few seconds then stopped\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773784177418539\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773784177418539",
-      "created": "2026-03-17T21:49:36.722Z"
-    },
-    {
       "id": "86ag6dq7q",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -950,66 +602,6 @@
       "created": "2026-03-15T18:26:16.664Z"
     },
     {
-      "id": "86ag6d7x8",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "---------- Wood Shop ----------",
-      "summary": "Light in the og steward closet",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  ---------- Wood Shop ----------\nSummary:  Light in the og steward closet\nAdditional Info:  Light is out or broken \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773595407013059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773595407013059",
-      "created": "2026-03-15T17:23:26.453Z"
-    },
-    {
-      "id": "86ag69bbr",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Edge Sander - South Bend",
-      "summary": "Out of sandpaper belts",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Out of sandpaper belts\nAdditional Info:  We appear to have no spare sandpaper belts for the edge sander, and the current paper has several holes in it. (We had a fair number of  belts a few months ago, so we are using them up fairly rapidly.)  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773538004869009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773538004869009",
-      "created": "2026-03-15T01:26:44.283Z"
-    },
-    {
-      "id": "86ag5zeqd",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 2 - Grizzly",
-      "summary": "Brake shoe worn/missing",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Brake shoe worn/missing\nAdditional Info:  The foot brake shoe is completely worn. Should order two and swap bandsaw #1 as well.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773442296454079\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773442296454079",
-      "created": "2026-03-13T22:51:35.960Z"
-    },
-    {
-      "id": "86ag5qkdw",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Not cutting",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Not cutting\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/3-13-2026-1318-woodshop-planer-15-powermatic-15hh/15504\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773426027222609\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/3-13-2026-1318-woodshop-planer-15-powermatic-15hh/15504",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773426027222609",
-      "created": "2026-03-13T18:20:25.938Z"
-    },
-    {
-      "id": "86ag557yp",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "the calibers on the large CNC table",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  \nSummary:  the calibers on the large CNC table\nAdditional Info:  Gave bad reading even after being zero'd (I put a piece of tape on it that says \"caution - gave bad reading). It was ~.5 inches off \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773364815133469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773364815133469",
-      "created": "2026-03-13T01:20:14.481Z"
-    },
-    {
       "id": "86ag4mwt3",
       "workspace": "Lasers",
       "workspace_slug": "lasers",
@@ -1020,30 +612,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773333164002059",
       "created": "2026-03-12T16:32:43.404Z"
-    },
-    {
-      "id": "86ag329fz",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Hand held dewalt sander turns off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Hand held dewalt sander turns off\nAdditional Info:  Dewalt handheld sander turns off after a little bit of use, 5 min\n\nThere is 2 dewalt hand held sander, the one I used I left a red sandpaper on it, because they are identical \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773183978731089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773183978731089",
-      "created": "2026-03-10T23:06:17.178Z"
-    },
-    {
-      "id": "86ag2qba9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "Jigsaw won't hold blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  \nSummary:  Jigsaw won't hold blade\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773169215345129\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773169215345129",
-      "created": "2026-03-10T19:00:14.719Z"
     },
     {
       "id": "86afytqeq",
@@ -1166,30 +734,6 @@
       "created": "2026-02-12T01:21:59.008Z"
     },
     {
-      "id": "86af6nq4z",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Oscillating Spindle Sander - Delta",
-      "summary": "Changing spindles",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Oscillating Spindle Sander - Delta\nSummary:  Changing spindles\nAdditional Info:  Can not remove current spindle \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770576221430579\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770576221430579",
-      "created": "2026-02-08T18:43:40.724Z"
-    },
-    {
-      "id": "86af4rkuw",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Table doesn’t tilt",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Table doesn’t tilt\nAdditional Info:  It appears that the table tilt locking bolt is sheared off with the tip preventing pivoting. \n\nDiscourse Link: https://yo.asmbly.org/t/2-5-2026-1709-woodshop-drill-press-20-powermatic/15276\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770332777835319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/2-5-2026-1709-woodshop-drill-press-20-powermatic/15276",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770332777835319",
-      "created": "2026-02-05T23:06:16.442Z"
-    },
-    {
       "id": "86af2f6ce",
       "workspace": "Metal-Shop",
       "workspace_slug": "metal-shop",
@@ -1200,30 +744,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770167792405049",
       "created": "2026-02-04T01:16:31.858Z"
-    },
-    {
-      "id": "86aezj8f0",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "In feed rollers not taking wood",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  In feed rollers not taking wood \nAdditional Info:  Rollers seemed jammed, wood won’t take \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769873449330059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769873449330059",
-      "created": "2026-01-31T15:30:48.559Z"
-    },
-    {
-      "id": "86aezacde",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "Can’t move bed or start belt",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Can’t move bed or start belt \nAdditional Info:  Powers on and I was able to move the bed to set work height, but now the bed won’t move and can’t start the belt. \n\nDiscourse Link: https://yo.asmbly.org/t/1-30-2026-1747-woodshop-belt-sander-large-36-powermatic/15235\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769814475728769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/1-30-2026-1747-woodshop-belt-sander-large-36-powermatic/15235",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769814475728769",
-      "created": "2026-01-30T23:07:54.607Z"
     },
     {
       "id": "86aey5zad",
@@ -1308,30 +828,6 @@
       "discourse_url": "https://yo.asmbly.org/t/1-22-2026-1943-lasers-tarkin/15168",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769130890782369",
       "created": "2026-01-23T01:14:49.639Z"
-    },
-    {
-      "id": "86aehqubb",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Oscillating Spindle Sander - Delta",
-      "summary": "Spindle is jammed & Spindle replace",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Oscillating Spindle Sander - Delta\nSummary:  Spindle is jammed & Spindle replace\nAdditional Info:  We tried loosening it during Best Practices for Sanding but were unable to do detach the sprindle. Three-eights spindle needs replacement too.\n\nDiscourse Link: https://yo.asmbly.org/t/1-14-2026-1959-woodshop-oscillating-spindle-sander-delta/15103\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1768441445781449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/1-14-2026-1959-woodshop-oscillating-spindle-sander-delta/15103",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1768441445781449",
-      "created": "2026-01-15T01:44:04.687Z"
-    },
-    {
-      "id": "86aegkqrr",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Bosh hand planner needs new blades",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Bosh hand planner needs new blades\nAdditional Info:  Hand held corded planner BOSH PL1632 blades need replacement\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1768348580301529\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1768348580301529",
-      "created": "2026-01-13T23:56:18.894Z"
     },
     {
       "id": "86ae60qry",
