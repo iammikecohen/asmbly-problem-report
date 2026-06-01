@@ -1,11 +1,13 @@
 'use strict';
 
 function parseDescription(description) {
-  const result = { equipment: null, summary: null, discourse_url: null, slack_url: null };
+  const result = { equipment: null, asset: null, summary: null, discourse_url: null, slack_url: null };
   for (const line of description.split('\n')) {
     const t = line.trim();
     if (/^Equipment:\s*/i.test(t)) {
       result.equipment = t.replace(/^Equipment:\s*/i, '').trim() || null;
+    } else if (/^Asset:\s*/i.test(t)) {
+      result.asset = t.replace(/^Asset:\s*/i, '').trim() || null;
     } else if (/^Summary:\s*/i.test(t)) {
       result.summary = t.replace(/^Summary:\s*/i, '').trim() || null;
     } else if (/^Discourse Link:\s*/i.test(t)) {

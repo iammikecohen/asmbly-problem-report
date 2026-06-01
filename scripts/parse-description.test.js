@@ -30,9 +30,15 @@ describe('parseDescription', () => {
     expect(parseDescription(EXAMPLE_DESC).slack_url).toBe('https://asmbly-makerspace.slack.com/archives/C063/p123');
   });
 
+  test('extracts asset', () => {
+    const desc = 'Asset: Table Saw 1 - Sawstop\nSummary: Blade guard missing';
+    expect(parseDescription(desc).asset).toBe('Table Saw 1 - Sawstop');
+  });
+
   test('returns null for missing fields', () => {
     const result = parseDescription('Issue type: Equipment Problem\nSummary: test only');
     expect(result.equipment).toBeNull();
+    expect(result.asset).toBeNull();
     expect(result.discourse_url).toBeNull();
     expect(result.slack_url).toBeNull();
   });
@@ -40,6 +46,7 @@ describe('parseDescription', () => {
   test('handles empty description', () => {
     const result = parseDescription('');
     expect(result.equipment).toBeNull();
+    expect(result.asset).toBeNull();
     expect(result.summary).toBeNull();
     expect(result.discourse_url).toBeNull();
     expect(result.slack_url).toBeNull();

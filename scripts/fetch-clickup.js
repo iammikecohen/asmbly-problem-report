@@ -72,7 +72,7 @@ async function main() {
         id: t.id,
         workspace,
         workspace_slug: toSlug(workspace),
-        equipment: parsed.equipment || asset || 'Unknown Equipment',
+        equipment: parsed.equipment || parsed.asset || asset || 'Unknown Equipment',
         summary: parsed.summary || t.name || 'No summary',
         status: t.status?.status || 'Unknown',
         discourse_url: parsed.discourse_url,
