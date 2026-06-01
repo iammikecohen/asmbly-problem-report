@@ -115,10 +115,33 @@
     .badge-green  { background: rgba(46,204,113,0.15); color: var(--green); }
     .badge-muted  { background: rgba(255,255,255,0.08); color: var(--text-muted); }
 
+    /* Status filters */
+    .status-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+
+    .filter-btn {
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      border: 1px solid transparent;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .filter-btn.f-red    { background: rgba(231,76,60,0.15);  color: var(--red);        border-color: rgba(231,76,60,0.3); }
+    .filter-btn.f-yellow { background: rgba(243,156,18,0.15); color: var(--yellow);     border-color: rgba(243,156,18,0.3); }
+    .filter-btn.f-muted  { background: rgba(255,255,255,0.08); color: var(--text-muted); border-color: var(--border); }
+    .filter-btn.f-inactive { background: transparent; color: var(--text-muted); border-color: var(--border); opacity: 0.35; }
+
     /* Equipment group */
     .equipment-group { margin-bottom: 1.75rem; }
 
-    .equipment-name {
+    .equipment-group > summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
       font-size: 0.7rem;
       text-transform: uppercase;
       letter-spacing: 0.08em;
@@ -126,7 +149,15 @@
       margin-bottom: 0.5rem;
       padding-bottom: 0.4rem;
       border-bottom: 1px solid var(--border);
+      user-select: none;
     }
+    .equipment-group > summary::-webkit-details-marker { display: none; }
+    .equipment-group > summary:hover { color: var(--text); }
+
+    .equip-label { display: flex; align-items: center; gap: 0.4em; flex: 1; }
+
+    .equip-chevron { display: inline-block; transition: transform 0.15s; }
+    .equipment-group[open] > summary .equip-chevron { transform: rotate(90deg); }
 
     .problem-card {
       background: var(--surface);
@@ -185,6 +216,8 @@
 
   <script>
     let data = null;
+    let currentSlug = null;
+    let activeStatuses = null;
 
     // ── Utilities ──────────────────────────────────────────────
 
@@ -216,6 +249,13 @@
       if (s === 'open') return 'badge-red';
       if (s.includes('progress') || s.includes('review')) return 'badge-yellow';
       return 'badge-muted';
+    }
+
+    function statusFilterClass(status) {
+      const s = (status || '').toLowerCase();
+      if (s === 'open') return 'f-red';
+      if (s.includes('progress') || s.includes('review')) return 'f-yellow';
+      return 'f-muted';
     }
 
     function safeUrl(url) {
@@ -252,9 +292,13 @@
     }
 
     function renderWorkspace(slug) {
+      if (slug !== currentSlug) {
+        currentSlug = slug;
+        activeStatuses = null;
+      }
+
       const tasks = data.tasks.filter(t => t.workspace_slug === slug);
       const name = tasks[0]?.workspace || slug;
-
       const back = `<a class="back-link" href="#">← All Workspaces</a>`;
 
       if (tasks.length === 0) {
@@ -263,39 +307,68 @@
         return;
       }
 
-      const countBadge = `<span class="badge badge-red">${tasks.length} open</span>`;
+      const allStatuses = [...new Set(tasks.map(t => t.status))].sort();
+      if (!activeStatuses) activeStatuses = new Set(allStatuses);
+
+      const filterButtons = allStatuses.map(s => {
+        const cls = activeStatuses.has(s) ? statusFilterClass(s) : 'f-inactive';
+        return `<button class="filter-btn ${cls}" data-status="${esc(s)}">${esc(s)}</button>`;
+      }).join('');
+      const filters = `<div class="status-filters">${filterButtons}</div>`;
+
+      const filteredTasks = tasks.filter(t => activeStatuses.has(t.status));
+      const countBadge = `<span class="badge badge-red">${filteredTasks.length} open</span>`;
       const heading = `<div class="workspace-heading">
         <h2>${esc(name)}</h2>${countBadge}
       </div>`;
 
-      const byEquipment = groupBy(tasks, 'equipment');
-      const groups = Object.entries(byEquipment).map(([equip, problems]) => {
-        const cards = problems.map(t => {
-          const links = [
-            safeUrl(t.discourse_url)
-              ? `<a href="${esc(t.discourse_url)}" target="_blank" rel="noopener">Discourse ↗</a>`
-              : '',
-            safeUrl(t.slack_url)
-              ? `<a href="${esc(t.slack_url)}" target="_blank" rel="noopener">Slack ↗</a>`
-              : '',
-          ].filter(Boolean).join('');
+      let groupsHtml;
+      if (filteredTasks.length === 0) {
+        groupsHtml = '<div class="empty-state">No problems match the selected filters.</div>';
+      } else {
+        const byEquipment = groupBy(filteredTasks, 'equipment');
+        groupsHtml = Object.entries(byEquipment).map(([equip, problems]) => {
+          const cards = problems.map(t => {
+            const links = [
+              safeUrl(t.discourse_url)
+                ? `<a href="${esc(t.discourse_url)}" target="_blank" rel="noopener">Discourse ↗</a>`
+                : '',
+              safeUrl(t.slack_url)
+                ? `<a href="${esc(t.slack_url)}" target="_blank" rel="noopener">Slack ↗</a>`
+                : '',
+            ].filter(Boolean).join('');
 
-          return `<div class="problem-card">
-            <div class="problem-summary">${esc(t.summary)}</div>
-            <div class="problem-meta">
-              <span class="badge ${statusBadgeClass(t.status)}">${esc(t.status)}</span>
-              ${links}
-            </div>
-          </div>`;
+            return `<div class="problem-card">
+              <div class="problem-summary">${esc(t.summary)}</div>
+              <div class="problem-meta">
+                <span class="badge ${statusBadgeClass(t.status)}">${esc(t.status)}</span>
+                ${links}
+              </div>
+            </div>`;
+          }).join('');
+
+          return `<details class="equipment-group" open>
+            <summary>
+              <span class="equip-label">
+                <span class="equip-chevron">▶</span>
+                ${esc(equip)}
+              </span>
+              <span class="badge badge-muted">${problems.length}</span>
+            </summary>
+            ${cards}
+          </details>`;
         }).join('');
+      }
 
-        return `<div class="equipment-group">
-          <div class="equipment-name">${esc(equip)}</div>
-          ${cards}
-        </div>`;
-      }).join('');
+      document.getElementById('app').innerHTML = `${back}${heading}${filters}${groupsHtml}`;
 
-      document.getElementById('app').innerHTML = `${back}${heading}${groups}`;
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const s = btn.dataset.status;
+          activeStatuses.has(s) ? activeStatuses.delete(s) : activeStatuses.add(s);
+          renderWorkspace(slug);
+        });
+      });
     }
 
     // ── Routing ───────────────────────────────────────────────
