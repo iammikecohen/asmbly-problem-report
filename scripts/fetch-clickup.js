@@ -74,6 +74,7 @@ async function main() {
         workspace_slug: toSlug(workspace),
         equipment: parsed.equipment || parsed.asset || asset || 'Unknown Equipment',
         summary: parsed.summary || t.name || 'No summary',
+        description: t.description?.trim() || null,
         status: t.status?.status || 'Unknown',
         discourse_url: parsed.discourse_url,
         slack_url: parsed.slack_url,

@@ -162,13 +162,34 @@
     .problem-card {
       background: var(--surface);
       border-radius: 6px;
-      padding: 0.9rem 1rem;
       margin-bottom: 0.5rem;
+    }
+
+    .problem-card > summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 0.9rem 1rem;
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
       gap: 1rem;
+      user-select: none;
+      border-radius: 6px;
     }
+    .problem-card > summary::-webkit-details-marker { display: none; }
+    .problem-card > summary:hover { background: var(--surface-hover); }
+    .problem-card[open] > summary { border-radius: 6px 6px 0 0; }
+
+    .card-chevron {
+      display: inline-block;
+      transition: transform 0.15s;
+      color: var(--text-muted);
+      font-size: 0.7em;
+      margin-right: 0.35em;
+      flex-shrink: 0;
+      align-self: center;
+    }
+    .problem-card[open] > summary .card-chevron { transform: rotate(90deg); }
 
     .problem-summary { font-size: 0.9rem; flex: 1; }
 
@@ -187,6 +208,16 @@
     }
 
     .problem-meta a:hover { text-decoration: underline; }
+
+    .problem-description {
+      padding: 0.75rem 1rem 0.9rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      white-space: pre-wrap;
+      font-family: inherit;
+      line-height: 1.5;
+    }
 
     .empty-state, .loading {
       text-align: center;
@@ -338,13 +369,20 @@
                 : '',
             ].filter(Boolean).join('');
 
-            return `<div class="problem-card">
-              <div class="problem-summary">${esc(t.summary)}</div>
-              <div class="problem-meta">
-                <span class="badge ${statusBadgeClass(t.status)}">${esc(t.status)}</span>
-                ${links}
-              </div>
-            </div>`;
+            const descHtml = t.description
+              ? `<div class="problem-description">${esc(t.description)}</div>`
+              : '';
+            return `<details class="problem-card">
+              <summary>
+                <span class="card-chevron">▶</span>
+                <div class="problem-summary">${esc(t.summary)}</div>
+                <div class="problem-meta">
+                  <span class="badge ${statusBadgeClass(t.status)}">${esc(t.status)}</span>
+                  ${links}
+                </div>
+              </summary>
+              ${descHtml}
+            </details>`;
           }).join('');
 
           return `<details class="equipment-group" open>
