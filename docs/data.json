@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T02:19:33.536Z",
+  "updated": "2026-06-02T03:45:56.925Z",
   "tasks": [
     {
       "id": "86ahu341g",
@@ -84,18 +84,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779673349776409",
       "created": "2026-05-25T01:42:29.330Z"
-    },
-    {
-      "id": "86ahnnx3e",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Unknown Equipment",
-      "summary": "Faucet on Sink near the wheel",
-      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  \nSummary:  Faucet on Sink near the wheel\nAdditional Info:  Sink next to the wheels, the faucet is getting tough to turn off and keeps leaking\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779555101728869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779555101728869",
-      "created": "2026-05-23T16:51:39.530Z"
     },
     {
       "id": "86ahnn32d",
@@ -216,18 +204,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778724561327569",
       "created": "2026-05-14T02:09:19.051Z"
-    },
-    {
-      "id": "86ahdwt7y",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Glazing Area",
-      "summary": "Clear dipping glaze almost out",
-      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  Glazing Area\nSummary:  Clear dipping glaze almost out\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778540002925209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778540002925209",
-      "created": "2026-05-11T22:53:21.958Z"
     },
     {
       "id": "86ahdhf13",
