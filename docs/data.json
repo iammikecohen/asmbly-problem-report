@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-02T18:16:44.289Z",
+  "updated": "2026-06-02T19:45:17.348Z",
   "tasks": [
+    {
+      "id": "86ahvg39g",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "X-movement seems “sticky” via remote",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  X-movement seems “sticky” via remote\nAdditional Info:  Seems like intermittent connection via remote when commanding movement in X-direction.  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780424307860989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780424307860989",
+      "created": "2026-06-02T18:18:27.163Z"
+    },
     {
       "id": "86ahu341g",
       "workspace": "Woodshop",
