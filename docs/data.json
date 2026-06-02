@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T23:30:41.583Z",
+  "updated": "2026-06-02T00:09:35.692Z",
   "tasks": [
     {
       "id": "86ahu341g",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780256418330279",
       "created": "2026-05-31T19:40:17.434Z"
-    },
-    {
-      "id": "86ahtk1qh",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Infeed Roller is not engaging the wood.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Infeed Roller is not engaging the wood.\nAdditional Info:  I've Red Tagged it. The upper infeed roller needs to be adjusted. It will not engage the wood and pull the it through the cutters. I pulled the panel off it and cleaned out the wood chips and dust. It also is overdue for an oil change and whatever other maintenance is required. I do not know how to adjust the infeed rollers or who does so I'll need help.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780082928427239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780082928427239",
-      "created": "2026-05-29T19:28:47.875Z"
     },
     {
       "id": "86ahtge5x",
@@ -72,18 +60,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779907755310249",
       "created": "2026-05-27T18:49:14.015Z"
-    },
-    {
-      "id": "86ahp6m2c",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Folks taking more than one table?",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Folks taking more than one table?\nAdditional Info:  It might be worth sending out an email to remind folks to only use one bench. The last few times I’ve been in the shop I’ve needed to ask folks to combine their stuff on one bench. It feels like there are more than 6 people here right now, but I could be wrong. I do know that I’m having to split a bench with someone, because there were none available when I got here at my reserved time.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779724343512259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779724343512259",
-      "created": "2026-05-25T15:52:23.003Z"
     },
     {
       "id": "86ahny5hj",
@@ -194,30 +170,6 @@
       "created": "2026-05-18T19:23:28.293Z"
     },
     {
-      "id": "86ahh9n0n",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Dust boot broken",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Laguna Swift CNC 5x10\nSummary:  Dust boot broken\nAdditional Info:  I replaced the dust boot with a spare we had on hand.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778963475911939\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778963475911939",
-      "created": "2026-05-16T20:31:15.464Z"
-    },
-    {
-      "id": "86ahh87gk",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Chewed-up pushsticks",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Chewed-up pushsticks\nAdditional Info:  Could we get a few new push sticks for tablesaw?  Most of the ones presently on the shelf have their push heel chewed down to barely get a hold of a piece of wood.\n\nDiscourse Link: https://yo.asmbly.org/t/5-16-2026-1234-woodshop-table-saw-2-sawstop/15835\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778951021735819\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-16-2026-1234-woodshop-table-saw-2-sawstop/15835",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778951021735819",
-      "created": "2026-05-16T17:03:40.552Z"
-    },
-    {
       "id": "86ahh819f",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -228,18 +180,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778948771156439",
       "created": "2026-05-16T16:26:10.277Z"
-    },
-    {
-      "id": "86ahgwpny",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Spindle starts up then stops",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Spindle starts up then stops\nAdditional Info:  No mater what file I load (tried drill files, pocket files and gcode that was output from both vcarve and mozaik), the spindle starts up and then immediately stops. Tried restarting the machine. Maybe something wrong with the spindle mode?  Guy before me had no problems though\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778883979663219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778883979663219",
-      "created": "2026-05-15T22:26:19.093Z"
     },
     {
       "id": "86ahgvnpr",
@@ -276,18 +216,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778817017656639",
       "created": "2026-05-15T03:50:17.071Z"
-    },
-    {
-      "id": "86ahg1jkn",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Electric cord under switch",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Electric cord under switch\nAdditional Info:  The cord seems to be coming out/off, right under the switch. When I first tried turning the planer on today, it didn’t come on. Checked the wires, they got jostled, then the planer would come on. \n\nDiscourse Link: https://yo.asmbly.org/t/5-14-2026-1532-woodshop-planer-15-powermatic-15hh/15822\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778790159737989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-14-2026-1532-woodshop-planer-15-powermatic-15hh/15822",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778790159737989",
-      "created": "2026-05-14T20:22:38.727Z"
     },
     {
       "id": "86ahfmvt1",
@@ -360,30 +288,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778290007518869",
       "created": "2026-05-09T01:26:47.020Z"
-    },
-    {
-      "id": "86ahck4q4",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "Need spare 80-grit sanding belts.",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Need spare 80-grit sanding belts. \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/5-8-2026-1410-woodshop-belt-sander-large-36-powermatic/15794\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778268318321999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-8-2026-1410-woodshop-belt-sander-large-36-powermatic/15794",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778268318321999",
-      "created": "2026-05-08T19:25:15.898Z"
-    },
-    {
-      "id": "86ahck1nw",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Snipe",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Snipe\nAdditional Info:  Snipe. Piece are  22” long and 7 and 10” long. \n\nDiscourse Link: https://yo.asmbly.org/t/5-8-2026-1432-woodshop-planer-15-powermatic-15hh/15793\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778268160575409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-8-2026-1432-woodshop-planer-15-powermatic-15hh/15793",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778268160575409",
-      "created": "2026-05-08T19:22:39.183Z"
     },
     {
       "id": "86ahaf6x7",
