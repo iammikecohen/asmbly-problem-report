@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T12:51:35.786Z",
+  "updated": "2026-06-03T14:32:26.273Z",
   "tasks": [
     {
       "id": "86ahvxjgr",
@@ -422,30 +422,6 @@
       "created": "2026-04-19T18:43:21.998Z"
     },
     {
-      "id": "86agz476y",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Sawgrass Sublimation Printer",
-      "summary": "Printer out of ink",
-      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Sawgrass Sublimation Printer\nSummary:  Printer out of ink\nAdditional Info:  Hello,\n\nTo complete a few projects the sawgrass printer is out of magenta, and yellow ink\n\nIs it possible to get it soon?\n\nThanks,\nTim\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776524578619729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776524578619729",
-      "created": "2026-04-18T15:02:56.981Z"
-    },
-    {
-      "id": "86agw78fn",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Sawgrass Sublimation Printer",
-      "summary": "black ink streaks on page again",
-      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Sawgrass Sublimation Printer\nSummary:  black ink streaks on page again \nAdditional Info:  It was fixed for my first couple prints but the sublimation printer is leaving black ink streaks on sub paper again. Also, can’t bypass ‘replace ink’ notification on printer \n\nDiscourse Link: https://yo.asmbly.org/t/4-14-2026-1212-textiles-sawgrass-sublimation-printer/15655\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776186622363019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-14-2026-1212-textiles-sawgrass-sublimation-printer/15655",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776186622363019",
-      "created": "2026-04-14T17:10:20.722Z"
-    },
-    {
       "id": "86agvqmdx",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -456,18 +432,6 @@
       "discourse_url": "https://yo.asmbly.org/t/4-13-2026-1916-metal-shop-metal-lathe-grizzly/15652",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776127464207509",
       "created": "2026-04-14T00:44:23.157Z"
-    },
-    {
-      "id": "86aguj8f4",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Sawgrass Sublimation Printer",
-      "summary": "Sublimation printer leaving ink streaks",
-      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Sawgrass Sublimation Printer\nSummary:  Sublimation printer leaving ink streaks\nAdditional Info:  Sublimation printer is leaving streaks of black sublimation ink on the sublimation paper when the design contains black ink, didn’t do it on other non-black ink heavy prints.\n\n\nDiscourse Link: https://yo.asmbly.org/t/4-11-2026-1533-textiles-sawgrass-sublimation-printer/15641\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775938660554649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-11-2026-1533-textiles-sawgrass-sublimation-printer/15641",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775938660554649",
-      "created": "2026-04-11T20:17:39.502Z"
     },
     {
       "id": "86agu7z98",
