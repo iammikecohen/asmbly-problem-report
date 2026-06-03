@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-03T04:08:25.653Z",
+  "updated": "2026-06-03T05:55:00.478Z",
   "tasks": [
+    {
+      "id": "86ahvxjgr",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "The power on Tarkin is weaker.",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  The power on Tarkin is weaker.\nAdditional Info:  I noticed that the power settings for cutting and engraving that I usually use are not sufficient from what it did one week ago. I think something is wrong with the power settings for the machine, because it is not cutting as effectively as it should and the engravings are noticeably dimmer. If I could get Danny Miller to assist me in troubleshooting the machine that would be great.\n\nDiscourse Link: https://yo.asmbly.org/t/6-3-2026-000-lasers-tarkin/15953\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780464187290399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-3-2026-000-lasers-tarkin/15953",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780464187290399",
+      "created": "2026-06-03T05:23:06.317Z"
+    },
+    {
+      "id": "86ahvxhy2",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Other",
+      "summary": "We need more plywood.",
+      "description": "Problem Type: Supplies\nWorkspace:  Lasers\nAsset:  Other\nSummary:  We need more plywood.\nAdditional Info:  We’ve been out for more than a week and it’s been hard to find the exact match that we had\n\nDiscourse Link: https://yo.asmbly.org/t/6-3-2026-051-lasers-other/15952\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780463518798069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-3-2026-051-lasers-other/15952",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780463518798069",
+      "created": "2026-06-03T05:11:57.712Z"
+    },
     {
       "id": "86ahvvybh",
       "workspace": "Woodshop",
