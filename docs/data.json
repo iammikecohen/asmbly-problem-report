@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-03T02:40:08.407Z",
+  "updated": "2026-06-03T04:08:25.653Z",
   "tasks": [
+    {
+      "id": "86ahvvybh",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Unknown Equipment",
+      "summary": "Garage door opener not working",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  \nSummary:  Garage door opener not working\nAdditional Info:  After the outage the garage door opener isn’t working.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454922413749\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454922413749",
+      "created": "2026-06-03T02:48:41.906Z"
+    },
+    {
+      "id": "86ahvvy2z",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Copco Compressor / Shop Compressed Air",
+      "summary": "Off after power outage",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  Off after power outage\nAdditional Info:  Air not coming out of the nozzle by the garage door after the power outage \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454853139439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454853139439",
+      "created": "2026-06-03T02:47:31.945Z"
+    },
     {
       "id": "86ahvvvgu",
       "workspace": "3D Printing",
