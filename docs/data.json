@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T17:29:56.868Z",
+  "updated": "2026-06-04T18:21:46.613Z",
   "tasks": [
     {
       "id": "86ahwq3rk",
@@ -72,18 +72,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454853139439",
       "created": "2026-06-03T02:47:31.945Z"
-    },
-    {
-      "id": "86ahvvvgu",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Elegoo Resin Printer - Dione",
-      "summary": "resin spill under FEP / on screen",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Elegoo Resin Printer - Dione\nSummary:  resin spill under FEP / on screen\nAdditional Info:  After an aborted print I inexplicably decided to clean the tank. While doing so I jostled the funnel nozzle without noticing and spilled some resin. I then stupidly put the tank back on the screen to try to address the spill.\n\nWhen I returned to the tank, I tried to clean the screen and under the FEP thoroughly and gently.\n\nHowever it looked like at least one drop of resin went into the crack around the screen!\n\nSo sorry! I will probably never touch the resin stuff again, sheesh.\n\nDiscourse Link: https://yo.asmbly.org/t/6-2-2026-2133-3d-printing-elegoo-resin-printer-dione/15948\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454141045929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-2-2026-2133-3d-printing-elegoo-resin-printer-dione/15948",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780454141045929",
-      "created": "2026-06-03T02:35:39.638Z"
     },
     {
       "id": "86ahvufht",
