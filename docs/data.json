@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-04T12:39:40.563Z",
+  "updated": "2026-06-04T13:47:21.539Z",
   "tasks": [
+    {
+      "id": "86ahwn5ty",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Infeed and table",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Infeed and table\nAdditional Info:  infeed rollers need to be adjusted, they are out of alignment preventing proper feeding. The cast iron also needs a fresh coat of past wax.\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-815-woodshop-planer-15-powermatic-15hh/15959\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578981130969\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-815-woodshop-planer-15-powermatic-15hh/15959",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578981130969",
+      "created": "2026-06-04T13:16:20.237Z"
+    },
+    {
+      "id": "86ahwn3b9",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Floor Sweep",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Floor Sweep\nAdditional Info:  Floor sweep near drill press has no draw even with almost all blast gate closed. May be clogged?\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-833-woodshop-felder-rl-350-main-shop-dust-collector/15958\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578759728279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-833-woodshop-felder-rl-350-main-shop-dust-collector/15958",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578759728279",
+      "created": "2026-06-04T13:12:38.722Z"
+    },
+    {
+      "id": "86ahwn2a2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "no power",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  no power\nAdditional Info:  no power once again during WSS\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578640548399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578640548399",
+      "created": "2026-06-04T13:10:40.105Z"
+    },
     {
       "id": "86ahvxjgr",
       "workspace": "Lasers",
