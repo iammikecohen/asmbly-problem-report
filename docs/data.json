@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-04T21:01:42.060Z",
+  "updated": "2026-06-04T21:50:18.603Z",
   "tasks": [
+    {
+      "id": "86ahwycp0",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "z axis issue",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  z axis issue\nAdditional Info:  i have tried to calibrate x, y, and z axis but the filament isn't sticking to the bed\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-1626-3d-printing-prusa-mk3s-hermes/15963\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780609354229779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-1626-3d-printing-prusa-mk3s-hermes/15963",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780609354229779",
+      "created": "2026-06-04T21:42:32.858Z"
+    },
     {
       "id": "86ahwq3rk",
       "workspace": "Woodshop",
