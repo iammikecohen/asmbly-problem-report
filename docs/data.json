@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-05T15:42:53.598Z",
+  "updated": "2026-06-05T16:37:27.456Z",
   "tasks": [
+    {
+      "id": "86ahx94kq",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Chantico",
+      "summary": "Hot end cooling fan error",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Chantico\nSummary:  Hot end cooling fan error \nAdditional Info:  My print failed and the poop chute was full.  But now it is sending this error \n\nDiscourse Link: https://yo.asmbly.org/t/6-5-2026-1108-3d-printing-bambulabs-p1s-chantico/15969\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780675577597729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-5-2026-1108-3d-printing-bambulabs-p1s-chantico/15969",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780675577597729",
+      "created": "2026-06-05T16:06:16.346Z"
+    },
     {
       "id": "86ahx1n5c",
       "workspace": "Uncategorized",
