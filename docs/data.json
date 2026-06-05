@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T17:26:15.172Z",
+  "updated": "2026-06-05T18:09:45.426Z",
   "tasks": [
     {
       "id": "86ahx94kq",
@@ -48,18 +48,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-4-2026-815-woodshop-planer-15-powermatic-15hh/15959",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578981130969",
       "created": "2026-06-04T13:16:20.237Z"
-    },
-    {
-      "id": "86ahwn3b9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Floor Sweep",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Floor Sweep\nAdditional Info:  Floor sweep near drill press has no draw even with almost all blast gate closed. May be clogged?\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-833-woodshop-felder-rl-350-main-shop-dust-collector/15958\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578759728279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-833-woodshop-felder-rl-350-main-shop-dust-collector/15958",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578759728279",
-      "created": "2026-06-04T13:12:38.722Z"
     },
     {
       "id": "86ahvxjgr",
