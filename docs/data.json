@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-06T13:31:18.699Z",
+  "updated": "2026-06-06T14:18:53.485Z",
   "tasks": [
+    {
+      "id": "86ahxn4w9",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Battery on scale low",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  \nSummary:  Battery on scale low \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780754750429239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780754750429239",
+      "created": "2026-06-06T14:05:49.966Z"
+    },
     {
       "id": "86ahxmb18",
       "workspace": "3D Printing",
