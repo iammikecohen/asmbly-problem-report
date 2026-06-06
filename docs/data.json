@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-06T20:49:24.602Z",
+  "updated": "2026-06-06T21:22:16.175Z",
   "tasks": [
+    {
+      "id": "86ahxpz8n",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Indoor entrance does not shut properly",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  \nSummary:  Indoor entrance does not shut properly\nAdditional Info:   One of the doors needs to be pushed/pulled to close properly. Otherwise, it doesn't lock properly.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780779660513949\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780779660513949",
+      "created": "2026-06-06T21:01:00.049Z"
+    },
     {
       "id": "86ahxpy5c",
       "workspace": "Textiles",
