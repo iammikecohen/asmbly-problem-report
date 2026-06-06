@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-06T20:24:10.169Z",
+  "updated": "2026-06-06T20:49:24.602Z",
   "tasks": [
+    {
+      "id": "86ahxpy5c",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Leather Tools",
+      "summary": "Mallet handle splitting.",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Leather Tools\nSummary:  Mallet handle splitting. \nAdditional Info:  Round headed mallet handle shows multiple splits & needs replaced. See photo in comments \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780778818992229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780778818992229",
+      "created": "2026-06-06T20:46:58.555Z"
+    },
     {
       "id": "86ahxn4w9",
       "workspace": "Ceramics",
