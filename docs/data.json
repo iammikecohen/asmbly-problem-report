@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T19:11:53.210Z",
+  "updated": "2026-06-06T19:47:25.180Z",
   "tasks": [
     {
       "id": "86ahxn4w9",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780732056223929",
       "created": "2026-06-06T07:47:35.694Z"
-    },
-    {
-      "id": "86ahx1n5c",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Cold Saw - Baleigh CS-350",
-      "summary": "Blade dull, not cutting cleanly",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Cold Saw - Baleigh CS-350\nSummary:  Blade dull, not cutting cleanly\nAdditional Info:  Saw required a lot of force to keep teeth engaged, plowing thru the cut. See pic\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-2125-metal-shop-cold-saw-baleigh-cs-350/15964\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780628193142439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-2125-metal-shop-cold-saw-baleigh-cs-350/15964",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780628193142439",
-      "created": "2026-06-05T02:56:31.976Z"
     },
     {
       "id": "86ahwq3rk",
