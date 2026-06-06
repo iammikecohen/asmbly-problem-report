@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-06T22:22:17.312Z",
+  "updated": "2026-06-06T22:48:36.952Z",
   "tasks": [
+    {
+      "id": "86ahxq6cc",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Hanuman",
+      "summary": "Bed leveling error",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Hanuman\nSummary:  Bed leveling error\nAdditional Info:  I kept getting a bed leveling error.  I didn’t have any time to debug it.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780784631039449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780784631039449",
+      "created": "2026-06-06T22:23:50.624Z"
+    },
     {
       "id": "86ahxpz8n",
       "workspace": "Ceramics",
