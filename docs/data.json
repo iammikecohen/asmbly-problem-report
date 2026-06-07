@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T20:08:33.842Z",
+  "updated": "2026-06-07T20:41:13.061Z",
   "tasks": [
+    {
+      "id": "86ahxuh8t",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "ams not feeding filament to print head",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  ams not feeding filament to print head\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780864551700479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780864551700479",
+      "created": "2026-06-07T20:35:51.122Z"
+    },
     {
       "id": "86ahxu9uf",
       "workspace": "3D Printing",
