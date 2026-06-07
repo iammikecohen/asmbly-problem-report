@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T22:37:51.084Z",
+  "updated": "2026-06-07T23:07:42.825Z",
   "tasks": [
+    {
+      "id": "86ahxuzw2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "Yellow tag re L-R level adjustment",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Yellow tag re L-R level adjustment\nAdditional Info:  This machine has been wearing a yellow tag for weeks saying “Needs recalibration it isn’t level left to right.”  If this is within normal tolerances, shall we close with a note indicating that?\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1759-woodshop-belt-sander-large-36-powermatic/15995\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780872186600849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1759-woodshop-belt-sander-large-36-powermatic/15995",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780872186600849",
+      "created": "2026-06-07T22:43:05.696Z"
+    },
     {
       "id": "86ahxunj6",
       "workspace": "3D Printing",
