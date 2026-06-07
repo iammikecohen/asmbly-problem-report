@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T11:23:52.379Z",
+  "updated": "2026-06-07T12:04:17.997Z",
   "tasks": [
+    {
+      "id": "86ahxrzur",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Chantico",
+      "summary": "Constipation-poop shoot keeps clogging",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Chantico\nSummary:  Constipation-poop shoot keeps clogging\nAdditional Info:  When printing it clogs and can causes print failures (cleaned currently)\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-632-3d-printing-bambulabs-p1s-chantico/15981\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780833459579959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-632-3d-printing-bambulabs-p1s-chantico/15981",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780833459579959",
+      "created": "2026-06-07T11:57:38.553Z"
+    },
     {
       "id": "86ahxqryq",
       "workspace": "3D Printing",
