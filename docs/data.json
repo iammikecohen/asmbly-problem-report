@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T14:25:20.585Z",
+  "updated": "2026-06-07T15:04:31.942Z",
   "tasks": [
+    {
+      "id": "86ahxte6r",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "Black power strip resetting quickly",
+      "description": "Problem Type: Facilities\nWorkspace:  Textiles\nAsset:  \nSummary:  Black power strip resetting quickly\nAdditional Info:  Used mug press was fine- when trying to use larger heat presses, black power strip turns off/resets after 25 seconds.  \n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1046-textiles/15982\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780844634995849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1046-textiles/15982",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780844634995849",
+      "created": "2026-06-07T15:03:53.809Z"
+    },
     {
       "id": "86ahxrzur",
       "workspace": "3D Printing",
