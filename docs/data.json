@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T01:32:49.002Z",
+  "updated": "2026-06-07T02:39:29.968Z",
   "tasks": [
+    {
+      "id": "86ahxqryq",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Hanuman",
+      "summary": "Z homing issue",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Hanuman\nSummary:  Z homing issue \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/6-6-2026-2013-3d-printing-bambulabs-p1s-hanuman/15978\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780797201228099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-6-2026-2013-3d-printing-bambulabs-p1s-hanuman/15978",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780797201228099",
+      "created": "2026-06-07T01:53:20.304Z"
+    },
     {
       "id": "86ahxq6cc",
       "workspace": "3D Printing",
@@ -866,18 +878,6 @@
       "created": "2025-12-09T22:29:07.294Z"
     },
     {
-      "id": "86adrjrwt",
-      "workspace": "Metal-Shop",
-      "workspace_slug": "metal-shop",
-      "equipment": "Other",
-      "summary": "Low acetone in dispenser.",
-      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Low acetone in dispenser.\nAdditional Info:  Takes several pumps to wet a paper towel, container feels light.\n\nDiscourse Link: https://yo.asmbly.org/t/12-5-2025-2102-metal-shop-other/14794\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1764990910205049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/12-5-2025-2102-metal-shop-other/14794",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1764990910205049",
-      "created": "2025-12-06T03:15:08.962Z"
-    },
-    {
       "id": "86ad7chny",
       "workspace": "Textiles",
       "workspace_slug": "textiles",
@@ -888,18 +888,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1762996877053399",
       "created": "2025-11-13T01:21:11.312Z"
-    },
-    {
-      "id": "86ad6f1y2",
-      "workspace": "Metal-Shop",
-      "workspace_slug": "metal-shop",
-      "equipment": "MIG/TIG Miller Multimatic 220 #2",
-      "summary": "Ground clamp burned off",
-      "description": "Issue type: Equipment Problem\nArea:  Metal Shop\nEquipment:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Ground clamp burned off\nAdditional Info:  Get a good quality ground clamp\n\nDiscourse Link: https://yo.asmbly.org/t/11-11-25-06-49pm-metal-shop-mig-tig-miller-multimatic-220-2/14588/1\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1762908595063349\n\nReport generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked.",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-11-25-06-49pm-metal-shop-mig-tig-miller-multimatic-220-2/14588/1",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1762908595063349",
-      "created": "2025-11-12T00:49:49.439Z"
     },
     {
       "id": "86aczbweg",
