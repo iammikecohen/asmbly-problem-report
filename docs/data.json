@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T21:09:42.360Z",
+  "updated": "2026-06-07T21:40:50.671Z",
   "tasks": [
+    {
+      "id": "86ahxunj6",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Athena",
+      "summary": "Hotend fan speed 0300-0300-0002-0002",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Hotend fan speed 0300-0300-0002-0002\nAdditional Info:  Hotend fan doesn't seem to be fanning\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769",
+      "created": "2026-06-07T21:14:10.666Z"
+    },
     {
       "id": "86ahxuh8t",
       "workspace": "3D Printing",
