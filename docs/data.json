@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T19:30:48.615Z",
+  "updated": "2026-06-07T20:08:33.842Z",
   "tasks": [
+    {
+      "id": "86ahxu9uf",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Extruder 3 reports no movement",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Extruder 3 reports no movement\nAdditional Info:  No apparent cause, but I've tagged the extruder until I have time to troubleshoot.\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1413-3d-printing-prusa-xl/15988\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780860741812949\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1413-3d-printing-prusa-xl/15988",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780860741812949",
+      "created": "2026-06-07T19:32:19.657Z"
+    },
     {
       "id": "86ahxtj5a",
       "workspace": "Woodshop",
