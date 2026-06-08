@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T15:25:19.892Z",
+  "updated": "2026-06-08T16:46:34.912Z",
   "tasks": [
     {
       "id": "86ahxzcgf",
@@ -20,22 +20,10 @@
       "equipment": "BambuLabs P1S - Athena",
       "summary": "Hotend fan speed 0300-0300-0002-0002",
       "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Hotend fan speed 0300-0300-0002-0002\nAdditional Info:  Hotend fan doesn't seem to be fanning\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "parts ordered",
       "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769",
       "created": "2026-06-07T21:14:10.666Z"
-    },
-    {
-      "id": "86ahxuh8t",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Bastet",
-      "summary": "ams not feeding filament to print head",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  ams not feeding filament to print head\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780864551700479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780864551700479",
-      "created": "2026-06-07T20:35:51.122Z"
     },
     {
       "id": "86ahxu9uf",
@@ -156,18 +144,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780586213586929",
       "created": "2026-06-04T15:16:53.128Z"
-    },
-    {
-      "id": "86ahwn5ty",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Infeed and table",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Infeed and table\nAdditional Info:  infeed rollers need to be adjusted, they are out of alignment preventing proper feeding. The cast iron also needs a fresh coat of past wax.\n\nDiscourse Link: https://yo.asmbly.org/t/6-4-2026-815-woodshop-planer-15-powermatic-15hh/15959\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578981130969\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-4-2026-815-woodshop-planer-15-powermatic-15hh/15959",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780578981130969",
-      "created": "2026-06-04T13:16:20.237Z"
     },
     {
       "id": "86ahvxjgr",
@@ -504,18 +480,6 @@
       "discourse_url": "https://yo.asmbly.org/t/4-23-2026-1503-3d-printing-prusa-xl/15704",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776975971166179",
       "created": "2026-04-23T20:26:09.875Z"
-    },
-    {
-      "id": "86agzb587",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Blade and blade guard",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Blade and blade guard \nAdditional Info:  Blade guard stuck and Blade is dull \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776625526923209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776625526923209",
-      "created": "2026-04-19T19:05:25.799Z"
     },
     {
       "id": "86agzb28b",
