@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-08T12:30:52.240Z",
+  "updated": "2026-06-08T14:08:24.415Z",
   "tasks": [
     {
-      "id": "86ahxuzw2",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "Yellow tag re L-R level adjustment",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Yellow tag re L-R level adjustment\nAdditional Info:  This machine has been wearing a yellow tag for weeks saying “Needs recalibration it isn’t level left to right.”  If this is within normal tolerances, shall we close with a note indicating that?\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1759-woodshop-belt-sander-large-36-powermatic/15995\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780872186600849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "id": "86ahxzcgf",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Need trash bags for big grey can",
+      "description": "Problem Type: Supplies\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Need trash bags for big grey can\nAdditional Info:  Box ran out yesterday but not sure where extra is  storee\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780922327420099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
       "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1759-woodshop-belt-sander-large-36-powermatic/15995",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780872186600849",
-      "created": "2026-06-07T22:43:05.696Z"
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780922327420099",
+      "created": "2026-06-08T12:38:46.395Z"
     },
     {
       "id": "86ahxunj6",
@@ -396,18 +396,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778880318227269",
       "created": "2026-05-15T21:25:17.404Z"
-    },
-    {
-      "id": "86ahg89tv",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Grit Locked",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Grit Locked\nAdditional Info:  Grit locked up most equipment in the shop. Everything that can be bypassed has been bypassed and the DC is overridden on. The grit plug boxes are left next to each machine.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778817017656639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778817017656639",
-      "created": "2026-05-15T03:50:17.071Z"
     },
     {
       "id": "86ahfmvt1",
