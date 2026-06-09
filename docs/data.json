@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-09T17:10:34.905Z",
+  "updated": "2026-06-09T17:55:15.220Z",
   "tasks": [
+    {
+      "id": "86ahz0w3p",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Other",
+      "summary": "Lobby Calendar Frozen",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Lobby Calendar Frozen\nAdditional Info:  The calendar in the lobby seems to be stuck on April 11th. It'd be nice to update it to June!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169",
+      "created": "2026-06-09T17:36:26.324Z"
+    },
     {
       "id": "86ahyzdyn",
       "workspace": "3D Printing",
