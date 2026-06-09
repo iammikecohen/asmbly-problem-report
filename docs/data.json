@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-09T16:14:05.060Z",
+  "updated": "2026-06-09T17:10:34.905Z",
   "tasks": [
+    {
+      "id": "86ahyzdyn",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Zephyrus",
+      "summary": "Possible nozzle clog",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  Possible nozzle clog\nAdditional Info:  3rd print of day could not get it to print 1st layer\n\nDiscourse Link: https://yo.asmbly.org/t/6-9-2026-1143-3d-printing-bambulabs-p1s-zephyrus/16004\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781024270838649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-9-2026-1143-3d-printing-bambulabs-p1s-zephyrus/16004",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781024270838649",
+      "created": "2026-06-09T16:57:49.889Z"
+    },
     {
       "id": "86ahyat18",
       "workspace": "Bathrooms",
