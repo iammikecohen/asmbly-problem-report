@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-09T18:42:16.638Z",
+  "updated": "2026-06-09T19:30:54.985Z",
   "tasks": [
+    {
+      "id": "86ahz605m",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Loose USB on controller/remote",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Loose USB on controller/remote\nAdditional Info:  The other day when I was using the CNC I had trouble getting the remote to recognize the USB I had inserted. It turned into a headphones inside a broken cd player situation. Trying to wiggle the USB into just the right spot so that it would read. I eventually turned it off and then back on again. It worked after that.\n\nDiscourse Link: https://yo.asmbly.org/t/6-9-2026-1456-woodshop-laguna-small-cnc/16006\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781033103683109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-9-2026-1456-woodshop-laguna-small-cnc/16006",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781033103683109",
+      "created": "2026-06-09T19:25:02.345Z"
+    },
+    {
+      "id": "86ahz5waj",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Need more fiber nails",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Need more fiber nails\nAdditional Info:  Need to order more fiber nails. Almost out.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781032958101869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781032958101869",
+      "created": "2026-06-09T19:22:37.099Z"
+    },
     {
       "id": "86ahz0w3p",
       "workspace": "Lobby",
