@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-10T02:18:45.747Z",
+  "updated": "2026-06-10T03:45:27.015Z",
   "tasks": [
+    {
+      "id": "86ahzd5fa",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Painters tape has run out",
+      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  \nSummary:  Painters tape has run out\nAdditional Info:  I luv painters tape for clean glazing \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781058404003729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781058404003729",
+      "created": "2026-06-10T02:26:43.526Z"
+    },
     {
       "id": "86ahz605m",
       "workspace": "Woodshop",
