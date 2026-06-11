@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T15:09:53.887Z",
+  "updated": "2026-06-11T16:37:38.049Z",
   "tasks": [
     {
       "id": "86ahzze3m",
@@ -84,18 +84,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780943203984289",
       "created": "2026-06-08T18:26:43.271Z"
-    },
-    {
-      "id": "86ahxzcgf",
-      "workspace": "Multi-Purpose Room",
-      "workspace_slug": "multi-purpose-room",
-      "equipment": "Other",
-      "summary": "Need trash bags for big grey can",
-      "description": "Problem Type: Supplies\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Need trash bags for big grey can\nAdditional Info:  Box ran out yesterday but not sure where extra is  storee\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780922327420099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780922327420099",
-      "created": "2026-06-08T12:38:46.395Z"
     },
     {
       "id": "86ahxtj5a",
