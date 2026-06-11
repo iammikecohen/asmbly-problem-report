@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T02:39:47.421Z",
+  "updated": "2026-06-11T04:07:50.675Z",
   "tasks": [
     {
       "id": "86ahzze3m",
@@ -108,18 +108,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780922327420099",
       "created": "2026-06-08T12:38:46.395Z"
-    },
-    {
-      "id": "86ahxunj6",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Athena",
-      "summary": "Hotend fan speed 0300-0300-0002-0002",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Hotend fan speed 0300-0300-0002-0002\nAdditional Info:  Hotend fan doesn't seem to be fanning\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1604-3d-printing-bambulabs-p1s-athena/15991",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780866851613769",
-      "created": "2026-06-07T21:14:10.666Z"
     },
     {
       "id": "86ahxtj5a",
@@ -372,18 +360,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779685589897769",
       "created": "2026-05-25T05:06:29.353Z"
-    },
-    {
-      "id": "86ahnx65m",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Athena",
-      "summary": "Front housing of printer pulled off",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Front housing of printer pulled off\nAdditional Info:  Printer piece got stuck on a previous users print and pulled itself off when trying to unload the print\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779673349776409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779673349776409",
-      "created": "2026-05-25T01:42:29.330Z"
     },
     {
       "id": "86ahnkraa",
