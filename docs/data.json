@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T04:07:50.675Z",
+  "updated": "2026-06-11T05:52:20.752Z",
   "tasks": [
     {
       "id": "86ahzze3m",
@@ -72,18 +72,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169",
       "created": "2026-06-09T17:36:26.324Z"
-    },
-    {
-      "id": "86ahyzdyn",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Zephyrus",
-      "summary": "Possible nozzle clog",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  Possible nozzle clog\nAdditional Info:  3rd print of day could not get it to print 1st layer\n\nDiscourse Link: https://yo.asmbly.org/t/6-9-2026-1143-3d-printing-bambulabs-p1s-zephyrus/16004\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781024270838649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-9-2026-1143-3d-printing-bambulabs-p1s-zephyrus/16004",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781024270838649",
-      "created": "2026-06-09T16:57:49.889Z"
     },
     {
       "id": "86ahyat18",
@@ -192,18 +180,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780754750429239",
       "created": "2026-06-06T14:05:49.966Z"
-    },
-    {
-      "id": "86ahxmb18",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "Print layers were peeling up",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Print layers were peeling up\nAdditional Info:  Might be a z height issue \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780732056223929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780732056223929",
-      "created": "2026-06-06T07:47:35.694Z"
     },
     {
       "id": "86ahwq3rk",
