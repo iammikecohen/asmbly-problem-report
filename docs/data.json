@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-13T17:45:38.156Z",
+  "updated": "2026-06-13T18:27:12.362Z",
   "tasks": [
+    {
+      "id": "86aj1caq8",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "Bastet AMS slot with red LED.",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Bastet AMS slot with red LED.\nAdditional Info:  I walked up to print on Bastet and found one of the slots of the AMS has a red light indicator on and the feeding screen is stuck on Load. I did not try printing with the machine in this state. Tried hitting Retry on the Load screen with no filament in the AMS in an attempt to unstuck the machine but that did not resolve the issue.\n\nDiscourse Link: https://yo.asmbly.org/t/6-13-2026-1346-3d-printing-bambulabs-p1s-bastet/16029\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781374974346169\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-13-2026-1346-3d-printing-bambulabs-p1s-bastet/16029",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781374974346169",
+      "created": "2026-06-13T18:22:53.073Z"
+    },
     {
       "id": "86aj1abpg",
       "workspace": "3D Printing",
