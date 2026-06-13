@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-13T20:10:24.254Z",
+  "updated": "2026-06-13T20:42:57.973Z",
   "tasks": [
+    {
+      "id": "86aj1d006",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Tormach PCNC 1100",
+      "summary": "Tormach is making a sound",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Tormach PCNC 1100\nSummary:  Tormach is making a sound\nAdditional Info:  I’ve been using the cnc pretty frequently over the last month, all making conservative cuts to T651 aluminum. Today it seems to be making a sound like it’s being pushed too hard even when feed rate is set to no higher than 4-6% at 1mm depth. I’ve made plenty of these facing operations before and haven’t heard this sound. I don’t know if it’s low on oil or another issue but I wanted to flag it to have it looked over before something happens. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781382020179409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781382020179409",
+      "created": "2026-06-13T20:20:19.771Z"
+    },
     {
       "id": "86aj1ck95",
       "workspace": "Woodshop",
