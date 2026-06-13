@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-13T12:50:09.072Z",
+  "updated": "2026-06-13T13:32:36.210Z",
   "tasks": [
+    {
+      "id": "86aj1abpg",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Filament stuck can’t load other nozzles",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Filament stuck can’t load other nozzles\nAdditional Info:  Tried purging and reloading and unloading\n\nDiscourse Link: https://yo.asmbly.org/t/6-13-2026-818-3d-printing-prusa-xl/16023\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781356045696589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-13-2026-818-3d-printing-prusa-xl/16023",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781356045696589",
+      "created": "2026-06-13T13:07:24.657Z"
+    },
     {
       "id": "86aj16x2n",
       "workspace": "General Areas",
