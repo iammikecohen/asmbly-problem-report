@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-14T21:45:31.493Z",
+  "updated": "2026-06-14T22:14:55.061Z",
   "tasks": [
+    {
+      "id": "86aj1pum4",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "no blade",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  no blade\nAdditional Info:  blade is gone\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475252336339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475252336339",
+      "created": "2026-06-14T22:14:11.772Z"
+    },
+    {
+      "id": "86aj1puf5",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "fence",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  fence\nAdditional Info:  fence is out of alignment. left fence plate sitting lower than right fence plate causing fence to not be square to table.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475208617489\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475208617489",
+      "created": "2026-06-14T22:13:27.353Z"
+    },
+    {
+      "id": "86aj1pqgn",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Ground wire fraying. Argon bottle low.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Ground wire fraying. Argon bottle low.\nAdditional Info:  A ferrule over the end of the cable might be a good idea, especially the ground clamp uses a screw terminal.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781474617578259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781474617578259",
+      "created": "2026-06-14T22:03:37.033Z"
+    },
     {
       "id": "86aj1p8b9",
       "workspace": "Uncategorized",
