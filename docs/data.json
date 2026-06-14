@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-14T17:09:47.574Z",
+  "updated": "2026-06-14T17:46:18.930Z",
   "tasks": [
+    {
+      "id": "86aj1ncr7",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "Z-leveling - Red Tag on Skedda",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Z-leveling - Red Tag on Skedda\nAdditional Info:  Hey there, I booked this printer today, but when I came in to use it, there was a red tag that says z-leveling error. I think this probably needs to be conveyed on Skedda? Would be super helpful for me and other users to know if it's unusable before we book it. Thanks!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781458707532649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781458707532649",
+      "created": "2026-06-14T17:38:26.975Z"
+    },
     {
       "id": "86aj1n5zm",
       "workspace": "Ceramics",
