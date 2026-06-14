@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-14T16:31:02.828Z",
+  "updated": "2026-06-14T17:09:47.574Z",
   "tasks": [
+    {
+      "id": "86aj1n5zm",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Worktable & drying  shelf left dirty",
+      "description": "Problem Type: Cleaning\nWorkspace:  Ceramics\nAsset:  \nSummary:  Worktable & drying  shelf left dirty\nAdditional Info:  Was found dirty saturday morning \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781454938658069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781454938658069",
+      "created": "2026-06-14T16:35:38.017Z"
+    },
     {
       "id": "86aj1f298",
       "workspace": "Woodshop",
