@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-14T22:14:55.061Z",
+  "updated": "2026-06-14T22:43:38.859Z",
   "tasks": [
+    {
+      "id": "86aj1puru",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 2 - Grizzly",
+      "summary": "blade is slipping",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  blade is slipping\nAdditional Info:  blade is slipping off of tire\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475290846169\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475290846169",
+      "created": "2026-06-14T22:14:50.066Z"
+    },
     {
       "id": "86aj1pum4",
       "workspace": "Woodshop",
