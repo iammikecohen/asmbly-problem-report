@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-16T12:01:33.248Z",
+  "updated": "2026-06-16T14:07:49.337Z",
   "tasks": [
-    {
-      "id": "86aj2f823",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Bin left completely full",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Bin left completely full\nAdditional Info:  Jointer bin left ¼ full; planer’s totally full.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781568670913549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781568670913549",
-      "created": "2026-06-16T00:11:10.297Z"
-    },
     {
       "id": "86aj1puru",
       "workspace": "Woodshop",
@@ -24,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475290846169",
       "created": "2026-06-14T22:14:50.066Z"
-    },
-    {
-      "id": "86aj1pum4",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "no blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  no blade\nAdditional Info:  blade is gone\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475252336339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781475252336339",
-      "created": "2026-06-14T22:14:11.772Z"
     },
     {
       "id": "86aj1pqgn",
@@ -72,18 +48,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781454938658069",
       "created": "2026-06-14T16:35:38.017Z"
-    },
-    {
-      "id": "86aj1f298",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "No blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  No blade\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/6-13-2026-2113-woodshop-14-bandsaw-1-grizzly/16032\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781403741049879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-13-2026-2113-woodshop-14-bandsaw-1-grizzly/16032",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781403741049879",
-      "created": "2026-06-14T02:22:19.917Z"
     },
     {
       "id": "86aj1d3aa",
