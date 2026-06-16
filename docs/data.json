@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-15T23:54:15.159Z",
+  "updated": "2026-06-16T00:43:17.775Z",
   "tasks": [
+    {
+      "id": "86aj2f823",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Bin left completely full",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Bin left completely full\nAdditional Info:  Jointer bin left ¼ full; planer’s totally full.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781568670913549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781568670913549",
+      "created": "2026-06-16T00:11:10.297Z"
+    },
     {
       "id": "86aj1puru",
       "workspace": "Woodshop",
