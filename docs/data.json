@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T14:07:49.337Z",
+  "updated": "2026-06-16T15:53:46.963Z",
   "tasks": [
     {
       "id": "86aj1puru",
@@ -72,18 +72,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781382020179409",
       "created": "2026-06-13T20:20:19.771Z"
-    },
-    {
-      "id": "86aj1ck95",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade snapped",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade snapped\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781378050270549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781378050270549",
-      "created": "2026-06-13T19:14:09.714Z"
     },
     {
       "id": "86aj1abpg",
@@ -408,18 +396,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779685589897769",
       "created": "2026-05-25T05:06:29.353Z"
-    },
-    {
-      "id": "86ahnkraa",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Activated saw stop.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Activated saw stop. \nAdditional Info:  Was cutting a piece of plywood that had a shiny layer I thought was plastic, but it must’ve been aluminum because it activated the saw stop\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779510494480589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779510494480589",
-      "created": "2026-05-23T04:28:13.978Z"
     },
     {
       "id": "86ahnhxt7",
