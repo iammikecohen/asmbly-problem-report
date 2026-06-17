@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-17T00:09:42.774Z",
+  "updated": "2026-06-17T01:29:28.446Z",
   "tasks": [
+    {
+      "id": "86aj3a57y",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Trinco 300 Abrasive Blaster",
+      "summary": "No air flow",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Trinco 300 Abrasive Blaster\nSummary:  No air flow \nAdditional Info:  Hi Guys - came in for a second try on the media blaster. Now there is no air flow through the gun. Vacuum comes on and gauge shows air pressure. Any troubleshooting guide? Would like to finish my parts today if possible.\n\nDiscourse Link: https://yo.asmbly.org/t/6-16-2026-1955-metal-shop-trinco-300-abrasive-blaster/16050\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781656804006019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-16-2026-1955-metal-shop-trinco-300-abrasive-blaster/16050",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781656804006019",
+      "created": "2026-06-17T00:40:02.001Z"
+    },
     {
       "id": "86aj34f6q",
       "workspace": "Woodshop",
