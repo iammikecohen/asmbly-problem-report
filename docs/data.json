@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-17T19:30:40.416Z",
+  "updated": "2026-06-17T20:30:44.302Z",
   "tasks": [
+    {
+      "id": "86aj3w8gy",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Mill - Precision Matthews 1054-TV",
+      "summary": "X-axis power feed not working correctly",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Mill - Precision Matthews 1054-TV\nSummary:  X-axis power feed not working correctly\nAdditional Info:  The x-axis power feed would sometimes not engage.  If it left it on, and then manually started feeeding a bit, it would eventually enage and take over.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781727091708149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781727091708149",
+      "created": "2026-06-17T20:11:31.105Z"
+    },
     {
       "id": "86aj3gqm1",
       "workspace": "Woodshop",
