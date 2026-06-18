@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-18T13:28:26.156Z",
+  "updated": "2026-06-18T14:32:28.193Z",
   "tasks": [
+    {
+      "id": "86aj47ten",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "WB sander suddenly powered down",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  WB sander suddenly powered down\nAdditional Info:  I'm aware the sander is out-of-plane, but this appeared to be a sudden powering off\n\nDiscourse Link: https://yo.asmbly.org/t/6-18-2026-932-woodshop-belt-sander-large-36-powermatic/16060\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781792740646129\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-18-2026-932-woodshop-belt-sander-large-36-powermatic/16060",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781792740646129",
+      "created": "2026-06-18T14:25:39.564Z"
+    },
     {
       "id": "86aj3w8gy",
       "workspace": "Uncategorized",
