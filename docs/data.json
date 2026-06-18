@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-18T14:32:28.193Z",
+  "updated": "2026-06-18T15:56:43.991Z",
   "tasks": [
+    {
+      "id": "86aj49kzk",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Glaze is low",
+      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  \nSummary:  Glaze is low\nAdditional Info:  Floating blue & stone denim glazes have about an inch left, can’t dip \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781795160088309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "in progress",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781795160088309",
+      "created": "2026-06-18T15:05:58.920Z"
+    },
     {
       "id": "86aj47ten",
       "workspace": "Woodshop",
