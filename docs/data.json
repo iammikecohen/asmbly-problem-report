@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T18:07:55.032Z",
+  "updated": "2026-06-19T18:53:23.134Z",
   "tasks": [
     {
       "id": "86aj4xdqe",
@@ -252,18 +252,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169",
       "created": "2026-06-09T17:36:26.324Z"
-    },
-    {
-      "id": "86ahyat18",
-      "workspace": "Bathrooms",
-      "workspace_slug": "bathrooms",
-      "equipment": "Unknown Equipment",
-      "summary": "Ceramics bathroom sink drains very slow",
-      "description": "Problem Type: Facilities\nWorkspace:  Bathrooms\nAsset:  \nSummary:  Ceramics bathroom sink drains very slow\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780943203984289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780943203984289",
-      "created": "2026-06-08T18:26:43.271Z"
     },
     {
       "id": "86ahxte6r",
