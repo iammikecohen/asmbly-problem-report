@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T16:22:28.506Z",
+  "updated": "2026-06-19T17:16:17.471Z",
   "tasks": [
     {
       "id": "86aj4xdqe",
@@ -840,18 +840,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771371053976969",
       "created": "2026-02-17T23:30:53.286Z"
-    },
-    {
-      "id": "86afg3uve",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "Filament sensor is broken",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Filament sensor is broken\nAdditional Info:  If the filament sensor is enabled, the printer constantly asks the user to unload and reload.\n\nDiscourse Link: https://yo.asmbly.org/t/2-17-2026-1356-3d-printing-prusa-mk3s-hermes/15341\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771357083848289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/2-17-2026-1356-3d-printing-prusa-mk3s-hermes/15341",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771357083848289",
-      "created": "2026-02-17T19:38:02.709Z"
     },
     {
       "id": "86afbknj2",
