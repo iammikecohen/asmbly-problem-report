@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-20T01:29:20.002Z",
+  "updated": "2026-06-20T02:26:12.549Z",
   "tasks": [
+    {
+      "id": "86aj576vc",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "Cutting seems a bit more difficult",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Cutting seems a bit more difficult \nAdditional Info:  The user before me told me that he was having issues cutting through 1/4 in plywood. I had similar issues cutting acrylic..I had to slow the tool path way down to get through \n\nDiscourse Link: https://yo.asmbly.org/t/6-19-2026-2028-lasers-tarkin/16068\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781920295495979\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-19-2026-2028-lasers-tarkin/16068",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781920295495979",
+      "created": "2026-06-20T01:51:34.528Z"
+    },
     {
       "id": "86aj4xdqe",
       "workspace": "3D Printing",
