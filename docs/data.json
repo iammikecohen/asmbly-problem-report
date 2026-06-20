@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-20T17:46:12.985Z",
+  "updated": "2026-06-20T18:27:53.293Z",
   "tasks": [
+    {
+      "id": "86aj5bw48",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Trinco 300 Abrasive Blaster",
+      "summary": "Right glove detached",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Trinco 300 Abrasive Blaster\nSummary:  Right glove detached \nAdditional Info:  Hey guys - continuing to have media blaster issues. When I came in, one of the clips on the top was broken. Then, when blasting, the right glove detached. Still functional just inconvenient \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781979504244699\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781979504244699",
+      "created": "2026-06-20T18:18:23.686Z"
+    },
     {
       "id": "86aj576vc",
       "workspace": "Lasers",
