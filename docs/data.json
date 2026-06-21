@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-21T15:23:47.531Z",
+  "updated": "2026-06-21T16:09:15.245Z",
   "tasks": [
+    {
+      "id": "86aj5feyg",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Table by wheel 1&2 left dirty clay slop",
+      "description": "Problem Type: Cleaning\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Table by wheel 1&2 left dirty clay slop\nAdditional Info:  Looks like clay splatter from throwing\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782056287476419\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782056287476419",
+      "created": "2026-06-21T15:38:06.985Z"
+    },
     {
       "id": "86aj5bw48",
       "workspace": "Uncategorized",
