@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:31:01.673Z",
+  "updated": "2026-06-21T20:16:26.125Z",
   "tasks": [
     {
       "id": "86aj5feyg",
@@ -300,18 +300,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-7-2026-632-3d-printing-bambulabs-p1s-chantico/15981",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780833459579959",
       "created": "2026-06-07T11:57:38.553Z"
-    },
-    {
-      "id": "86ahxqryq",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Hanuman",
-      "summary": "Z homing issue",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Hanuman\nSummary:  Z homing issue \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/6-6-2026-2013-3d-printing-bambulabs-p1s-hanuman/15978\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780797201228099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-6-2026-2013-3d-printing-bambulabs-p1s-hanuman/15978",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780797201228099",
-      "created": "2026-06-07T01:53:20.304Z"
     },
     {
       "id": "86ahxpz8n",
