@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-21T20:55:41.171Z",
+  "updated": "2026-06-21T21:28:58.194Z",
   "tasks": [
+    {
+      "id": "86aj5h5af",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Apollo",
+      "summary": "heat bed overheating",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  heat bed overheating\nAdditional Info:  Stopped before print because heatbed was reaching max temp. Tried manually lowering the temp but it wasn’t dropping\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782076574228709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782076574228709",
+      "created": "2026-06-21T21:16:13.676Z"
+    },
     {
       "id": "86aj5feyg",
       "workspace": "Ceramics",
