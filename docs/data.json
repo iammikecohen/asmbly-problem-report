@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-22T16:17:30.194Z",
+  "updated": "2026-06-22T18:01:45.210Z",
   "tasks": [
+    {
+      "id": "86aj5xqe1",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "AMS failed to pull back filament",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  AMS failed to pull back filament \nAdditional Info:  No filament seems stuck \n\nDiscourse Link: https://yo.asmbly.org/t/6-22-2026-1147-3d-printing-bambulabs-p1s-bastet/16080\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782146154728299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-22-2026-1147-3d-printing-bambulabs-p1s-bastet/16080",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782146154728299",
+      "created": "2026-06-22T16:35:53.776Z"
+    },
     {
       "id": "86aj5feyg",
       "workspace": "Ceramics",
