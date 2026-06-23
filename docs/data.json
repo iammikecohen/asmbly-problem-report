@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T01:38:38.726Z",
+  "updated": "2026-06-23T02:38:59.998Z",
   "tasks": [
+    {
+      "id": "86aj6aggx",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Leather Tools",
+      "summary": "Gunked up a cutting mat",
+      "description": "Problem Type: Cleaning\nWorkspace:  Textiles\nAsset:  Leather Tools\nSummary:  Gunked up a cutting mat\nAdditional Info:  I got the small gray Fiskars mat sticky with adhesive. Tried to clean it all off but not sure whether I was able to. Left a note to warn others. \n\nDiscourse Link: https://yo.asmbly.org/t/6-22-2026-2127-textiles-leather-tools/16082\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782181174678109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-22-2026-2127-textiles-leather-tools/16082",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782181174678109",
+      "created": "2026-06-23T02:19:33.723Z"
+    },
     {
       "id": "86aj5xqe1",
       "workspace": "3D Printing",
