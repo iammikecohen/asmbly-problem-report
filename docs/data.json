@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T22:25:31.217Z",
+  "updated": "2026-06-23T22:52:35.345Z",
   "tasks": [
+    {
+      "id": "86aj6xzu2",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Extruder 1 and 3 Loading Difficulty",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Extruder 1 and 3 Loading Difficulty\nAdditional Info:  Hey there. Could have been user error but when I tried to load my petg into heads 1 and 3, they didn't take it and nothing came out during the purge check. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782254090158649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782254090158649",
+      "created": "2026-06-23T22:34:49.323Z"
+    },
     {
       "id": "86aj6kv4p",
       "workspace": "3D Printing",
