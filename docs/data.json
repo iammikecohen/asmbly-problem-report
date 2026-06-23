@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T15:31:44.535Z",
+  "updated": "2026-06-23T16:34:31.484Z",
   "tasks": [
+    {
+      "id": "86aj6kv4p",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Apollo",
+      "summary": "filament sensor issues",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  filament sensor issues\nAdditional Info:  printer is asking me to unload and reload filament constantly. turning off the sensor fixes it. does it need or replacing?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782230697332209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782230697332209",
+      "created": "2026-06-23T16:04:56.875Z"
+    },
     {
       "id": "86aj6aggx",
       "workspace": "Textiles",
