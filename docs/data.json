@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-24T17:55:44.010Z",
+  "updated": "2026-06-24T18:34:37.407Z",
   "tasks": [
+    {
+      "id": "86aj7c5a1",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Will not turn on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Will not turn on\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/6-24-2026-1323-woodshop-drill-press-20-powermatic/16094\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782325411594429\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-24-2026-1323-woodshop-drill-press-20-powermatic/16094",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782325411594429",
+      "created": "2026-06-24T18:23:30.068Z"
+    },
     {
       "id": "86aj70ch6",
       "workspace": "Woodshop",
