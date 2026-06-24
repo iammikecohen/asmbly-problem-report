@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-24T02:18:31.830Z",
+  "updated": "2026-06-24T03:44:58.078Z",
   "tasks": [
+    {
+      "id": "86aj70ch6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Elec drop melted plug",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Elec drop melted plug\nAdditional Info:  elec drop and vacuum plug melted each other. Red tagged both.\n\nDiscourse Link: https://yo.asmbly.org/t/6-23-2026-2249-woodshop-other/16091\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782270297562319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-23-2026-2249-woodshop-other/16091",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782270297562319",
+      "created": "2026-06-24T03:04:55.990Z"
+    },
     {
       "id": "86aj6zda9",
       "workspace": "Woodshop",
