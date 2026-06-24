@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-24T20:51:19.915Z",
+  "updated": "2026-06-24T21:29:44.361Z",
   "tasks": [
+    {
+      "id": "86aj7g7qh",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #1",
+      "summary": "Gas not feeding",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #1\nSummary:  Gas not feeding\nAdditional Info:  Gas is not feeding when welding, tank is on and has gas\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782336229955239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782336229955239",
+      "created": "2026-06-24T21:23:49.538Z"
+    },
+    {
+      "id": "86aj7g1x0",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Can't make 90 degrees",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Can't make 90 degrees \nAdditional Info:  Cannot get saw to hit 90, no matter what I try\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782335513707999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782335513707999",
+      "created": "2026-06-24T21:11:49.897Z"
+    },
+    {
+      "id": "86aj7fym2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "Blockage triggered stop engage",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Blockage triggered stop engage\nAdditional Info:  I was cleaning out a fully blocked saw stop and it seems that somehow the stop engaged itself even while it was turned off. I have photos of how totally blocked it was. Must have had at least a day or so of blockage. Get in touch for photos and if you want me to pay for stop.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782334972461029\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782334972461029",
+      "created": "2026-06-24T21:02:51.995Z"
+    },
     {
       "id": "86aj7cmh1",
       "workspace": "3D Printing",
@@ -44,7 +80,7 @@
       "equipment": "Planer 15\"- Powermatic 15HH",
       "summary": "One of three drive belts is frayed.",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  One of three drive belts is frayed. \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782264244233849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "parts ordered",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782264244233849",
       "created": "2026-06-24T01:24:03.467Z"
