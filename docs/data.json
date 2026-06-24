@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-24T21:29:44.361Z",
+  "updated": "2026-06-24T22:00:28.823Z",
   "tasks": [
-    {
-      "id": "86aj7g7qh",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "MIG/TIG Miller Multimatic 220 #1",
-      "summary": "Gas not feeding",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #1\nSummary:  Gas not feeding\nAdditional Info:  Gas is not feeding when welding, tank is on and has gas\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782336229955239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782336229955239",
-      "created": "2026-06-24T21:23:49.538Z"
-    },
     {
       "id": "86aj7g1x0",
       "workspace": "Woodshop",
