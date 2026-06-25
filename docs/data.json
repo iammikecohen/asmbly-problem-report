@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T00:08:18.844Z",
+  "updated": "2026-06-25T01:17:53.909Z",
   "tasks": [
     {
       "id": "86aj7g1x0",
@@ -396,18 +396,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-7-2026-1046-textiles/15982",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780844634995849",
       "created": "2026-06-07T15:03:53.809Z"
-    },
-    {
-      "id": "86ahxrzur",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Chantico",
-      "summary": "Constipation-poop shoot keeps clogging",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Chantico\nSummary:  Constipation-poop shoot keeps clogging\nAdditional Info:  When printing it clogs and can causes print failures (cleaned currently)\n\nDiscourse Link: https://yo.asmbly.org/t/6-7-2026-632-3d-printing-bambulabs-p1s-chantico/15981\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780833459579959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-7-2026-632-3d-printing-bambulabs-p1s-chantico/15981",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780833459579959",
-      "created": "2026-06-07T11:57:38.553Z"
     },
     {
       "id": "86ahxpz8n",
@@ -854,18 +842,6 @@
       "created": "2026-03-15T18:26:16.664Z"
     },
     {
-      "id": "86ag4mwt3",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Pearl",
-      "summary": "Not connected to computer",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Pearl\nSummary:  Not connected to computer \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773333164002059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1773333164002059",
-      "created": "2026-03-12T16:32:43.404Z"
-    },
-    {
       "id": "86afytqeq",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -912,18 +888,6 @@
       "discourse_url": "https://yo.asmbly.org/t/2-19-2026-1842-lasers-dorian/15361",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771547389955559",
       "created": "2026-02-20T00:29:48.665Z"
-    },
-    {
-      "id": "86afhu7bn",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Pearl",
-      "summary": "Out of square?",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Pearl\nSummary:  Out of square?\nAdditional Info:  Pearl does not engrave evenly in different areas of the cut bed\n\nDiscourse Link: https://yo.asmbly.org/t/2-18-2026-2103-lasers-pearl/15352\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771472052805419\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/2-18-2026-2103-lasers-pearl/15352",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771472052805419",
-      "created": "2026-02-19T03:34:11.879Z"
     },
     {
       "id": "86afhu3ck",
@@ -1082,18 +1046,6 @@
       "created": "2025-12-30T17:52:38.409Z"
     },
     {
-      "id": "86ae33yy2",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Pearl",
-      "summary": "Large, displaced crack in glass",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Pearl\nSummary:  Large, displaced crack in glass\nAdditional Info:  Placed blues taped over the edge because it’s super sharp.Have photos\n\nDiscourse Link: https://yo.asmbly.org/t/12-22-2025-2122-lasers-pearl/14944\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1766459670495719\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "https://yo.asmbly.org/t/12-22-2025-2122-lasers-pearl/14944",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1766459670495719",
-      "created": "2025-12-23T03:14:28.433Z"
-    },
-    {
       "id": "86adz8emc",
       "workspace": "Metal-Shop",
       "workspace_slug": "metal-shop",
@@ -1128,18 +1080,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1765502942687939",
       "created": "2025-12-12T01:29:02.004Z"
-    },
-    {
-      "id": "86aduqjwy",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Pearl",
-      "summary": "Crack in fiberglass cover",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Pearl\nSummary:  Crack in fiberglass cover\nAdditional Info:  Guessing this is a known issue already, but wanted to tag it if it wasn't, my apologies if this is a duplicate but I didn't see a post on discourse about it.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1765319347988239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1765319347988239",
-      "created": "2025-12-09T22:29:07.294Z"
     },
     {
       "id": "86ad7chny",
