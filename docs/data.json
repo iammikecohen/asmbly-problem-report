@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-25T21:50:02.889Z",
+  "updated": "2026-06-25T22:29:32.093Z",
   "tasks": [
+    {
+      "id": "86aj85tz4",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "---------- Wood Shop ----------",
+      "summary": "Glue-up tables left messy",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  ---------- Wood Shop ----------\nSummary:  Glue-up tables left messy\nAdditional Info:  All 3 glue-up tables were left messy after projects were removed. Clamps, paper, and wood left out. \n\nDiscourse Link: https://yo.asmbly.org/t/6-25-2026-1639-woodshop-wood-shop/16099\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782424188389489\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-25-2026-1639-woodshop-wood-shop/16099",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782424188389489",
+      "created": "2026-06-25T21:49:46.195Z"
+    },
     {
       "id": "86aj853vc",
       "workspace": "Lasers",
@@ -72,18 +84,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-23-2026-2249-woodshop-other/16091",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782270297562319",
       "created": "2026-06-24T03:04:55.990Z"
-    },
-    {
-      "id": "86aj6zda9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "One of three drive belts is frayed.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  One of three drive belts is frayed. \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782264244233849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782264244233849",
-      "created": "2026-06-24T01:24:03.467Z"
     },
     {
       "id": "86aj6xzu2",
