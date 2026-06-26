@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-26T22:25:23.080Z",
+  "updated": "2026-06-26T22:51:48.754Z",
   "tasks": [
-    {
-      "id": "86aj8twee",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "The blade off tracks",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  The blade off tracks\nAdditional Info:  The blade seems to be off the tracks on the smallest bandsaw.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782510509197609\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782510509197609",
-      "created": "2026-06-26T21:48:25.927Z"
-    },
     {
       "id": "86aj88jb0",
       "workspace": "Uncategorized",
