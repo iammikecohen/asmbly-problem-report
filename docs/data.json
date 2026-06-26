@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:08:22.047Z",
+  "updated": "2026-06-26T20:50:12.856Z",
   "tasks": [
     {
       "id": "86aj88jb0",
@@ -228,18 +228,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-16-2026-1419-woodshop-table-saw-1-sawstop/16047",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781638886007619",
       "created": "2026-06-16T19:41:24.866Z"
-    },
-    {
-      "id": "86aj348yt",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Table saw 1 legs are not bolted on",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Table saw 1 legs are not bolted on \nAdditional Info:  The 2 legs under the pressed wood section are only held in place by gravity!\n\nDiscourse Link: https://yo.asmbly.org/t/6-16-2026-1404-woodshop-table-saw-1-sawstop/16046\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781638631733739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-16-2026-1404-woodshop-table-saw-1-sawstop/16046",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781638631733739",
-      "created": "2026-06-16T19:37:10.670Z"
     },
     {
       "id": "86aj1pqgn",
