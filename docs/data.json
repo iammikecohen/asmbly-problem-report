@@ -1,17 +1,29 @@
 {
-  "updated": "2026-06-26T02:18:11.182Z",
+  "updated": "2026-06-26T03:44:57.078Z",
   "tasks": [
     {
-      "id": "86aj85tz4",
+      "id": "86aj88jb0",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Fume extractor",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Fume extractor\nAdditional Info:  Does not draw smoke and fuems very well had both sides running during welding class and would not draw basic smoke right above weld\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399",
+      "created": "2026-06-26T02:49:02.526Z"
+    },
+    {
+      "id": "86aj88hrm",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
-      "equipment": "---------- Wood Shop ----------",
-      "summary": "Glue-up tables left messy",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  ---------- Wood Shop ----------\nSummary:  Glue-up tables left messy\nAdditional Info:  All 3 glue-up tables were left messy after projects were removed. Clamps, paper, and wood left out. \n\nDiscourse Link: https://yo.asmbly.org/t/6-25-2026-1639-woodshop-wood-shop/16099\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782424188389489\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "equipment": "Unknown Equipment",
+      "summary": "No pencils left in the wood shop",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  \nSummary:  No pencils left in the wood shop\nAdditional Info:  My first report! Did I do well? 🤗\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782441783888149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
       "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-25-2026-1639-woodshop-wood-shop/16099",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782424188389489",
-      "created": "2026-06-25T21:49:46.195Z"
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782441783888149",
+      "created": "2026-06-26T02:43:01.615Z"
     },
     {
       "id": "86aj853vc",
