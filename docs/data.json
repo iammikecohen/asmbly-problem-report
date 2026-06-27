@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-27T17:37:39.575Z",
+  "updated": "2026-06-27T18:07:12.202Z",
   "tasks": [
+    {
+      "id": "86aj8zkjf",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Solid yellow pressure light is on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Solid yellow pressure light is on\nAdditional Info:  Automatic on/off also doesn’t seem to be working, unit has been running continuously.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782582865350799\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782582865350799",
+      "created": "2026-06-27T17:54:24.447Z"
+    },
     {
       "id": "86aj88jb0",
       "workspace": "Uncategorized",
@@ -624,18 +636,6 @@
       "discourse_url": "https://yo.asmbly.org/t/5-14-2026-847-metal-shop-mig-tig-miller-multimatic-220-1/15820",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778766354654809",
       "created": "2026-05-14T13:45:53.552Z"
-    },
-    {
-      "id": "86ahdhf13",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Dust Cart #",
-      "summary": "Shop Vac #2 power cord wires pulled out",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  Shop Vac #2 power cord wires pulled out\nAdditional Info:  Operational, but safety hazard\n\nDiscourse Link: https://yo.asmbly.org/t/5-11-2026-1151-woodshop-dust-cart/15806\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778518679749229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/5-11-2026-1151-woodshop-dust-cart/15806",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778518679749229",
-      "created": "2026-05-11T16:57:57.843Z"
     },
     {
       "id": "86ahd2zrb",
