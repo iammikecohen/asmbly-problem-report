@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-28T00:06:59.638Z",
+  "updated": "2026-06-28T01:22:33.365Z",
   "tasks": [
-    {
-      "id": "86aj90evc",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Dust Cart #",
-      "summary": "#3 won’t turn on",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  #3 won’t turn on\nAdditional Info:  I feel something is moving internally but isn’t spinning up for suction\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782595524844319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782595524844319",
-      "created": "2026-06-27T21:25:17.010Z"
-    },
     {
       "id": "86aj9074t",
       "workspace": "Woodshop",
