@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:47:45.472Z",
+  "updated": "2026-06-28T21:22:36.390Z",
   "tasks": [
     {
       "id": "86aj93fng",
@@ -144,42 +144,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-23-2026-2249-woodshop-other/16091",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782270297562319",
       "created": "2026-06-24T03:04:55.990Z"
-    },
-    {
-      "id": "86aj6xzu2",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa XL",
-      "summary": "Extruder 1 and 3 Loading Difficulty",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Extruder 1 and 3 Loading Difficulty\nAdditional Info:  Hey there. Could have been user error but when I tried to load my petg into heads 1 and 3, they didn't take it and nothing came out during the purge check. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782254090158649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782254090158649",
-      "created": "2026-06-23T22:34:49.323Z"
-    },
-    {
-      "id": "86aj6kv4p",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Apollo",
-      "summary": "filament sensor issues",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  filament sensor issues\nAdditional Info:  printer is asking me to unload and reload filament constantly. turning off the sensor fixes it. does it need or replacing?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782230697332209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782230697332209",
-      "created": "2026-06-23T16:04:56.875Z"
-    },
-    {
-      "id": "86aj5xqe1",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Bastet",
-      "summary": "AMS failed to pull back filament",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  AMS failed to pull back filament \nAdditional Info:  No filament seems stuck \n\nDiscourse Link: https://yo.asmbly.org/t/6-22-2026-1147-3d-printing-bambulabs-p1s-bastet/16080\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782146154728299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-22-2026-1147-3d-printing-bambulabs-p1s-bastet/16080",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782146154728299",
-      "created": "2026-06-22T16:35:53.776Z"
     },
     {
       "id": "86aj5feyg",
