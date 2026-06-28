@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-28T18:07:13.098Z",
+  "updated": "2026-06-28T18:39:35.815Z",
   "tasks": [
+    {
+      "id": "86aj93f4d",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Router Table, Router and lift",
+      "summary": "Not powering on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Not powering on\nAdditional Info:  Power is getting to the electronic control upstream of the main switch, as its green LED is on. But there is no response when hitting turning the main switch on. The cause of the problem is not apparent.\n\nDiscourse Link: https://yo.asmbly.org/t/6-28-2026-1300-woodshop-router-table-router-and-lift/16118\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782671767498339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-28-2026-1300-woodshop-router-table-router-and-lift/16118",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782671767498339",
+      "created": "2026-06-28T18:36:06.586Z"
+    },
     {
       "id": "86aj9074t",
       "workspace": "Woodshop",
