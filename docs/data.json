@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T21:48:37.034Z",
+  "updated": "2026-06-28T22:21:01.345Z",
   "tasks": [
     {
       "id": "86aj93fng",
@@ -120,18 +120,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782334972461029",
       "created": "2026-06-24T21:02:51.995Z"
-    },
-    {
-      "id": "86aj7cmh1",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "filament sensor",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  filament sensor\nAdditional Info:  pronter keeps asking to unload and load filament for no reason (just like Apollo)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782326313083369\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782326313083369",
-      "created": "2026-06-24T18:38:30.972Z"
     },
     {
       "id": "86aj70ch6",
