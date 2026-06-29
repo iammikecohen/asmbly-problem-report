@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-29T05:52:18.268Z",
+  "updated": "2026-06-29T07:37:20.434Z",
   "tasks": [
+    {
+      "id": "86aj994yb",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Unable to get the bit out of the cnc",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Unable to get the bit out of the cnc\nAdditional Info:  I have a 1/4” end mill in the cnc that won’t come out with the normal amount of force. I didn’t want to damage the equipment by forcing it. Would appreciate tips for next time!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782713397783769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782713397783769",
+      "created": "2026-06-29T06:09:57.310Z"
+    },
     {
       "id": "86aj93fng",
       "workspace": "Woodshop",
