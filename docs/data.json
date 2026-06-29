@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-29T22:47:08.635Z",
+  "updated": "2026-06-29T23:21:04.920Z",
   "tasks": [
+    {
+      "id": "86aj9tg1q",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "Laser head seems to have shifted during",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Laser head seems to have shifted during\nAdditional Info:  My wood panels were still clipped tight as before, no way the wood moved.  Job ruined at 75% completion due to unexplained shift in laser head\n\nDiscourse Link: https://yo.asmbly.org/t/6-29-2026-1854-lasers-tarkin/16121\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782774841811279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/6-29-2026-1854-lasers-tarkin/16121",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782774841811279",
+      "created": "2026-06-29T23:14:00.733Z"
+    },
     {
       "id": "86aj994yb",
       "workspace": "Woodshop",
