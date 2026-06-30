@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-30T22:34:25.685Z",
+  "updated": "2026-06-30T23:08:09.193Z",
   "tasks": [
+    {
+      "id": "86ajaf1tq",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Glazes running low",
+      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  \nSummary:  Glazes running low\nAdditional Info:  Misty Forest and Floating Pink low\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782860698394099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782860698394099",
+      "created": "2026-06-30T23:04:57.756Z"
+    },
     {
       "id": "86aj9tg1q",
       "workspace": "Lasers",
