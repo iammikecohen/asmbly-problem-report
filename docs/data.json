@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:06:55.860Z",
+  "updated": "2026-06-30T19:53:26.099Z",
   "tasks": [
     {
       "id": "86aj9tg1q",
@@ -24,54 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782713397783769",
       "created": "2026-06-29T06:09:57.310Z"
-    },
-    {
-      "id": "86aj93fng",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drum Sander - Supermax 25/50",
-      "summary": "Alignment rollers off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Alignment rollers off\nAdditional Info:  The small alignment rollers at the input side are off; they are stopping pieces that are at acceptable heights from feeding in properly.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782672216582639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782672216582639",
-      "created": "2026-06-28T18:43:36.125Z"
-    },
-    {
-      "id": "86aj93fjc",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drum Sander - Supermax 25/50",
-      "summary": "Feed belt tracked off to side.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Feed belt tracked off to side.\nAdditional Info:  The feed belt is at the extreme left of its range. It didn’t seem to be actively tracking left, but I’d bet the tracking is subtly off. It should certainly be moved back to the center of its range.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782672113386849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782672113386849",
-      "created": "2026-06-28T18:41:52.155Z"
-    },
-    {
-      "id": "86aj93fa1",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Edge Sander - South Bend",
-      "summary": "Belt bunked up",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Belt bunked up\nAdditional Info:  The sanding belt on the machine is pretty gunked up and in need of replacing, but there were no spare belts under the machine. We usually keep a couple there, since we usually have two grits available (80 and 120). I didn’t have time to check the closet for belts during class. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782671969636439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782671969636439",
-      "created": "2026-06-28T18:39:28.418Z"
-    },
-    {
-      "id": "86aj9074t",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Plumbing Leakage",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Plumbing Leakage\nAdditional Info:  Soapy substance spilling from a pipe above; leaking below.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782590623662689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782590623662689",
-      "created": "2026-06-27T20:03:42.716Z"
     },
     {
       "id": "86aj8zp7j",
@@ -108,18 +60,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399",
       "created": "2026-06-26T02:49:02.526Z"
-    },
-    {
-      "id": "86aj88hrm",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "No pencils left in the wood shop",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  \nSummary:  No pencils left in the wood shop\nAdditional Info:  My first report! Did I do well? 🤗\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782441783888149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782441783888149",
-      "created": "2026-06-26T02:43:01.615Z"
     },
     {
       "id": "86aj7g1x0",
