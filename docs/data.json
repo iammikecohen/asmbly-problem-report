@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-01T22:54:23.897Z",
+  "updated": "2026-07-01T23:28:09.541Z",
   "tasks": [
+    {
+      "id": "86ajb6gz7",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Tool head 2 filament stuck(fixed)",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Tool head 2 filament stuck(fixed)\nAdditional Info:  Tool head 2 had issues with PLA getting stuck \n\nDiscourse Link: https://yo.asmbly.org/t/7-1-2026-1824-3d-printing-prusa-xl/16136\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782948452976059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-1-2026-1824-3d-printing-prusa-xl/16136",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782948452976059",
+      "created": "2026-07-01T23:27:32.100Z"
+    },
     {
       "id": "86ajb3vcf",
       "workspace": "Ceramics",
