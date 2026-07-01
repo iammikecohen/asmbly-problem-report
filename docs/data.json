@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-01T19:53:04.763Z",
+  "updated": "2026-07-01T20:34:40.230Z",
   "tasks": [
+    {
+      "id": "86ajb3vcf",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "back door isn’t closing all the way",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  back door isn’t closing all the way\nAdditional Info:  doesn’t quite close all the way on its own and therefore isn’t locking \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782937681231569\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782937681231569",
+      "created": "2026-07-01T20:27:59.294Z"
+    },
     {
       "id": "86ajazccd",
       "workspace": "Woodshop",
