@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-01T23:28:09.541Z",
+  "updated": "2026-07-01T23:57:01.806Z",
   "tasks": [
+    {
+      "id": "86ajb6kqn",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Heat Press",
+      "summary": "Out of parchment paper",
+      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  Heat Press\nSummary:  Out of parchment paper\nAdditional Info:  Looked all over the room couldnt find any spare boxes\n\nDiscourse Link: https://yo.asmbly.org/t/7-1-2026-1803-textiles-heat-press/16137\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782949151546559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-1-2026-1803-textiles-heat-press/16137",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782949151546559",
+      "created": "2026-07-01T23:39:10.526Z"
+    },
     {
       "id": "86ajb6gz7",
       "workspace": "3D Printing",
