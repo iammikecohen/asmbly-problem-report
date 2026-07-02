@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-02T00:50:14.437Z",
+  "updated": "2026-07-02T01:39:54.433Z",
   "tasks": [
+    {
+      "id": "86ajb7ge4",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Other",
+      "summary": "No mouse",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Other\nSummary:  No mouse \nAdditional Info:  The computer near the little blue laser does not have a mouse \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782956076219529\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782956076219529",
+      "created": "2026-07-02T01:34:35.550Z"
+    },
     {
       "id": "86ajb6kqn",
       "workspace": "Textiles",
