@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-02T02:38:50.072Z",
+  "updated": "2026-07-02T04:06:26.695Z",
   "tasks": [
+    {
+      "id": "86ajb9bae",
+      "workspace": "Office",
+      "workspace_slug": "office",
+      "equipment": "Other",
+      "summary": "account-temporarily-on-hold",
+      "description": "Problem Type: Other\nWorkspace:  Office\nAsset:  Other\nSummary:  account-temporarily-on-hold\nAdditional Info:  https://yo.asmbly.org/t/account-temporarily-on-hold/16138\nAccount temporarily on hold\npost by system 2 mins ago\n\nsystem \n2m\nHello,\n\nThis is an automated message from YO! Asmbly to let you know that your account has been temporarily placed on hold as a precautionary measure.\n\nPlease do continue to browse, but you won’t be able to reply or create topics until a staff member reviews your most recent posts. We apologize for the inconvenience.\n\nFor additional guidance, refer to our community guidelines.\n\n\n\n\n--------------------\nBelow is the thread that I am responding to:\n\nhttps://yo.asmbly.org/t/seeking-cnc-volunteer-to-assist-with-ceramics-studio-project/16134\n\nBelow is the post that I cannot post:\n\nHi Stanton, Just by luck I’m working on a similar project. Attached is a SVG file that can be cut on plywood. It’s designed for 0.75 inch thickness and has five cubby holes across and four vertical. Now comes why I came online searching for help: I would like to create a cardboard mockup for my project, and I can create one for the cubby holes for you as well, however, I don’t know where to get cardboard that is this size.\n\n\n\nFootnotesMy phone is 1-667-225-0125 (I cannot receive text messages)\n\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782961251290289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782961251290289",
+      "created": "2026-07-02T03:00:50.089Z"
+    },
     {
       "id": "86ajb7ge4",
       "workspace": "Lasers",
