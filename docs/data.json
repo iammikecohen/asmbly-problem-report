@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T19:08:56.817Z",
+  "updated": "2026-07-03T19:46:40.751Z",
   "tasks": [
+    {
+      "id": "86ajcdfxu",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Blade not tracking",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade not tracking\nAdditional Info:  Blade not touching any guides.  Bottom rubber tire very worn. \n\nDiscourse Link: https://yo.asmbly.org/t/7-3-2026-1417-woodshop-14-bandsaw-1-grizzly/16154\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783107804892769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-3-2026-1417-woodshop-14-bandsaw-1-grizzly/16154",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783107804892769",
+      "created": "2026-07-03T19:43:23.691Z"
+    },
     {
       "id": "86ajc8bce",
       "workspace": "Woodshop",
