@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T19:46:40.751Z",
+  "updated": "2026-07-03T20:24:25.605Z",
   "tasks": [
+    {
+      "id": "86ajce40f",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Filtered water dispenser needs cleaning",
+      "description": "Problem Type: Cleaning\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Filtered water dispenser needs cleaning\nAdditional Info:  Water dispenser is spraying water in multiple streams. When I wiped it the paper towel came away with lots of black bits from the nozzle/screen\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783109713991559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783109713991559",
+      "created": "2026-07-03T20:15:12.574Z"
+    },
     {
       "id": "86ajcdfxu",
       "workspace": "Woodshop",
