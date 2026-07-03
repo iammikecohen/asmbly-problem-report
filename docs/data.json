@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T21:49:39.792Z",
+  "updated": "2026-07-03T22:20:30.537Z",
   "tasks": [
+    {
+      "id": "86ajcfn7g",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "No power",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  No power\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-3-2026-1734-woodshop-belt-sander-large-36-powermatic/16156\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783117121350989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-3-2026-1734-woodshop-belt-sander-large-36-powermatic/16156",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783117121350989",
+      "created": "2026-07-03T22:18:40.409Z"
+    },
     {
       "id": "86ajce40f",
       "workspace": "Multi-Purpose Room",
