@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T15:27:56.703Z",
+  "updated": "2026-07-03T16:05:35.793Z",
   "tasks": [
+    {
+      "id": "86ajc7vzg",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Dull blade",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Dull blade\nAdditional Info:  Blade not cutting well, smoking, and requires significant pressure\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783094079215629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783094079215629",
+      "created": "2026-07-03T15:54:38.680Z"
+    },
     {
       "id": "86ajc7838",
       "workspace": "Woodshop",
