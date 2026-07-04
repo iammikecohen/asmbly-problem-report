@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:18:33.287Z",
+  "updated": "2026-07-04T21:47:02.250Z",
   "tasks": [
     {
       "id": "86ajcm44r",
@@ -170,18 +170,6 @@
       "created": "2026-06-27T18:25:51.293Z"
     },
     {
-      "id": "86aj8zkjf",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Solid yellow pressure light is on",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Solid yellow pressure light is on\nAdditional Info:  Automatic on/off also doesn’t seem to be working, unit has been running continuously.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782582865350799\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782582865350799",
-      "created": "2026-06-27T17:54:24.447Z"
-    },
-    {
       "id": "86aj88jb0",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -192,18 +180,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399",
       "created": "2026-06-26T02:49:02.526Z"
-    },
-    {
-      "id": "86aj7fym2",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Blockage triggered stop engage",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Blockage triggered stop engage\nAdditional Info:  I was cleaning out a fully blocked saw stop and it seems that somehow the stop engaged itself even while it was turned off. I have photos of how totally blocked it was. Must have had at least a day or so of blockage. Get in touch for photos and if you want me to pay for stop.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782334972461029\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782334972461029",
-      "created": "2026-06-24T21:02:51.995Z"
     },
     {
       "id": "86aj70ch6",
@@ -324,18 +300,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-16-2026-1955-metal-shop-trinco-300-abrasive-blaster/16050",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781656804006019",
       "created": "2026-06-17T00:40:02.001Z"
-    },
-    {
-      "id": "86aj34f6q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Table Saw 1 side table top is crooked",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Table Saw 1 side table top is crooked\nAdditional Info:  Table Saw 1 side table top is crooked and not flush with cast iron top. -- As noted in a separate report, the side table legs are not bolted on.https://sharing.clickup.com/90131034630/v/6-901310067725-2/t/h/86aj348yt/f2df101dda8cdad\n\nDiscourse Link: https://yo.asmbly.org/t/6-16-2026-1419-woodshop-table-saw-1-sawstop/16047\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781638886007619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-16-2026-1419-woodshop-table-saw-1-sawstop/16047",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781638886007619",
-      "created": "2026-06-16T19:41:24.866Z"
     },
     {
       "id": "86aj1pqgn",
@@ -708,18 +672,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778948771156439",
       "created": "2026-05-16T16:26:10.277Z"
-    },
-    {
-      "id": "86ahgvnpr",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 2 - Grizzly",
-      "summary": "Measurement Guide Missing",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Measurement Guide Missing\nAdditional Info:  The first 15” of the measurement guide is missing.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778880318227269\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1778880318227269",
-      "created": "2026-05-15T21:25:17.404Z"
     },
     {
       "id": "86ahfmvt1",
