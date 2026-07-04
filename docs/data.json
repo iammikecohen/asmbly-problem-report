@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-04T19:55:59.010Z",
+  "updated": "2026-07-04T20:21:25.228Z",
   "tasks": [
+    {
+      "id": "86ajckwth",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Heat Press",
+      "summary": "Out of protective paper",
+      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  Heat Press\nSummary:  Out of protective paper\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-4-2026-1532-textiles-heat-press/16158\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783195721269639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-4-2026-1532-textiles-heat-press/16158",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783195721269639",
+      "created": "2026-07-04T20:08:39.904Z"
+    },
     {
       "id": "86ajckku3",
       "workspace": "Woodshop",
