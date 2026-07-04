@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-04T17:49:14.700Z",
+  "updated": "2026-07-04T18:19:45.889Z",
   "tasks": [
+    {
+      "id": "86ajckku3",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 2 - Grizzly",
+      "summary": "Blade rattles against loose bearing",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Blade rattles against loose bearing\nAdditional Info:  The lower left bearing wobbles and can’t be tightened causing it to rattle against the blade. \nNot sure how to fix. \n\nDiscourse Link: https://yo.asmbly.org/t/7-4-2026-1305-woodshop-14-bandsaw-2-grizzly/16157\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783189154957839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-4-2026-1305-woodshop-14-bandsaw-2-grizzly/16157",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783189154957839",
+      "created": "2026-07-04T18:19:12.706Z"
+    },
     {
       "id": "86ajce40f",
       "workspace": "Multi-Purpose Room",
