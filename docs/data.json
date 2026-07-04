@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-04T20:46:16.167Z",
+  "updated": "2026-07-04T21:18:33.287Z",
   "tasks": [
+    {
+      "id": "86ajcm44r",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Propane inside",
+      "description": "Problem Type: Facilities\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Propane inside\nAdditional Info:  Propane bottle stored inside metal shop, on cart by fiber laser enclosure. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783199535874579\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783199535874579",
+      "created": "2026-07-04T21:12:15.403Z"
+    },
     {
       "id": "86ajckwth",
       "workspace": "Textiles",
@@ -36,18 +48,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783109713991559",
       "created": "2026-07-03T20:15:12.574Z"
-    },
-    {
-      "id": "86ajcdfxu",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade not tracking",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade not tracking\nAdditional Info:  Blade not touching any guides.  Bottom rubber tire very worn. \n\nDiscourse Link: https://yo.asmbly.org/t/7-3-2026-1417-woodshop-14-bandsaw-1-grizzly/16154\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783107804892769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-3-2026-1417-woodshop-14-bandsaw-1-grizzly/16154",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783107804892769",
-      "created": "2026-07-03T19:43:23.691Z"
     },
     {
       "id": "86ajc7vzg",
@@ -192,18 +192,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399",
       "created": "2026-06-26T02:49:02.526Z"
-    },
-    {
-      "id": "86aj7g1x0",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Can't make 90 degrees",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Can't make 90 degrees \nAdditional Info:  Cannot get saw to hit 90, no matter what I try\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782335513707999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782335513707999",
-      "created": "2026-06-24T21:11:49.897Z"
     },
     {
       "id": "86aj7fym2",
