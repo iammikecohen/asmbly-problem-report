@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T01:05:14.777Z",
+  "updated": "2026-07-04T01:54:23.294Z",
   "tasks": [
     {
       "id": "86ajce40f",
@@ -24,18 +24,6 @@
       "discourse_url": "https://yo.asmbly.org/t/7-3-2026-1417-woodshop-14-bandsaw-1-grizzly/16154",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783107804892769",
       "created": "2026-07-03T19:43:23.691Z"
-    },
-    {
-      "id": "86ajc8bce",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "No power",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  No power\nAdditional Info:  Asked volunteer for assistance & additional troubleshooting, no luck!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783095883129429\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783095883129429",
-      "created": "2026-07-03T16:24:42.608Z"
     },
     {
       "id": "86ajc7vzg",
