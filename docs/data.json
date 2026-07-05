@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-05T18:06:50.048Z",
+  "updated": "2026-07-05T18:37:03.111Z",
   "tasks": [
+    {
+      "id": "86ajcqmum",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Clicking sound under load from motor",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Clicking sound under load from motor\nAdditional Info:  Garage door side closest to the tables\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783274918766139\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783274918766139",
+      "created": "2026-07-05T18:08:37.144Z"
+    },
     {
       "id": "86ajcnnux",
       "workspace": "Woodshop",
