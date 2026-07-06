@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06T16:24:23.438Z",
+  "updated": "2026-07-06T17:25:00.636Z",
   "tasks": [
+    {
+      "id": "86ajd7u7n",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Brother printer 8510 in MPR not printing",
+      "description": "Problem Type: Equipment\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Brother printer 8510 in MPR not printing\nAdditional Info:  Not printing from general use computers \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783358658137149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783358658137149",
+      "created": "2026-07-06T17:24:17.580Z"
+    },
     {
       "id": "86ajcqmum",
       "workspace": "Ceramics",
