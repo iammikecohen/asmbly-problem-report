@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06T18:58:46.053Z",
+  "updated": "2026-07-06T19:37:44.967Z",
   "tasks": [
+    {
+      "id": "86ajdb4gm",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Unknown Equipment",
+      "summary": "Pull down power plug w/ loose connection",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  \nSummary:  Pull down power plug w/ loose connection\nAdditional Info:  While not exactly broke.  The plug over woodshop tables near hand tool area does not \"grip\" plugs.  When you plug into it the plug falls out.  You could probably bend the connectors out and make it work but that is not a good either.  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783365476088619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783365476088619",
+      "created": "2026-07-06T19:17:55.312Z"
+    },
     {
       "id": "86ajd7u7n",
       "workspace": "Multi-Purpose Room",
