@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T03:53:09.329Z",
+  "updated": "2026-07-08T05:02:31.698Z",
   "tasks": [
     {
       "id": "86ajdb4gm",
@@ -228,18 +228,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-27-2026-1345-metal-shop-mig-tig-miller-multimatic-220-2/16113",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782584752379689",
       "created": "2026-06-27T18:25:51.293Z"
-    },
-    {
-      "id": "86aj88jb0",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Other",
-      "summary": "Fume extractor",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Fume extractor\nAdditional Info:  Does not draw smoke and fuems very well had both sides running during welding class and would not draw basic smoke right above weld\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782442144239399",
-      "created": "2026-06-26T02:49:02.526Z"
     },
     {
       "id": "86aj70ch6",
@@ -660,18 +648,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1780013201815429",
       "created": "2026-05-29T00:06:41.187Z"
-    },
-    {
-      "id": "86ahr337b",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "compressor vent impeded",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  compressor vent impeded\nAdditional Info:  stuff is getting stacked on top the compressor.  there is a critical vent on the left that must be unimpeded.  please avoid putting stuff here.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779907755310249\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779907755310249",
-      "created": "2026-05-27T18:49:14.015Z"
     },
     {
       "id": "86ahny5hj",
