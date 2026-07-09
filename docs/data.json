@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-09T15:45:56.726Z",
+  "updated": "2026-07-09T16:49:02.990Z",
   "tasks": [
+    {
+      "id": "86ajf4wkn",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Internal fuse blew",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Internal fuse blew\nAdditional Info:  Fuse needs replaced\n\nDiscourse Link: https://yo.asmbly.org/t/7-9-2026-1057-woodshop-drill-press-20-powermatic/16176\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783612445452809\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-9-2026-1057-woodshop-drill-press-20-powermatic/16176",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783612445452809",
+      "created": "2026-07-09T15:54:04.422Z"
+    },
     {
       "id": "86ajdb4gm",
       "workspace": "Woodshop",
