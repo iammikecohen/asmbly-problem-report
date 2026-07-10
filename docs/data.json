@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-10T19:59:15.735Z",
+  "updated": "2026-07-10T20:36:07.566Z",
   "tasks": [
+    {
+      "id": "86ajfxg04",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Dust Cart #",
+      "summary": "power cord issue",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  power cord issue\nAdditional Info:  dust cart number 3: one of the metal prongs of the power cord is loose, making it finicky to turn on and probably unsafe \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783715301685669\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783715301685669",
+      "created": "2026-07-10T20:28:20.570Z"
+    },
     {
       "id": "86ajf4wkn",
       "workspace": "Woodshop",
