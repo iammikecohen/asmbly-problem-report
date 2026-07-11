@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-11T03:52:08.843Z",
+  "updated": "2026-07-11T05:01:36.942Z",
   "tasks": [
+    {
+      "id": "86ajg1e3n",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #1",
+      "summary": "table is full of scrap metal,",
+      "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #1\nSummary:  table is full of scrap metal,\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783745687442659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783745687442659",
+      "created": "2026-07-11T04:54:47.049Z"
+    },
     {
       "id": "86ajfxg04",
       "workspace": "Woodshop",
