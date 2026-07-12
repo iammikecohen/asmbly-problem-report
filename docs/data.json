@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-12T18:17:12.613Z",
+  "updated": "2026-07-12T18:46:53.957Z",
   "tasks": [
+    {
+      "id": "86ajg8z6k",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "Equipment left on tables",
+      "description": "Problem Type: Cleaning\nWorkspace:  Textiles\nAsset:  \nSummary:  Equipment left on tables\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-12-2026-1334-textiles/16189\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783881100701049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-12-2026-1334-textiles/16189",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783881100701049",
+      "created": "2026-07-12T18:31:39.843Z"
+    },
+    {
+      "id": "86ajg8yyt",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Wire ran out",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Wire ran out\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-12-2026-1347-metal-shop-mig-tig-miller-multimatic-220-2/16188\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783880933957899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-12-2026-1347-metal-shop-mig-tig-miller-multimatic-220-2/16188",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783880933957899",
+      "created": "2026-07-12T18:28:52.956Z"
+    },
     {
       "id": "86ajg8t60",
       "workspace": "Uncategorized",
