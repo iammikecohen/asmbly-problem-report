@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-12T17:21:40.314Z",
+  "updated": "2026-07-12T17:47:06.447Z",
   "tasks": [
+    {
+      "id": "86ajg8t60",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Empty C25",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Empty C25\nAdditional Info:  No full tanks in storage; replaced w/full tank from laser welder enclosure. Only one argon left, all need reordered.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783878209149379\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783878209149379",
+      "created": "2026-07-12T17:43:28.674Z"
+    },
     {
       "id": "86ajg1e3n",
       "workspace": "Uncategorized",
