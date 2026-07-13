@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:46:42.770Z",
+  "updated": "2026-07-13T20:26:12.727Z",
   "tasks": [
     {
       "id": "86ajgpbch",
@@ -14,18 +14,6 @@
       "created": "2026-07-13T17:44:51.794Z"
     },
     {
-      "id": "86ajgey18",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Missing blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Missing blade\nAdditional Info:  1/4\" blade missing \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946669170359\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946669170359",
-      "created": "2026-07-13T12:44:28.496Z"
-    },
-    {
       "id": "86ajgexdk",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -36,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946599543779",
       "created": "2026-07-13T12:43:18.920Z"
-    },
-    {
-      "id": "86ajg8z6k",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Unknown Equipment",
-      "summary": "Equipment left on tables",
-      "description": "Problem Type: Cleaning\nWorkspace:  Textiles\nAsset:  \nSummary:  Equipment left on tables\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-12-2026-1334-textiles/16189\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783881100701049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-12-2026-1334-textiles/16189",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783881100701049",
-      "created": "2026-07-12T18:31:39.843Z"
     },
     {
       "id": "86ajg8yyt",
