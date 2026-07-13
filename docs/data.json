@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-13T17:14:36.672Z",
+  "updated": "2026-07-13T17:57:58.493Z",
   "tasks": [
+    {
+      "id": "86ajgpbch",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Weak DC suction",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Weak DC suction \nAdditional Info:  We noticed weak suction systemically across the entire dust collection system. Maybe too many blast gates are open??\n\nDiscourse Link: https://yo.asmbly.org/t/7-13-2026-1245-woodshop-felder-rl-350-main-shop-dust-collector/16201\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783964692759009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-13-2026-1245-woodshop-felder-rl-350-main-shop-dust-collector/16201",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783964692759009",
+      "created": "2026-07-13T17:44:51.794Z"
+    },
     {
       "id": "86ajgey18",
       "workspace": "Woodshop",
