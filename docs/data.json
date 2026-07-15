@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:31:26.118Z",
+  "updated": "2026-07-15T00:02:28.435Z",
   "tasks": [
     {
       "id": "86ajgpbch",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946599543779",
       "created": "2026-07-13T12:43:18.920Z"
-    },
-    {
-      "id": "86ajg8yyt",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "MIG/TIG Miller Multimatic 220 #2",
-      "summary": "Wire ran out",
-      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Wire ran out\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-12-2026-1347-metal-shop-mig-tig-miller-multimatic-220-2/16188\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783880933957899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-12-2026-1347-metal-shop-mig-tig-miller-multimatic-220-2/16188",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783880933957899",
-      "created": "2026-07-12T18:28:52.956Z"
     },
     {
       "id": "86ajg8t60",
