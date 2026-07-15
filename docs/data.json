@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-15T20:35:58.440Z",
+  "updated": "2026-07-15T21:06:49.696Z",
   "tasks": [
+    {
+      "id": "86ajj9fab",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "Ceramics ipad not processing orders.",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Ceramics ipad not processing orders.\nAdditional Info:  Im trying to buy clay but when I hit next on my order after inputting my name, it says the hardware isnt connected and I cannot pay. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784149266867689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784149266867689",
+      "created": "2026-07-15T21:01:06.325Z"
+    },
     {
       "id": "86ajj06t9",
       "workspace": "3D Printing",
