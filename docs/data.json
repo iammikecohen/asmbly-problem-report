@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-15T01:32:33.792Z",
+  "updated": "2026-07-15T02:36:58.130Z",
   "tasks": [
+    {
+      "id": "86ajhrcb6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Puck wire broken",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Puck wire broken \nAdditional Info:  Puck was not working. Investigation revealed wires not connected and need to be resoldered\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784082474316209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784082474316209",
+      "created": "2026-07-15T02:27:53.135Z"
+    },
     {
       "id": "86ajgpbch",
       "workspace": "Woodshop",
