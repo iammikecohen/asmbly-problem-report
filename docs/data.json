@@ -1,18 +1,6 @@
 {
-  "updated": "2026-07-15T20:09:07.017Z",
+  "updated": "2026-07-15T20:35:58.440Z",
   "tasks": [
-    {
-      "id": "86ajj2xcx",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Unknown Equipment",
-      "summary": "Laser room left messy",
-      "description": "Problem Type: Cleaning\nWorkspace:  Lasers\nAsset:  \nSummary:  Laser room left messy\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/7-15-2026-1222-lasers/16223\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784136454293379\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-15-2026-1222-lasers/16223",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784136454293379",
-      "created": "2026-07-15T17:27:29.092Z"
-    },
     {
       "id": "86ajj06t9",
       "workspace": "3D Printing",
