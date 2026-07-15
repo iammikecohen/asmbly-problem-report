@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-15T15:04:30.302Z",
+  "updated": "2026-07-15T15:47:02.064Z",
   "tasks": [
+    {
+      "id": "86ajj06t9",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Unknown Equipment",
+      "summary": "A ceiling bulb is flickering",
+      "description": "Problem Type: Facilities\nWorkspace:  3D Printing\nAsset:  \nSummary:  A ceiling bulb is flickering\nAdditional Info:  Needs replacement\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784129770732699\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784129770732699",
+      "created": "2026-07-15T15:36:10.170Z"
+    },
     {
       "id": "86ajhrcb6",
       "workspace": "Woodshop",
