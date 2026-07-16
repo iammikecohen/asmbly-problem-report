@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-16T01:32:42.943Z",
+  "updated": "2026-07-16T02:37:23.510Z",
   "tasks": [
+    {
+      "id": "86ajjc922",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "Out of paper towels by glazing area!",
+      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Out of paper towels by glazing area!\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784165727954619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784165727954619",
+      "created": "2026-07-16T01:35:27.391Z"
+    },
     {
       "id": "86ajjbz8v",
       "workspace": "Textiles",
