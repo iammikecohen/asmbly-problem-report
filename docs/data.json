@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-16T00:05:29.974Z",
+  "updated": "2026-07-16T00:50:30.442Z",
   "tasks": [
+    {
+      "id": "86ajjbz8v",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Brother Se600",
+      "summary": "Feed dogs aren’t moving for back stitch",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Brother Se600\nSummary:  Feed dogs aren’t moving for back stitch\nAdditional Info:  For sure on stitches 1-02 and 1-09, working on some others \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784162356172309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784162356172309",
+      "created": "2026-07-16T00:39:15.656Z"
+    },
     {
       "id": "86ajj9fab",
       "workspace": "Ceramics",
@@ -12,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784149266867689",
       "created": "2026-07-15T21:01:06.325Z"
-    },
-    {
-      "id": "86ajj06t9",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Unknown Equipment",
-      "summary": "A ceiling bulb is flickering",
-      "description": "Problem Type: Facilities\nWorkspace:  3D Printing\nAsset:  \nSummary:  A ceiling bulb is flickering\nAdditional Info:  Needs replacement\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784129770732699\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784129770732699",
-      "created": "2026-07-15T15:36:10.170Z"
     },
     {
       "id": "86ajhrcb6",
