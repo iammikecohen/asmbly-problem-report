@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-16T21:35:55.986Z",
+  "updated": "2026-07-16T22:06:35.221Z",
   "tasks": [
+    {
+      "id": "86ajjxvyu",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Ridged Hand Sander",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Ridged Hand Sander\nAdditional Info:  After talking to Robert, threw out ridged hand sander that would not work once pressure was applied. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839",
+      "created": "2026-07-16T21:44:41.268Z"
+    },
     {
       "id": "86ajjc922",
       "workspace": "Ceramics",
@@ -180,18 +192,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783199535874579",
       "created": "2026-07-04T21:12:15.403Z"
-    },
-    {
-      "id": "86ajce40f",
-      "workspace": "Multi-Purpose Room",
-      "workspace_slug": "multi-purpose-room",
-      "equipment": "Other",
-      "summary": "Filtered water dispenser needs cleaning",
-      "description": "Problem Type: Cleaning\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Filtered water dispenser needs cleaning\nAdditional Info:  Water dispenser is spraying water in multiple streams. When I wiped it the paper towel came away with lots of black bits from the nozzle/screen\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783109713991559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783109713991559",
-      "created": "2026-07-03T20:15:12.574Z"
     },
     {
       "id": "86ajc7vzg",
@@ -470,18 +470,6 @@
       "created": "2026-06-13T20:20:19.771Z"
     },
     {
-      "id": "86aj16x2n",
-      "workspace": "General Areas",
-      "workspace_slug": "general-areas",
-      "equipment": "Unknown Equipment",
-      "summary": "Out of paper towels",
-      "description": "Problem Type: Facilities\nWorkspace:  General Areas\nAsset:  \nSummary:  Out of paper towels\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781311059919039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781311059919039",
-      "created": "2026-06-13T00:37:39.403Z"
-    },
-    {
       "id": "86ahzze3m",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -528,18 +516,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781032958101869",
       "created": "2026-06-09T19:22:37.099Z"
-    },
-    {
-      "id": "86ahz0w3p",
-      "workspace": "Lobby",
-      "workspace_slug": "lobby",
-      "equipment": "Other",
-      "summary": "Lobby Calendar Frozen",
-      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Lobby Calendar Frozen\nAdditional Info:  The calendar in the lobby seems to be stuck on April 11th. It'd be nice to update it to June!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781026586880169",
-      "created": "2026-06-09T17:36:26.324Z"
     },
     {
       "id": "86ahxte6r",
@@ -878,18 +854,6 @@
       "created": "2026-04-08T00:38:07.397Z"
     },
     {
-      "id": "86age054d",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Brother Se600",
-      "summary": "Bobbin missing a piece",
-      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Brother Se600\nSummary:  Bobbin missing a piece\nAdditional Info:  There’s an extra piece but not sure if it goes with it or there’s another issue \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774400405856199\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774400405856199",
-      "created": "2026-03-25T01:00:05.143Z"
-    },
-    {
       "id": "86agbuntu",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -900,18 +864,6 @@
       "discourse_url": "https://yo.asmbly.org/t/3-21-2026-2218-metal-shop-tormach-pcnc-1100/15549",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774151665918609",
       "created": "2026-03-22T03:54:24.829Z"
-    },
-    {
-      "id": "86agbchnr",
-      "workspace": "Multi-Purpose Room",
-      "workspace_slug": "multi-purpose-room",
-      "equipment": "Other",
-      "summary": "Coffee Station Overhead Light Out",
-      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Coffee Station Overhead Light Out\nAdditional Info:  The light is totally out. I'm not sure where the breaker is at the moment.\nThe switch for the light under the coffee machine and the bathroom light still work, just not the overhead in the coffee station.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774037807393169\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1774037807393169",
-      "created": "2026-03-20T20:16:46.808Z"
     },
     {
       "id": "86ag6dq7q",
@@ -1016,7 +968,7 @@
       "equipment": "Brother Se625",
       "summary": "Backstitch",
       "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Brother Se625\nSummary:  Backstitch\nAdditional Info:  Feed dogs aren’t moving\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770859319626539\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
+      "status": "Open",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1770859319626539",
       "created": "2026-02-12T01:21:59.008Z"
@@ -1154,25 +1106,13 @@
       "created": "2025-12-14T02:23:25.419Z"
     },
     {
-      "id": "86adwkyu3",
-      "workspace": "General Areas",
-      "workspace_slug": "general-areas",
-      "equipment": "General Computer 2",
-      "summary": "Disconnected HDMI",
-      "description": "Problem Type: Facilities\nWorkspace:  General Areas\nAsset:  General Computer 2\nSummary:  Disconnected HDMI\nAdditional Info:  Someone disconnected the HDMI cable for Public 2 and did not connect it back nor report it.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1765502942687939\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1765502942687939",
-      "created": "2025-12-12T01:29:02.004Z"
-    },
-    {
       "id": "86ad7chny",
       "workspace": "Textiles",
       "workspace_slug": "textiles",
       "equipment": "Embroidery / Sewing Machine 1",
       "summary": "Backstitch not working",
       "description": "Issue type: Equipment Problem\nArea:  Textiles\nEquipment:  Embroidery / Sewing Machine 1\nSummary:  Backstitch not working\nAdditional Info:  Possible feed dog issue\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1762996877053399\n\nReport generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked.",
-      "status": "in progress",
+      "status": "Open",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1762996877053399",
       "created": "2025-11-13T01:21:11.312Z"
