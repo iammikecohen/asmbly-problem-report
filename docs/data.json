@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T21:06:37.084Z",
+  "updated": "2026-07-16T21:35:55.986Z",
   "tasks": [
     {
       "id": "86ajjc922",
@@ -48,18 +48,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784082474316209",
       "created": "2026-07-15T02:27:53.135Z"
-    },
-    {
-      "id": "86ajgpbch",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Weak DC suction",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Weak DC suction \nAdditional Info:  We noticed weak suction systemically across the entire dust collection system. Maybe too many blast gates are open??\n\nDiscourse Link: https://yo.asmbly.org/t/7-13-2026-1245-woodshop-felder-rl-350-main-shop-dust-collector/16201\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783964692759009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-13-2026-1245-woodshop-felder-rl-350-main-shop-dust-collector/16201",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783964692759009",
-      "created": "2026-07-13T17:44:51.794Z"
     },
     {
       "id": "86ajgexdk",
@@ -194,18 +182,6 @@
       "created": "2026-07-04T21:12:15.403Z"
     },
     {
-      "id": "86ajckku3",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 2 - Grizzly",
-      "summary": "Blade rattles against loose bearing",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Blade rattles against loose bearing\nAdditional Info:  The lower left bearing wobbles and can’t be tightened causing it to rattle against the blade. \nNot sure how to fix. \n\nDiscourse Link: https://yo.asmbly.org/t/7-4-2026-1305-woodshop-14-bandsaw-2-grizzly/16157\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783189154957839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/7-4-2026-1305-woodshop-14-bandsaw-2-grizzly/16157",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783189154957839",
-      "created": "2026-07-04T18:19:12.706Z"
-    },
-    {
       "id": "86ajce40f",
       "workspace": "Multi-Purpose Room",
       "workspace_slug": "multi-purpose-room",
@@ -264,18 +240,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782937681231569",
       "created": "2026-07-01T20:27:59.294Z"
-    },
-    {
-      "id": "86ajazccd",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Sanding Table",
-      "summary": "Broken On / Off Switch",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Sanding Table\nSummary:  Broken On / Off Switch\nAdditional Info:  I was rolling a cart by and smacked the on and off switch button off. \n\nDiscourse Link: https://yo.asmbly.org/t/7-1-2026-1300-woodshop-sanding-table/16132\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782930128864339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/7-1-2026-1300-woodshop-sanding-table/16132",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1782930128864339",
-      "created": "2026-07-01T18:22:06.894Z"
     },
     {
       "id": "86ajaf1tq",
@@ -746,18 +710,6 @@
       "created": "2026-05-29T00:06:41.187Z"
     },
     {
-      "id": "86ahny5hj",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "---------- Textile Room ----------",
-      "summary": "Big cutting mat heat warping",
-      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  ---------- Textile Room ----------\nSummary:  Big cutting mat heat warping\nAdditional Info:  I am sorry \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779685589897769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1779685589897769",
-      "created": "2026-05-25T05:06:29.353Z"
-    },
-    {
       "id": "86ahnhxt7",
       "workspace": "Lasers",
       "workspace_slug": "lasers",
@@ -864,30 +816,6 @@
       "discourse_url": "https://yo.asmbly.org/t/4-29-2026-2154-woodshop-drill-press-20-powermatic/15742",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777516681361379",
       "created": "2026-04-30T02:38:00.316Z"
-    },
-    {
-      "id": "86ah6mypz",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Other",
-      "summary": "Clock in textile does not work",
-      "description": "Problem Type: Facilities\nWorkspace:  Textiles\nAsset:  Other\nSummary:  Clock in textile does not work\nAdditional Info:  The clock in textile intermittently flashs on and will not let you set it.   We tried powering it off and that did not fix it.  It also made clicking noises.   We left it disconnected near the door\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777514896989999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777514896989999",
-      "created": "2026-04-30T02:08:16.522Z"
-    },
-    {
-      "id": "86ah3ng5p",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Other",
-      "summary": "Digital wall clock in the Textiles room",
-      "description": "Problem Type: Facilities\nWorkspace:  Textiles\nAsset:  Other\nSummary:  Digital wall clock in the Textiles room\nAdditional Info:  Digital wall clock in the Textiles room is blinking. It’s also making a weird clicking noise.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777227884675409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777227884675409",
-      "created": "2026-04-26T18:24:44.183Z"
     },
     {
       "id": "86ah2c3m0",
@@ -1272,18 +1200,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-24-25-05-40pm-metal-shop/14439/1",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1761345630213279",
       "created": "2025-10-24T22:40:24.055Z"
-    },
-    {
-      "id": "86acpu9n9",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Unknown Equipment",
-      "summary": "Low ink on the brother printer",
-      "description": "Issue type: Other\nArea:  Textiles\nEquipment:\nSummary:  Low ink on the brother printer\nAdditional Info:  Still prints just very faint. Also not sure where to send $ for brother printer ink - should I just send to sublimation ink fund?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1761074187362209\n\nReport generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked.",
-      "status": "in progress",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1761074187362209",
-      "created": "2025-10-21T19:16:21.718Z"
     },
     {
       "id": "86acb41yf",
