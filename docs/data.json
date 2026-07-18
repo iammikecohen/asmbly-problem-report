@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-18T17:34:48.000Z",
+  "updated": "2026-07-18T18:03:21.799Z",
   "tasks": [
+    {
+      "id": "86ajknj9g",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Out of paper for glue up yables",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Out of paper for glue up yables\nAdditional Info:  Out of paper for glue up table\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784396126904969\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784396126904969",
+      "created": "2026-07-18T17:35:26.506Z"
+    },
     {
       "id": "86ajkjgmc",
       "workspace": "Woodshop",
