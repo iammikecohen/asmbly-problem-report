@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:03:58.387Z",
+  "updated": "2026-07-19T18:33:23.871Z",
   "tasks": [
     {
       "id": "86ajkpjkw",
@@ -1068,18 +1068,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769307676539229",
       "created": "2026-01-25T02:21:15.792Z"
-    },
-    {
-      "id": "86aet56f1",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Router Table, Router and lift",
-      "summary": "Router bearings shot",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Router bearings shot\nAdditional Info:  The spindle on the router is pretty gummy and starting to squeal\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769202145691429\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1769202145691429",
-      "created": "2026-01-23T21:02:25.123Z"
     },
     {
       "id": "86aerem4m",
