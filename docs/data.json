@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T02:38:33.182Z",
+  "updated": "2026-07-19T03:58:02.785Z",
   "tasks": [
     {
       "id": "86ajkpjkw",
@@ -8,7 +8,7 @@
       "equipment": "Other",
       "summary": "The woodshop is a mess",
       "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  The woodshop is a mess\nAdditional Info:  Someone isn’t cleaning up after themselves or did a lot of cutting without the dust collector or the dust collector is busted. There’s a coating of dust on everything, the floor is slippery in most places because of the dust. Some pulled the bin from the DC but didn’t empty it. I canceled my woodshop booking because I didn’t come in to clean up after everyone else. \n\nDiscourse Link: https://yo.asmbly.org/t/7-18-2026-1846-woodshop-other/16240\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417633249039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "parts ordered",
       "discourse_url": "https://yo.asmbly.org/t/7-18-2026-1846-woodshop-other/16240",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417633249039",
       "created": "2026-07-18T23:33:52.238Z"
