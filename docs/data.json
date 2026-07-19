@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-19T18:33:23.871Z",
+  "updated": "2026-07-19T19:07:16.634Z",
   "tasks": [
+    {
+      "id": "86ajktchh",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Zephyrus",
+      "summary": "sacrificial test print needed",
+      "description": "Problem Type: Cleaning\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  sacrificial test print needed\nAdditional Info:  Preload the approved sacrificial test print on each printer to eliminate unnecessary summoning procedures.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784486759623599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784486759623599",
+      "created": "2026-07-19T18:45:58.208Z"
+    },
     {
       "id": "86ajkpjkw",
       "workspace": "Woodshop",
