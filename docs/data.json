@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T12:27:04.855Z",
+  "updated": "2026-07-20T13:13:51.969Z",
   "tasks": [
     {
       "id": "86ajkufk2",
@@ -8,22 +8,10 @@
       "equipment": "Other",
       "summary": "Mop in metal shop",
       "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Mop in metal shop\nAdditional Info:  The mop in the metal shop is garbage and needs replacement. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784502955849749\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784502955849749",
       "created": "2026-07-19T23:15:54.889Z"
-    },
-    {
-      "id": "86ajkuch7",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Other",
-      "summary": "Out of nut scrub in the metal shop sink",
-      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Out of nut scrub in the metal shop sink\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784502235978739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784502235978739",
-      "created": "2026-07-19T23:03:55.528Z"
     },
     {
       "id": "86ajkuccg",
