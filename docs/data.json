@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-20T16:48:04.852Z",
+  "updated": "2026-07-20T17:39:05.454Z",
   "tasks": [
+    {
+      "id": "86ajm7v0x",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "Missing both rear lock down screws",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Missing both rear lock down screws \nAdditional Info:  The table insert / throat plate wobbles a bit because there are now lock down screws to hook into. Both are missing. I found only one in the steward closet screw organizer, but we need to order more. Here's the exact part: https://www.sawstop.com/product/rear-lock-down-screw-for-insert/\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784567815784729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784567815784729",
+      "created": "2026-07-20T17:16:53.284Z"
+    },
     {
       "id": "86ajkufk2",
       "workspace": "Uncategorized",
@@ -24,18 +36,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784502190790189",
       "created": "2026-07-19T23:03:08.481Z"
-    },
-    {
-      "id": "86ajku7yw",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Tormach PCNC 1100",
-      "summary": "Coolant flow blocked",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Tormach PCNC 1100\nSummary:  Coolant flow blocked\nAdditional Info:  The black plastic filter I had installed in the coolant tray to filter chips was plugged up blocking coolant flow.  I removed it, and threw it away.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500272076559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500272076559",
-      "created": "2026-07-19T22:31:11.074Z"
     },
     {
       "id": "86ajku7uh",
