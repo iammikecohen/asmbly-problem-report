@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:58:24.562Z",
+  "updated": "2026-07-20T14:50:11.013Z",
   "tasks": [
     {
       "id": "86ajkufk2",
@@ -36,18 +36,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500272076559",
       "created": "2026-07-19T22:31:11.074Z"
-    },
-    {
-      "id": "86ajku7vm",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Tormach PCNC 1100",
-      "summary": "Out of pre-mixed Tormach coolant",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Tormach PCNC 1100\nSummary:  Out of pre-mixed Tormach coolant\nAdditional Info:  I did not have time to mix more\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500170158729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500170158729",
-      "created": "2026-07-19T22:29:29.245Z"
     },
     {
       "id": "86ajku7uh",
