@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T19:08:18.856Z",
+  "updated": "2026-07-22T19:44:26.267Z",
   "tasks": [
     {
       "id": "86ajm7v0x",
@@ -420,18 +420,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-19-2026-2028-lasers-tarkin/16068",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781920295495979",
       "created": "2026-06-20T01:51:34.528Z"
-    },
-    {
-      "id": "86aj4xdqe",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Elegoo Resin Printer - Tethys",
-      "summary": "Z axis issues",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Elegoo Resin Printer - Tethys\nSummary:  Z axis issues\nAdditional Info:  its like the buid plate is getting stuck in the resin tank\n\nDiscourse Link: https://yo.asmbly.org/t/6-19-2026-1008-3d-printing-elegoo-resin-printer-tethys/16062\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781882536550829\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/6-19-2026-1008-3d-printing-elegoo-resin-printer-tethys/16062",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781882536550829",
-      "created": "2026-06-19T15:22:15.027Z"
     },
     {
       "id": "86aj4nh2a",
