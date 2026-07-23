@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:45:20.086Z",
+  "updated": "2026-07-23T17:16:03.572Z",
   "tasks": [
     {
       "id": "86ajntzwg",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761118266919",
       "created": "2026-07-22T22:58:36.401Z"
-    },
-    {
-      "id": "86ajntzmb",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Wood Lathe - Laguna Revo 18/36",
-      "summary": "Quill issue",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Laguna Revo 18/36\nSummary:  Quill issue\nAdditional Info:  Quill is heavily beat in where the set screw goes - not operating well and may need replacement\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761051653759\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761051653759",
-      "created": "2026-07-22T22:57:30.483Z"
     },
     {
       "id": "86ajm7v0x",
