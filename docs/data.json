@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:57:21.188Z",
+  "updated": "2026-07-23T18:31:28.077Z",
   "tasks": [
     {
       "id": "86ajntzwg",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761118266919",
       "created": "2026-07-22T22:58:36.401Z"
-    },
-    {
-      "id": "86ajm7v0x",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Missing both rear lock down screws",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Missing both rear lock down screws \nAdditional Info:  The table insert / throat plate wobbles a bit because there are now lock down screws to hook into. Both are missing. I found only one in the steward closet screw organizer, but we need to order more. Here's the exact part: https://www.sawstop.com/product/rear-lock-down-screw-for-insert/\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784567815784729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784567815784729",
-      "created": "2026-07-20T17:16:53.284Z"
     },
     {
       "id": "86ajkuccg",
