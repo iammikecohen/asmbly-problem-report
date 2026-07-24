@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-24T14:33:32.356Z",
+  "updated": "2026-07-24T15:16:13.215Z",
   "tasks": [
+    {
+      "id": "86ajpm8nh",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Zephyrus",
+      "summary": "Stuck filament",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  Stuck filament \nAdditional Info:  I tried heating the hot end up and removing ptfe tube,  filament felt like it has a bubble holding it in place.  I don’t feel comfortable opening up the hot end\n\nDiscourse Link: https://yo.asmbly.org/t/7-24-2026-923-3d-printing-bambulabs-p1s-zephyrus/16281\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784904930734619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-24-2026-923-3d-printing-bambulabs-p1s-zephyrus/16281",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784904930734619",
+      "created": "2026-07-24T14:55:29.704Z"
+    },
     {
       "id": "86ajpdmvy",
       "workspace": "3D Printing",
