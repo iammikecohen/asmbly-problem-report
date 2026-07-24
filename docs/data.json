@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-24T02:37:24.048Z",
+  "updated": "2026-07-24T03:52:40.850Z",
   "tasks": [
+    {
+      "id": "86ajpdmvy",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "Screen said it was abnormal",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Screen said it was abnormal\nAdditional Info:  I didn’t use the machine but I saw an error on the screen that said it was in an abnormal state and wasn’t usable. This was my first attempt at using a P1S so I didn’t investigate further. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784861261974989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784861261974989",
+      "created": "2026-07-24T02:47:41.445Z"
+    },
     {
       "id": "86ajpbvkn",
       "workspace": "Woodshop",
