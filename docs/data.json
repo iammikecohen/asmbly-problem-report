@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-25T21:32:04.800Z",
+  "updated": "2026-07-25T22:04:09.239Z",
   "tasks": [
+    {
+      "id": "86ajq1kpu",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Water fountain bottle filler spraying",
+      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Water fountain bottle filler spraying\nAdditional Info:  It has triggered twice in the last few minutes with no bottle to be filled, just spraying water down the drain. Triggering the sensor and then removing the trigger seems to get it to stop\n\nDiscourse Link: https://yo.asmbly.org/t/7-25-2026-1626-multi-purpose-room-other/16286\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785015334687679\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-25-2026-1626-multi-purpose-room-other/16286",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785015334687679",
+      "created": "2026-07-25T21:35:33.661Z"
+    },
     {
       "id": "86ajpm8nh",
       "workspace": "3D Printing",
