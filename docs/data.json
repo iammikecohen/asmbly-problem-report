@@ -1,18 +1,6 @@
 {
-  "updated": "2026-07-26T23:19:19.913Z",
+  "updated": "2026-07-26T23:47:20.009Z",
   "tasks": [
-    {
-      "id": "86ajq5m0m",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Bastet",
-      "summary": "Filament load problem on Bastet",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Filament load problem on Bastet\nAdditional Info:  Several attempts to load filament into Bastet from different slots; Bambu Studio errors advise to see if there is filament broken in the extruder\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785082215394549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785082215394549",
-      "created": "2026-07-26T16:10:14.400Z"
-    },
     {
       "id": "86ajq1kpu",
       "workspace": "Multi-Purpose Room",
