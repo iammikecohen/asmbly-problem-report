@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T21:50:17.340Z",
+  "updated": "2026-07-27T22:21:54.872Z",
   "tasks": [
     {
       "id": "86ajqvher",
@@ -50,18 +50,6 @@
       "created": "2026-07-24T02:47:41.445Z"
     },
     {
-      "id": "86ajpbvkn",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Brake",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Brake\nAdditional Info:  Braking system not working properly . I am red tagging it.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784846335305599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784846335305599",
-      "created": "2026-07-23T22:38:54.689Z"
-    },
-    {
       "id": "86ajntzwg",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -96,54 +84,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500091084799",
       "created": "2026-07-19T22:28:10.175Z"
-    },
-    {
-      "id": "86ajkpjkw",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "The woodshop is a mess",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  The woodshop is a mess\nAdditional Info:  Someone isn’t cleaning up after themselves or did a lot of cutting without the dust collector or the dust collector is busted. There’s a coating of dust on everything, the floor is slippery in most places because of the dust. Some pulled the bin from the DC but didn’t empty it. I canceled my woodshop booking because I didn’t come in to clean up after everyone else. \n\nDiscourse Link: https://yo.asmbly.org/t/7-18-2026-1846-woodshop-other/16240\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417633249039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/7-18-2026-1846-woodshop-other/16240",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417633249039",
-      "created": "2026-07-18T23:33:52.238Z"
-    },
-    {
-      "id": "86ajkphb4",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC Dust Collector",
-      "summary": "Dust not emptied",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC Dust Collector\nSummary:  Dust not emptied\nAdditional Info:  Went to empty bin after my session today at 6pm and it’s completely full and backed up the cyclone.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417021445499\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784417021445499",
-      "created": "2026-07-18T23:23:40.542Z"
-    },
-    {
-      "id": "86ajknj9g",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Out of paper for glue up yables",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Out of paper for glue up yables\nAdditional Info:  Out of paper for glue up table\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784396126904969\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784396126904969",
-      "created": "2026-07-18T17:35:26.506Z"
-    },
-    {
-      "id": "86ajkjgmc",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Breaker tripped.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Breaker tripped.\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784337995767969\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784337995767969",
-      "created": "2026-07-18T01:26:35.133Z"
     },
     {
       "id": "86ajjxvyu",
@@ -914,18 +854,6 @@
       "created": "2026-05-06T00:11:24.361Z"
     },
     {
-      "id": "86ah6n5m3",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Bad shaft wobble",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Bad shaft wobble\nAdditional Info:  Something is causing a bad wobble somewhere in the bit holding mechanism. Three different bits had noticeable wobbles at their cutting end — enough I was reluctant to use them. This occurred no matter how I tightened them. I yellow tagged the machine.\n\nDiscourse Link: https://yo.asmbly.org/t/4-29-2026-2154-woodshop-drill-press-20-powermatic/15742\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777516681361379\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/4-29-2026-2154-woodshop-drill-press-20-powermatic/15742",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1777516681361379",
-      "created": "2026-04-30T02:38:00.316Z"
-    },
-    {
       "id": "86ah2c3m0",
       "workspace": "3D Printing",
       "workspace_slug": "3d-printing",
@@ -936,18 +864,6 @@
       "discourse_url": "https://yo.asmbly.org/t/4-23-2026-1503-3d-printing-prusa-xl/15704",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776975971166179",
       "created": "2026-04-23T20:26:09.875Z"
-    },
-    {
-      "id": "86agzb28b",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Sawstop Bearings sound bad",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Sawstop Bearings sound bad\nAdditional Info:  This is just a guess from my ear, but the bearings sound bad in sawstop 1.  Consider a more in-depth maintenance for it in the future.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776624203048299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1776624203048299",
-      "created": "2026-04-19T18:43:21.998Z"
     },
     {
       "id": "86agvqmdx",
