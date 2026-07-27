@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-27T21:24:38.632Z",
+  "updated": "2026-07-27T21:50:17.340Z",
   "tasks": [
+    {
+      "id": "86ajqvher",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Shaper Origin Handheld CNC router",
+      "summary": "Nearly losing router retaining screw",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Shaper Origin Handheld CNC router\nSummary:  Nearly losing router retaining screw\nAdditional Info:  The last couple of times during shaper origin setup I’ve had to go hunting for the allen head screw that retains the router head. I think another user is unscrewing it way too far. It only needs 1/2 to 1 turn before being able to remove the cutter. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785187705008989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785187705008989",
+      "created": "2026-07-27T21:28:24.347Z"
+    },
     {
       "id": "86ajq1kpu",
       "workspace": "Multi-Purpose Room",
