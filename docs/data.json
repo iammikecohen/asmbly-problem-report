@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-28T19:32:47.536Z",
+  "updated": "2026-07-28T20:09:42.766Z",
   "tasks": [
+    {
+      "id": "86ajrcu5r",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Hanuman",
+      "summary": "Filament is jammed",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Hanuman\nSummary:  Filament is jammed\nAdditional Info:  Can't remove it when the nozzle is heated to 250 C.\n\nDiscourse Link: https://yo.asmbly.org/t/7-28-2026-1402-3d-printing-bambulabs-p1s-hanuman/16304\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785268210451039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/7-28-2026-1402-3d-printing-bambulabs-p1s-hanuman/16304",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785268210451039",
+      "created": "2026-07-28T19:50:09.442Z"
+    },
     {
       "id": "86ajrba01",
       "workspace": "Woodshop",
