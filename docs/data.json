@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-30T00:48:34.603Z",
+  "updated": "2026-07-30T01:32:24.929Z",
   "tasks": [
+    {
+      "id": "86ajt826q",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "Riding knife is catching pieces",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Riding knife is catching pieces\nAdditional Info:  Observed during woodshop safety class\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785374123601779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785374123601779",
+      "created": "2026-07-30T01:15:22.492Z"
+    },
     {
       "id": "86ajrcu5r",
       "workspace": "3D Printing",
