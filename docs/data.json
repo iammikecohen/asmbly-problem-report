@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-30T14:30:36.684Z",
+  "updated": "2026-07-30T15:26:24.797Z",
   "tasks": [
+    {
+      "id": "86ajtfcg4",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Router Table, Router and lift",
+      "summary": "3/4” throat plate insert cracked",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  3/4” throat plate insert cracked\nAdditional Info:  Unsafe to continue using, I threw it away. Files should be on gp1 fusion account to 3D print a replacement (several are missing or damaged)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785425051379409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785425051379409",
+      "created": "2026-07-30T15:24:10.348Z"
+    },
     {
       "id": "86ajt826q",
       "workspace": "Woodshop",
