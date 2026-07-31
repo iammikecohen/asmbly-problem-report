@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-31T14:33:32.713Z",
+  "updated": "2026-07-31T15:29:10.129Z",
   "tasks": [
+    {
+      "id": "86aju4pu9",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Dust Cart #",
+      "summary": "Shop vac 3 plug broken",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  Shop vac 3 plug broken \nAdditional Info:  Prong on plug is loose and is not connecting properly in outlet \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785511355581259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785511355581259",
+      "created": "2026-07-31T15:22:35.040Z"
+    },
     {
       "id": "86ajtfcg4",
       "workspace": "Woodshop",
