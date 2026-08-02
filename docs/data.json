@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-02T18:18:28.687Z",
+  "updated": "2026-08-02T18:47:18.406Z",
   "tasks": [
+    {
+      "id": "86ajurbhp",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Edge Sander - South Bend",
+      "summary": "No sandpaper",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  No sandpaper\nAdditional Info:  I could find no replacement belts for the edge sander in either the machine’s cabinet or the stewards closet. The belt on the sander is trashed to the point I was tempted to throw it out despite no replacements being available. The machine is essentially unusable. We need replacement belts immediately.\n\nDiscourse Link: https://yo.asmbly.org/t/8-2-2026-1346-woodshop-edge-sander-south-bend/16332\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785694794146389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-2-2026-1346-woodshop-edge-sander-south-bend/16332",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785694794146389",
+      "created": "2026-08-02T18:19:52.624Z"
+    },
     {
       "id": "86ajupd96",
       "workspace": "Lasers",
