@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-02T23:18:31.678Z",
+  "updated": "2026-08-02T23:47:06.675Z",
   "tasks": [
+    {
+      "id": "86ajutt43",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Metal exposed on outlet for gfci box",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Metal exposed on outlet for gfci box\nAdditional Info:  Power cable from ceiling going into covered outlet box seems to have too tight of bend radius going into the outlet box (that then goes to the GFCI distribution box). The electrical tape where the cable goes into the box seems to have split from handling. The split is exposing what I think (hope) is strain relief metal in the cable.\n\nI think at least the circuit should be shut off to retape the cable, but better would be to redo the connection so it doesn't have to bend going into the outlet box.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785713518638039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785713518638039",
+      "created": "2026-08-02T23:31:58.045Z"
+    },
     {
       "id": "86ajutjrc",
       "workspace": "Woodshop",
