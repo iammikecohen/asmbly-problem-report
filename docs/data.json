@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-01T23:33:39.844Z",
+  "updated": "2026-08-02T00:05:03.360Z",
   "tasks": [
+    {
+      "id": "86ajunajq",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Pearl",
+      "summary": "#unable to hold alignment",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Pearl\nSummary:  #unable to hold alignment \nAdditional Info:  #1 mirror stalk stripped, difficult to repair\n\nDiscourse Link: https://yo.asmbly.org/t/8-1-2026-1821-lasers-pearl/16326\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785628168465059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-1-2026-1821-lasers-pearl/16326",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785628168465059",
+      "created": "2026-08-01T23:49:27.540Z"
+    },
     {
       "id": "86aju5qk3",
       "workspace": "Woodshop",
