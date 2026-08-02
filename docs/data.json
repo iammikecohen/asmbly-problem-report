@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-02T00:56:45.689Z",
+  "updated": "2026-08-02T01:35:31.122Z",
   "tasks": [
+    {
+      "id": "86ajunjyv",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "strange knife in high cabinet",
+      "description": "Problem Type: Other\nWorkspace:  Textiles\nAsset:  \nSummary:  strange knife in high cabinet\nAdditional Info:  member commented in finding this old draw knife in dsub paper cabinet concerned you cannot see it that high and almost fell off onto someone.  not sure what this vintage knife is for or where to put it.  leaving it in top shelf of leather toolbox i guess because I agree it's not safe up in cabinet\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785634496547249\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785634496547249",
+      "created": "2026-08-02T01:34:52.630Z"
+    },
     {
       "id": "86ajunajq",
       "workspace": "Lasers",
