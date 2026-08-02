@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-02T22:17:11.460Z",
+  "updated": "2026-08-02T22:46:24.607Z",
   "tasks": [
+    {
+      "id": "86ajutjrc",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Controller usb will not read files",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Controller usb will not read files \nAdditional Info:  Tried three different usb drive and controller would not read drives despite restarting machine. This has been happening repeatedly. The controller needs to be replaced   Had problems getting all students to run parts due to lack of CNC available \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785709663993559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785709663993559",
+      "created": "2026-08-02T22:27:43.268Z"
+    },
     {
       "id": "86ajurbhp",
       "workspace": "Woodshop",
