@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T21:46:28.795Z",
+  "updated": "2026-08-02T22:17:11.460Z",
   "tasks": [
     {
       "id": "86ajurbhp",
@@ -12,18 +12,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-2-2026-1346-woodshop-edge-sander-south-bend/16332",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785694794146389",
       "created": "2026-08-02T18:19:52.624Z"
-    },
-    {
-      "id": "86ajupd96",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Dorian",
-      "summary": "#1 mirror stalk stripped, will not align",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  #1 mirror stalk stripped, will not align\nAdditional Info:  #1 mirror stalk stripped screw.  Shifts/rocks and cannot make or hold alignment.\nThere's only two set screws at 90 deg fixing the #1 assembly in place, it shifts and cannot be tightened.  \nThe assembly cannot be removed without removing the Y axis drive first which makes it difficult to try anything.\nI have what may be a much better assembly on hand, but the bolt pattern doesn't match.\nIt could work to drill and tap a new hole.  it's got 2 drills 90 deg apart, so 2 alternate sites, but the wall is aluminum and thin thus the stripped threads.\nIt needs a third screw, the 2-set-screw design lacks the needed stability.\n\n  \n\nDiscourse Link: https://yo.asmbly.org/t/8-1-2026-2237-lasers-dorian/16329\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785640243536299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-1-2026-2237-lasers-dorian/16329",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785640243536299",
-      "created": "2026-08-02T03:10:42.596Z"
     },
     {
       "id": "86ajunjyv",
