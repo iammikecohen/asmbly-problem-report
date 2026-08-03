@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-03T21:23:23.756Z",
+  "updated": "2026-08-03T21:51:03.647Z",
   "tasks": [
+    {
+      "id": "86ajvh7qq",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Other",
+      "summary": "Front door not closing",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Front door not closing\nAdditional Info:  Front door in main lobby hung wrong, not closing\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785793784264799\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785793784264799",
+      "created": "2026-08-03T21:49:43.837Z"
+    },
     {
       "id": "86ajutt43",
       "workspace": "Ceramics",
