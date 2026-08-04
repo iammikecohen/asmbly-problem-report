@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:14:43.938Z",
+  "updated": "2026-08-04T15:08:15.792Z",
   "tasks": [
     {
       "id": "86ajvjrt9",
@@ -326,18 +326,6 @@
       "created": "2026-07-10T20:28:20.570Z"
     },
     {
-      "id": "86ajf4wkn",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Internal fuse blew",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Internal fuse blew\nAdditional Info:  Fuse needs replaced\n\nDiscourse Link: https://yo.asmbly.org/t/7-9-2026-1057-woodshop-drill-press-20-powermatic/16176\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783612445452809\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-9-2026-1057-woodshop-drill-press-20-powermatic/16176",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783612445452809",
-      "created": "2026-07-09T15:54:04.422Z"
-    },
-    {
       "id": "86ajdb4gm",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -384,18 +372,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783235272915859",
       "created": "2026-07-05T07:07:52.004Z"
-    },
-    {
-      "id": "86ajcnnuh",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Error message prevents setting origin",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Error message prevents setting origin\nAdditional Info:  Not sure how to fix\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783235214141159\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783235214141159",
-      "created": "2026-07-05T07:06:53.457Z"
     },
     {
       "id": "86ajcm44r",
@@ -552,18 +528,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-19-2026-2028-lasers-tarkin/16068",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781920295495979",
       "created": "2026-06-20T01:51:34.528Z"
-    },
-    {
-      "id": "86aj4nh2a",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Throat plate needs replaced",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Throat plate needs replaced\nAdditional Info:  Standard throat doesn’t sit level through a cut, so the workpiece rocks against the blade making it likely to bind. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781830812449259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781830812449259",
-      "created": "2026-06-19T01:00:10.988Z"
     },
     {
       "id": "86aj4nd43",
