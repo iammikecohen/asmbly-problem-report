@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:08:15.792Z",
+  "updated": "2026-08-04T16:00:46.382Z",
   "tasks": [
     {
       "id": "86ajvjrt9",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785801949861749",
       "created": "2026-08-04T00:05:49.434Z"
-    },
-    {
-      "id": "86ajvj17t",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "The blade is loose and shaky",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  The blade is loose and shaky \nAdditional Info:  I think it just needs tightened\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785798175473959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785798175473959",
-      "created": "2026-08-03T23:02:51.076Z"
     },
     {
       "id": "86ajvh7qq",
