@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:19:00.526Z",
+  "updated": "2026-08-04T14:14:43.938Z",
   "tasks": [
     {
       "id": "86ajvjrt9",
@@ -708,18 +708,6 @@
       "discourse_url": "https://yo.asmbly.org/t/6-9-2026-1456-woodshop-laguna-small-cnc/16006",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781033103683109",
       "created": "2026-06-09T19:25:02.345Z"
-    },
-    {
-      "id": "86ahz5waj",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Need more fiber nails",
-      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Need more fiber nails\nAdditional Info:  Need to order more fiber nails. Almost out.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781032958101869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1781032958101869",
-      "created": "2026-06-09T19:22:37.099Z"
     },
     {
       "id": "86ahxte6r",
