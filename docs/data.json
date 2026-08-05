@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T14:14:48.755Z",
+  "updated": "2026-08-05T15:03:22.561Z",
   "tasks": [
     {
       "id": "86ajw27rr",
@@ -276,18 +276,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784082474316209",
       "created": "2026-07-15T02:27:53.135Z"
-    },
-    {
-      "id": "86ajgexdk",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt / Disc Combo Sander - Powermatic",
-      "summary": "Belt",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt / Disc Combo Sander - Powermatic\nSummary:  Belt\nAdditional Info:  Belt need to be replaced \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946599543779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783946599543779",
-      "created": "2026-07-13T12:43:18.920Z"
     },
     {
       "id": "86ajg8t60",
