@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-06T15:02:02.573Z",
+  "updated": "2026-08-06T22:26:54.817Z",
   "tasks": [
+    {
+      "id": "86ajx5mck",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Origin drift",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Origin drift\nAdditional Info:  Set origin seems to drift in +X direction with repeated runs. Not sure if just operator error, but have not seen this before. I do not think that Dorian should be red tagged, as everything else works fine, and it might just be operator error, but something to watch. \n\nDiscourse Link: https://yo.asmbly.org/t/8-6-2026-1257-lasers-dorian/16360\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786038425666909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-6-2026-1257-lasers-dorian/16360",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786038425666909",
+      "created": "2026-08-06T17:47:04.360Z"
+    },
     {
       "id": "86ajwv331",
       "workspace": "Woodshop",
@@ -108,18 +120,6 @@
       "discourse_url": "https://yo.asmbly.org/t/7-31-2026-1116-woodshop-table-saw-1-sawstop/16318",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514763909899",
       "created": "2026-07-31T16:19:22.938Z"
-    },
-    {
-      "id": "86aju4pu9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Dust Cart #",
-      "summary": "Shop vac 3 plug broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  Shop vac 3 plug broken \nAdditional Info:  Prong on plug is loose and is not connecting properly in outlet \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785511355581259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785511355581259",
-      "created": "2026-07-31T15:22:35.040Z"
     },
     {
       "id": "86ajtfcg4",
@@ -300,18 +300,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783745687442659",
       "created": "2026-07-11T04:54:47.049Z"
-    },
-    {
-      "id": "86ajfxg04",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Dust Cart #",
-      "summary": "power cord issue",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  power cord issue\nAdditional Info:  dust cart number 3: one of the metal prongs of the power cord is loose, making it finicky to turn on and probably unsafe \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783715301685669\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783715301685669",
-      "created": "2026-07-10T20:28:20.570Z"
     },
     {
       "id": "86ajdb4gm",
