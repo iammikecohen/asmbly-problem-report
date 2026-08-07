@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-07T01:35:34.292Z",
+  "updated": "2026-08-07T02:37:35.585Z",
   "tasks": [
+    {
+      "id": "86ajxcvrx",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "brother printer needs strong ink",
+      "description": "Problem Type: Equipment\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  brother printer needs strong ink\nAdditional Info:  print outs are barely legible\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786066536518089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786066536518089",
+      "created": "2026-08-07T01:35:35.430Z"
+    },
     {
       "id": "86ajx5mck",
       "workspace": "Lasers",
