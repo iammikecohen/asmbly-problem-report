@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T15:16:43.560Z",
+  "updated": "2026-08-07T15:46:21.624Z",
   "tasks": [
     {
       "id": "86ajxcvrx",
@@ -348,18 +348,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783274918766139",
       "created": "2026-07-05T18:08:37.144Z"
-    },
-    {
-      "id": "86ajcnnux",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "Air gun not blowing air",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  Air gun not blowing air\nAdditional Info:  The one by garage door\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783235272915859\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783235272915859",
-      "created": "2026-07-05T07:07:52.004Z"
     },
     {
       "id": "86ajcm44r",
