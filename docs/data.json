@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-07T17:16:11.159Z",
+  "updated": "2026-08-07T17:45:48.259Z",
   "tasks": [
+    {
+      "id": "86ajxppzx",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Lower limit of blade is off",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Lower limit of blade is off\nAdditional Info:  The blade won't lower past the table surface. I'll try next week to readjust the bolt that sets this: https://www.youtube.com/watch?v=oZL8FzPsqg4\n\nDiscourse Link: https://yo.asmbly.org/t/8-7-2026-1256-woodshop-table-saw-1-sawstop/16366\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786123983612459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-7-2026-1256-woodshop-table-saw-1-sawstop/16366",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786123983612459",
+      "created": "2026-08-07T17:33:02.547Z"
+    },
     {
       "id": "86ajxcvrx",
       "workspace": "Multi-Purpose Room",
@@ -120,18 +132,6 @@
       "discourse_url": "https://yo.asmbly.org/t/7-31-2026-1134-woodshop-miter-saw/16319",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514901362769",
       "created": "2026-07-31T16:21:40.403Z"
-    },
-    {
-      "id": "86aju5p2f",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Vertical crank getting too hard to turn",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Vertical crank getting too hard to turn\nAdditional Info:  This has been getting worse over time, but the crank to raise and lower the blade is getting excessively difficult to turn (and I did check that the lock mechanism was completely loose).\n\nDiscourse Link: https://yo.asmbly.org/t/7-31-2026-1116-woodshop-table-saw-1-sawstop/16318\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514763909899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-31-2026-1116-woodshop-table-saw-1-sawstop/16318",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514763909899",
-      "created": "2026-07-31T16:19:22.938Z"
     },
     {
       "id": "86ajtfcg4",
