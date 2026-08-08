@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-08T14:15:31.074Z",
+  "updated": "2026-08-08T14:41:57.849Z",
   "tasks": [
+    {
+      "id": "86ajy0t7u",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Controller not seeing USB",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Controller not seeing USB\nAdditional Info:  Brian and I tried 4 different usb drives and the big cnc controller isn’t able to see any of them \n\nDiscourse Link: https://yo.asmbly.org/t/8-8-2026-923-woodshop-laguna-swift-cnc-5x10/16370\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786198950747059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-8-2026-923-woodshop-laguna-swift-cnc-5x10/16370",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786198950747059",
+      "created": "2026-08-08T14:22:28.870Z"
+    },
     {
       "id": "86ajxxuwv",
       "workspace": "Woodshop",
