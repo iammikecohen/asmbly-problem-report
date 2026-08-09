@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-09T22:09:05.312Z",
+  "updated": "2026-08-09T22:23:22.231Z",
   "tasks": [
+    {
+      "id": "86ajy6fbp",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Other",
+      "summary": "Lobby door does not close on it’s own",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Lobby door does not close on it’s own\nAdditional Info:  Leaving the space today I saw lobby door was ajar by about 1.5”. As I left, I let the door swing close but it seemed to get stuck on threshold. I had to give it a little nudge to get the door to close and lock. \n\nDiscourse Link: https://yo.asmbly.org/t/8-9-2026-1703-lobby-other/16379\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786313410436409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-9-2026-1703-lobby-other/16379",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786313410436409",
+      "created": "2026-08-09T22:10:09.421Z"
+    },
     {
       "id": "86ajy5u57",
       "workspace": "Lobby",
