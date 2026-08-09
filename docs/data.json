@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-09T18:48:14.507Z",
+  "updated": "2026-08-09T19:13:20.234Z",
   "tasks": [
+    {
+      "id": "86ajy5u57",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Other",
+      "summary": "Calendar monitor still on July",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Calendar monitor still on July\nAdditional Info:  Not sure how to advance to August?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301457492549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301457492549",
+      "created": "2026-08-09T18:50:57.030Z"
+    },
+    {
+      "id": "86ajy5u3h",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Other",
+      "summary": "Clock time seems permanently 2:00",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Clock time seems permanently 2:00\nAdditional Info:  Not sure how to change time/hard to unplug \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301400787109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301400787109",
+      "created": "2026-08-09T18:50:00.392Z"
+    },
     {
       "id": "86ajy2qyu",
       "workspace": "Woodshop",
