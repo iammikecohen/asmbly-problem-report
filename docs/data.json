@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-09T00:33:06.220Z",
+  "updated": "2026-08-09T01:08:27.925Z",
   "tasks": [
+    {
+      "id": "86ajy2qyu",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Fence measurement is off",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Fence measurement is off\nAdditional Info:  Fence measurement seems to be roughly 1/16” off. It’s cutting slightly wider than expected \n\nDiscourse Link: https://yo.asmbly.org/t/8-8-2026-1920-woodshop-table-saw-1-sawstop/16376\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786237048326219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-8-2026-1920-woodshop-table-saw-1-sawstop/16376",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786237048326219",
+      "created": "2026-08-09T00:57:27.082Z"
+    },
     {
       "id": "86ajy2mt6",
       "workspace": "3D Printing",
