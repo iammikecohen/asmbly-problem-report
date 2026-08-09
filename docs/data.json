@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-08T23:53:19.826Z",
+  "updated": "2026-08-09T00:10:39.844Z",
   "tasks": [
+    {
+      "id": "86ajy2mt6",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "Filament stuck error",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Filament stuck error\nAdditional Info:  Printing stopped midway due to filament stack error \n\nDiscourse Link: https://yo.asmbly.org/t/8-8-2026-1903-3d-printing-bambulabs-p1s-bastet/16375\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786233973506769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-8-2026-1903-3d-printing-bambulabs-p1s-bastet/16375",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786233973506769",
+      "created": "2026-08-09T00:06:10.548Z"
+    },
     {
       "id": "86ajxxuwv",
       "workspace": "Woodshop",
