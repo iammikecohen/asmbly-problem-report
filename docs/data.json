@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:31:30.683Z",
+  "updated": "2026-08-10T19:06:09.029Z",
   "tasks": [
     {
       "id": "86ajymgxp",
@@ -228,18 +228,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785187705008989",
       "created": "2026-07-27T21:28:24.347Z"
-    },
-    {
-      "id": "86ajntzwg",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Wood Lathe - Laguna Revo 12/16 - Bert",
-      "summary": "Quill issue",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Laguna Revo 12/16 - Bert\nSummary:  Quill issue\nAdditional Info:  Quill will not advance at all\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761118266919\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784761118266919",
-      "created": "2026-07-22T22:58:36.401Z"
     },
     {
       "id": "86ajkuccg",
