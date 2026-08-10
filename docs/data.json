@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T04:09:04.157Z",
+  "updated": "2026-08-10T04:48:31.027Z",
   "tasks": [
     {
       "id": "86ajy6fbp",
@@ -48,18 +48,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-8-2026-1920-woodshop-table-saw-1-sawstop/16376",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786237048326219",
       "created": "2026-08-09T00:57:27.082Z"
-    },
-    {
-      "id": "86ajy2mt6",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Bastet",
-      "summary": "Filament stuck error",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Filament stuck error\nAdditional Info:  Printing stopped midway due to filament stack error \n\nDiscourse Link: https://yo.asmbly.org/t/8-8-2026-1903-3d-printing-bambulabs-p1s-bastet/16375\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786233973506769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-8-2026-1903-3d-printing-bambulabs-p1s-bastet/16375",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786233973506769",
-      "created": "2026-08-09T00:06:10.548Z"
     },
     {
       "id": "86ajxxuwv",
@@ -264,18 +252,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785187705008989",
       "created": "2026-07-27T21:28:24.347Z"
-    },
-    {
-      "id": "86ajpm8nh",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Zephyrus",
-      "summary": "Stuck filament",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  Stuck filament \nAdditional Info:  I tried heating the hot end up and removing ptfe tube,  filament felt like it has a bubble holding it in place.  I don’t feel comfortable opening up the hot end\n\nDiscourse Link: https://yo.asmbly.org/t/7-24-2026-923-3d-printing-bambulabs-p1s-zephyrus/16281\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784904930734619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-24-2026-923-3d-printing-bambulabs-p1s-zephyrus/16281",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784904930734619",
-      "created": "2026-07-24T14:55:29.704Z"
     },
     {
       "id": "86ajntzwg",
