@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:05:38.210Z",
+  "updated": "2026-08-10T16:30:59.601Z",
   "tasks": [
     {
       "id": "86ajy6fbp",
@@ -98,18 +98,6 @@
       "created": "2026-08-06T17:47:04.360Z"
     },
     {
-      "id": "86ajwv331",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Riving knife adjusted higher than blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Riving knife adjusted higher than blade \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785984761899799\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785984761899799",
-      "created": "2026-08-06T02:52:41.435Z"
-    },
-    {
       "id": "86ajw27rr",
       "workspace": "Lasers",
       "workspace_slug": "lasers",
@@ -204,18 +192,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785425051379409",
       "created": "2026-07-30T15:24:10.348Z"
-    },
-    {
-      "id": "86ajt826q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Riding knife is catching pieces",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Riding knife is catching pieces\nAdditional Info:  Observed during woodshop safety class\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785374123601779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785374123601779",
-      "created": "2026-07-30T01:15:22.492Z"
     },
     {
       "id": "86ajrba01",
