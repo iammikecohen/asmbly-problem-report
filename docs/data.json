@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T15:06:20.941Z",
+  "updated": "2026-08-10T15:33:13.176Z",
   "tasks": [
     {
       "id": "86ajy6fbp",
@@ -72,18 +72,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786152540670309",
       "created": "2026-08-08T01:28:59.823Z"
-    },
-    {
-      "id": "86ajxppzx",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Lower limit of blade is off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Lower limit of blade is off\nAdditional Info:  The blade won't lower past the table surface. I'll try next week to readjust the bolt that sets this: https://www.youtube.com/watch?v=oZL8FzPsqg4\n\nDiscourse Link: https://yo.asmbly.org/t/8-7-2026-1256-woodshop-table-saw-1-sawstop/16366\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786123983612459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-7-2026-1256-woodshop-table-saw-1-sawstop/16366",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786123983612459",
-      "created": "2026-08-07T17:33:02.547Z"
     },
     {
       "id": "86ajxcvrx",
