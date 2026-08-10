@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-10T19:06:09.029Z",
+  "updated": "2026-08-10T19:34:58.577Z",
   "tasks": [
+    {
+      "id": "86ajyppg2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Tool setter cable broken.vaccum pump bad",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Tool setter cable broken.vaccum pump bad\nAdditional Info:  The vacuum pump by the bay door is only pulling 5inmmhg compared to 12 on other side \n\nDiscourse Link: https://yo.asmbly.org/t/8-10-2026-1430-woodshop-laguna-swift-cnc-5x10/16383\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786389456527079\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-10-2026-1430-woodshop-laguna-swift-cnc-5x10/16383",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786389456527079",
+      "created": "2026-08-10T19:17:35.396Z"
+    },
+    {
+      "id": "86ajypj0b",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Front roller not grabbing",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Front roller not grabbing \nAdditional Info:  Witnessed a user having to force the board through and jiggle till it touched the second roller. Tried taking very light passes\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786389130188089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786389130188089",
+      "created": "2026-08-10T19:12:09.784Z"
+    },
     {
       "id": "86ajymgxp",
       "workspace": "Woodshop",
