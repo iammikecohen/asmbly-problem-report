@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T21:14:46.157Z",
+  "updated": "2026-08-10T21:30:57.293Z",
   "tasks": [
     {
       "id": "86ajyppg2",
@@ -48,18 +48,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-9-2026-1703-lobby-other/16379",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786313410436409",
       "created": "2026-08-09T22:10:09.421Z"
-    },
-    {
-      "id": "86ajy5u57",
-      "workspace": "Lobby",
-      "workspace_slug": "lobby",
-      "equipment": "Other",
-      "summary": "Calendar monitor still on July",
-      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  Other\nSummary:  Calendar monitor still on July\nAdditional Info:  Not sure how to advance to August?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301457492549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301457492549",
-      "created": "2026-08-09T18:50:57.030Z"
     },
     {
       "id": "86ajy5u3h",
