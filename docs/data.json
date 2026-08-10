@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-10T17:32:30.265Z",
+  "updated": "2026-08-10T18:01:35.446Z",
   "tasks": [
+    {
+      "id": "86ajymgxp",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Multiple blades broken",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Multiple blades broken \nAdditional Info:  Possible lower wheel tilt\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786384646176109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786384646176109",
+      "created": "2026-08-10T17:57:25.618Z"
+    },
     {
       "id": "86ajy6fbp",
       "workspace": "Lobby",
