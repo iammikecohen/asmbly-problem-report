@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-11T17:33:50.364Z",
+  "updated": "2026-08-11T18:02:52.962Z",
   "tasks": [
+    {
+      "id": "86ajz8c2e",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Squeals when starting",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Squeals when starting\nAdditional Info:  I'm going to get some car belt cleaner/conditioner to see if that fixes it\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786471310840629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786471310840629",
+      "created": "2026-08-11T18:01:49.782Z"
+    },
     {
       "id": "86ajz3ygr",
       "workspace": "Woodshop",
@@ -84,18 +96,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301400787109",
       "created": "2026-08-09T18:50:00.392Z"
-    },
-    {
-      "id": "86ajy2qyu",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Fence measurement is off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Fence measurement is off\nAdditional Info:  Fence measurement seems to be roughly 1/16” off. It’s cutting slightly wider than expected \n\nDiscourse Link: https://yo.asmbly.org/t/8-8-2026-1920-woodshop-table-saw-1-sawstop/16376\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786237048326219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-8-2026-1920-woodshop-table-saw-1-sawstop/16376",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786237048326219",
-      "created": "2026-08-09T00:57:27.082Z"
     },
     {
       "id": "86ajxxuwv",
@@ -224,7 +224,7 @@
       "equipment": "Router Table, Router and lift",
       "summary": "3/4” throat plate insert cracked",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  3/4” throat plate insert cracked\nAdditional Info:  Unsafe to continue using, I threw it away. Files should be on gp1 fusion account to 3D print a replacement (several are missing or damaged)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785425051379409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785425051379409",
       "created": "2026-07-30T15:24:10.348Z"
@@ -284,7 +284,7 @@
       "equipment": "Other",
       "summary": "Ridged Hand Sander",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Ridged Hand Sander\nAdditional Info:  After talking to Robert, threw out ridged hand sander that would not work once pressure was applied. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839",
       "created": "2026-07-16T21:44:41.268Z"
