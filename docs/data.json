@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-11T14:30:59.076Z",
+  "updated": "2026-08-11T15:06:02.147Z",
   "tasks": [
+    {
+      "id": "86ajz3ygr",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Chips left around the base",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Chips left around the base\nAdditional Info:  Looks like a combo of paduak purple heart and white oak/maple\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786459259579909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786459259579909",
+      "created": "2026-08-11T14:40:59.171Z"
+    },
+    {
+      "id": "86ajz3x6g",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Jointer 12\" - Laguna JX/12 Sheartec",
+      "summary": "Tool left covered in chips",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Jointer 12\" - Laguna JX/12 Sheartec\nSummary:  Tool left covered in chips\nAdditional Info:  Looks like a combo of paduak, purple heart and white oak/maple\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786459190872319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786459190872319",
+      "created": "2026-08-11T14:39:50.132Z"
+    },
     {
       "id": "86ajyppg2",
       "workspace": "Woodshop",
