@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T17:05:42.475Z",
+  "updated": "2026-08-11T17:33:50.364Z",
   "tasks": [
     {
       "id": "86ajz3ygr",
@@ -216,18 +216,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-1-2026-1821-lasers-pearl/16326",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785628168465059",
       "created": "2026-08-01T23:49:27.540Z"
-    },
-    {
-      "id": "86aju5qk3",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Miter lock mechanism loose",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Miter lock mechanism loose\nAdditional Info:  The mechanism that locks the miter angle in place does essentially nothing, meaning the saw can turn unexpectedly (dangerously!) if it’s not at one of the detent angles. From a quick glance, nothing seems broken; I think it may just be an adjustment to tighten it a lot.\n\nDiscourse Link: https://yo.asmbly.org/t/7-31-2026-1134-woodshop-miter-saw/16319\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514901362769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/7-31-2026-1134-woodshop-miter-saw/16319",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1785514901362769",
-      "created": "2026-07-31T16:21:40.403Z"
     },
     {
       "id": "86ajtfcg4",
