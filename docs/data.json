@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-12T03:29:23.155Z",
+  "updated": "2026-08-12T04:15:38.588Z",
   "tasks": [
+    {
+      "id": "86ajzhh7k",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Glazing Area",
+      "summary": "Misty Forest bucket almost empty",
+      "description": "Problem Type: Supplies\nWorkspace:  Ceramics\nAsset:  Glazing Area\nSummary:  Misty Forest bucket almost empty\nAdditional Info:  Last batch might have been contaminated\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786507580742229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786507580742229",
+      "created": "2026-08-12T04:06:19.692Z"
+    },
     {
       "id": "86ajz8c2e",
       "workspace": "Woodshop",
