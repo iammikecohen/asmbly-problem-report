@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-13T19:47:39.267Z",
+  "updated": "2026-08-13T20:10:18.814Z",
   "tasks": [
+    {
+      "id": "86ak0j1c9",
+      "workspace": "Electronics",
+      "workspace_slug": "electronics",
+      "equipment": "Other",
+      "summary": "light fixture under shelf is hanging",
+      "description": "Problem Type: Other\nWorkspace:  Electronics\nAsset:  Other\nSummary:  light fixture under shelf is hanging \nAdditional Info:  the double sided tape isn't working\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786651557975899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786651557975899",
+      "created": "2026-08-13T20:05:57.450Z"
+    },
     {
       "id": "86ak094q8",
       "workspace": "Woodshop",
