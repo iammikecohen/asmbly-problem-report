@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-13T13:45:29.942Z",
+  "updated": "2026-08-13T14:26:34.499Z",
   "tasks": [
+    {
+      "id": "86ak094q8",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Edge Sander - South Bend",
+      "summary": "Power cord needs replacement",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Power cord needs replacement \nAdditional Info:  Cord got caught on edge of sander and sanding by cut through the cord\n\nDiscourse Link: https://yo.asmbly.org/t/8-13-2026-939-woodshop-edge-sander-south-bend/16399\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786630187772889\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-13-2026-939-woodshop-edge-sander-south-bend/16399",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786630187772889",
+      "created": "2026-08-13T14:09:46.220Z"
+    },
     {
       "id": "86ajzhh7k",
       "workspace": "Ceramics",
