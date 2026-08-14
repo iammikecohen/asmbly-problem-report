@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-14T03:29:44.163Z",
+  "updated": "2026-08-14T04:16:46.851Z",
   "tasks": [
+    {
+      "id": "86ak0pu1b",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "One one vacuum pump works",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  One one vacuum pump works\nAdditional Info:  One of the vacuum pumps is not running at all.\n\nDiscourse Link: https://yo.asmbly.org/t/8-13-2026-2227-woodshop-laguna-swift-cnc-5x10/16405\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786678593985619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-13-2026-2227-woodshop-laguna-swift-cnc-5x10/16405",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786678593985619",
+      "created": "2026-08-14T03:36:32.882Z"
+    },
     {
       "id": "86ak0nr7g",
       "workspace": "Woodshop",
