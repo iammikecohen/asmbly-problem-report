@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-14T01:31:25.212Z",
+  "updated": "2026-08-14T02:35:00.069Z",
   "tasks": [
+    {
+      "id": "86ak0nr7g",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Miter Saw",
+      "summary": "Vacuum switch malfunctioning",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Vacuum switch malfunctioning\nAdditional Info:  The switch on the vacuum that turns on when the miter saw runs is not functioning quite right. The vacuum didn’t come on until I wiggled that switch, and it didn’t want to stay on. (Noticed during WSS class.)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671506213789\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671506213789",
+      "created": "2026-08-14T01:38:24.054Z"
+    },
+    {
+      "id": "86ak0nqam",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Down draft table is broken",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Down draft table is broken\nAdditional Info:  Looks like the switch broke or something the down draft sanding table seems broken\n\nDiscourse Link: https://yo.asmbly.org/t/8-13-2026-2059-woodshop-other/16404\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671247120209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-13-2026-2059-woodshop-other/16404",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671247120209",
+      "created": "2026-08-14T01:34:05.978Z"
+    },
     {
       "id": "86ak0j1c9",
       "workspace": "Electronics",
