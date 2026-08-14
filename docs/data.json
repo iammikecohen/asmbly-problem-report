@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-14T18:02:10.409Z",
+  "updated": "2026-08-14T18:30:57.946Z",
   "tasks": [
+    {
+      "id": "86ak0zwya",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Woodshop jammed finish nailer",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Woodshop jammed finish nailer\nAdditional Info:  Porter Cable finish nailer is jammed. This may be my fault, I thought I was loading 16 gauge nails but they might be smaller. I wasn’t able to clear the jam \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786730845058709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786730845058709",
+      "created": "2026-08-14T18:07:24.443Z"
+    },
     {
       "id": "86ak0v5ym",
       "workspace": "Uncategorized",
