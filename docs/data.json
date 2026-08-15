@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-15T16:38:41.401Z",
+  "updated": "2026-08-15T16:51:31.477Z",
   "tasks": [
+    {
+      "id": "86ak19e09",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "plexiglass tripped the sawstop",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  plexiglass tripped the sawstop \nAdditional Info:  Don’t try and cut plexiglass!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786812153238389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786812153238389",
+      "created": "2026-08-15T16:42:32.822Z"
+    },
     {
       "id": "86ak163b0",
       "workspace": "3D Printing",
