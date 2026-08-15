@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-15T17:04:44.277Z",
+  "updated": "2026-08-15T17:21:43.066Z",
   "tasks": [
+    {
+      "id": "86ak19jpw",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Tool height puck miscalibrated",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Tool height puck miscalibrated\nAdditional Info:  The aluminum puck height is incorrectly configured in the pendant. Off by about .5mm\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786814384183139\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786814384183139",
+      "created": "2026-08-15T17:19:43.739Z"
+    },
     {
       "id": "86ak19e09",
       "workspace": "Woodshop",
