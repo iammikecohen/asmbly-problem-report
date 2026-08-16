@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T22:02:51.135Z",
+  "updated": "2026-08-16T22:21:57.798Z",
   "tasks": [
+    {
+      "id": "86ak1dwpe",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Left side filament sensors not working",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Left side filament sensors not working\nAdditional Info:  Printer may claim that it is not calibrated. Actually, just those sensors have failed calibration. The printer is fine to print with.\n\nDiscourse Link: https://yo.asmbly.org/t/8-16-2026-1753-3d-printing-prusa-xl/16417\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786918021485629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-16-2026-1753-3d-printing-prusa-xl/16417",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786918021485629",
+      "created": "2026-08-16T22:07:00.255Z"
+    },
     {
       "id": "86ak1dr80",
       "workspace": "Uncategorized",
