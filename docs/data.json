@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T21:21:48.852Z",
+  "updated": "2026-08-16T21:35:30.530Z",
   "tasks": [
+    {
+      "id": "86ak1dr80",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Replaced filament wire. Need new spool",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Replaced filament wire. Need new spool \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786915454984039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786915454984039",
+      "created": "2026-08-16T21:24:14.240Z"
+    },
     {
       "id": "86ak1dej6",
       "workspace": "Woodshop",
