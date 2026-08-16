@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T03:06:06.908Z",
+  "updated": "2026-08-16T03:31:26.917Z",
   "tasks": [
+    {
+      "id": "86ak1bj3n",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Water fountain leaking a lot of water",
+      "description": "Problem Type: Equipment\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Water fountain leaking a lot of water\nAdditional Info:  It's leaking water from the very bottom of it and created a huge puddle\n\nDiscourse Link: https://yo.asmbly.org/t/8-15-2026-2218-multi-purpose-room-other/16415\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786849587183619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-15-2026-2218-multi-purpose-room-other/16415",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786849587183619",
+      "created": "2026-08-16T03:06:26.078Z"
+    },
     {
       "id": "86ak1b0bb",
       "workspace": "Woodshop",
