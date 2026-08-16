@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T20:22:28.546Z",
+  "updated": "2026-08-16T20:37:12.653Z",
   "tasks": [
+    {
+      "id": "86ak1dej6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Saw won’t lower",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Saw won’t lower\nAdditional Info:  I tried vacuuming out the base, there were 900 pounds of saw dust and scraps in there.\nThat didn’t help.\n\nDiscourse Link: https://yo.asmbly.org/t/8-16-2026-1511-woodshop-table-saw-1-sawstop/16416\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786911859026869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-16-2026-1511-woodshop-table-saw-1-sawstop/16416",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786911859026869",
+      "created": "2026-08-16T20:24:17.742Z"
+    },
     {
       "id": "86ak1d6ye",
       "workspace": "Multi-Purpose Room",
