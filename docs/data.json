@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-17T19:51:39.253Z",
+  "updated": "2026-08-17T20:04:51.561Z",
   "tasks": [
-    {
-      "id": "86ak1w8w6",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Angle wheel jammed at 1 degree off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Angle wheel jammed at 1 degree off\nAdditional Info:  This saw keeps clogging up with sawdust. The blade height mechanism  was just cleaned yesterday I think.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786994134789439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786994134789439",
-      "created": "2026-08-17T19:15:33.993Z"
-    },
     {
       "id": "86ak1w65q",
       "workspace": "Woodshop",
