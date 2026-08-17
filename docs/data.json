@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:22:50.320Z",
+  "updated": "2026-08-17T21:38:10.820Z",
   "tasks": [
     {
       "id": "86ak1w65q",
@@ -84,18 +84,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786814384183139",
       "created": "2026-08-15T17:19:43.739Z"
-    },
-    {
-      "id": "86ak163b0",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Unknown Equipment",
-      "summary": "Respooler is missing a bearing",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  \nSummary:  Respooler is missing a bearing\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/8-14-2026-1829-3d-printing/16412\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786751076592089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-14-2026-1829-3d-printing/16412",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786751076592089",
-      "created": "2026-08-14T23:44:35.335Z"
     },
     {
       "id": "86ak15w04",
