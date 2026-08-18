@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-18T14:43:18.915Z",
+  "updated": "2026-08-18T14:58:56.881Z",
   "tasks": [
+    {
+      "id": "86ak28gb6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Dust Cart #",
+      "summary": "Shop Vac 8 Faulty Switch",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  Shop Vac 8 Faulty Switch\nAdditional Info:  Switch needs to be held down to operate\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064891259639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064891259639",
+      "created": "2026-08-18T14:54:50.758Z"
+    },
+    {
+      "id": "86ak28d9q",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Missing steps in Y axis",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Missing steps in Y axis\nAdditional Info:  The Laguna IQ lost steps multiple times in the Y axis during operation. I cleaned and greased the linear bearings via the zerk fittings but this did not resolve the issue. The ball screw seemed clean and unobstructed. Recommend a yellow tag.\n\nDiscourse Link: https://yo.asmbly.org/t/8-18-2026-913-woodshop-laguna-small-cnc/16426\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064741245149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-18-2026-913-woodshop-laguna-small-cnc/16426",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064741245149",
+      "created": "2026-08-18T14:52:20.189Z"
+    },
     {
       "id": "86ak217fv",
       "workspace": "Ceramics",
@@ -108,18 +132,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-14-2026-1847-metal-shop-metal-lathe-grizzly/16411",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786749894238019",
       "created": "2026-08-14T23:24:53.195Z"
-    },
-    {
-      "id": "86ak0nr7g",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Vacuum switch malfunctioning",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Vacuum switch malfunctioning\nAdditional Info:  The switch on the vacuum that turns on when the miter saw runs is not functioning quite right. The vacuum didn’t come on until I wiggled that switch, and it didn’t want to stay on. (Noticed during WSS class.)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671506213789\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671506213789",
-      "created": "2026-08-14T01:38:24.054Z"
     },
     {
       "id": "86ak0nqam",
