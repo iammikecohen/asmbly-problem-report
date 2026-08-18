@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:26:52.770Z",
+  "updated": "2026-08-18T15:41:14.227Z",
   "tasks": [
     {
       "id": "86ak28gb6",
@@ -168,18 +168,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786507580742229",
       "created": "2026-08-12T04:06:19.692Z"
-    },
-    {
-      "id": "86ajz8c2e",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Squeals when starting",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Squeals when starting\nAdditional Info:  I'm going to get some car belt cleaner/conditioner to see if that fixes it\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786471310840629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786471310840629",
-      "created": "2026-08-11T18:01:49.782Z"
     },
     {
       "id": "86ajyppg2",
