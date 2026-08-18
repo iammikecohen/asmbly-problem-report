@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-18T17:22:46.906Z",
+  "updated": "2026-08-18T17:39:06.306Z",
   "tasks": [
-    {
-      "id": "86ak28gb6",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Dust Cart #",
-      "summary": "Shop Vac 8 Faulty Switch",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Dust Cart #\nSummary:  Shop Vac 8 Faulty Switch\nAdditional Info:  Switch needs to be held down to operate\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064891259639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064891259639",
-      "created": "2026-08-18T14:54:50.758Z"
-    },
     {
       "id": "86ak28d9q",
       "workspace": "Woodshop",
