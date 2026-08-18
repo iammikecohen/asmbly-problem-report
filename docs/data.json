@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-18T01:28:59.142Z",
+  "updated": "2026-08-18T02:02:23.000Z",
   "tasks": [
+    {
+      "id": "86ak217fv",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "Swarming ants",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Swarming ants\nAdditional Info:  Found ant colony swarming pottery and drying boards around colmn and pottery drying area outside of ceramics \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787016938940459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787016938940459",
+      "created": "2026-08-18T01:35:38.495Z"
+    },
     {
       "id": "86ak1w65q",
       "workspace": "Woodshop",
