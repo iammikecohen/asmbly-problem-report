@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-19T22:22:28.217Z",
+  "updated": "2026-08-19T22:38:17.575Z",
   "tasks": [
-    {
-      "id": "86ak28d9q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "Missing steps in Y axis",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Missing steps in Y axis\nAdditional Info:  The Laguna IQ lost steps multiple times in the Y axis during operation. I cleaned and greased the linear bearings via the zerk fittings but this did not resolve the issue. The ball screw seemed clean and unobstructed. Recommend a yellow tag.\n\nDiscourse Link: https://yo.asmbly.org/t/8-18-2026-913-woodshop-laguna-small-cnc/16426\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064741245149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-18-2026-913-woodshop-laguna-small-cnc/16426",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787064741245149",
-      "created": "2026-08-18T14:52:20.189Z"
-    },
     {
       "id": "86ak217fv",
       "workspace": "Ceramics",
