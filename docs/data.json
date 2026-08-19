@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:06:12.520Z",
+  "updated": "2026-08-19T17:22:46.692Z",
   "tasks": [
     {
       "id": "86ak28d9q",
@@ -96,18 +96,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-14-2026-1847-metal-shop-metal-lathe-grizzly/16411",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786749894238019",
       "created": "2026-08-14T23:24:53.195Z"
-    },
-    {
-      "id": "86ak0nqam",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Down draft table is broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Down draft table is broken\nAdditional Info:  Looks like the switch broke or something the down draft sanding table seems broken\n\nDiscourse Link: https://yo.asmbly.org/t/8-13-2026-2059-woodshop-other/16404\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671247120209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-13-2026-2059-woodshop-other/16404",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786671247120209",
-      "created": "2026-08-14T01:34:05.978Z"
     },
     {
       "id": "86ak0j1c9",
@@ -468,18 +456,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783199535874579",
       "created": "2026-07-04T21:12:15.403Z"
-    },
-    {
-      "id": "86ajc7838",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Miter saw not level with feed tables",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Miter saw not level with feed tables\nAdditional Info:  The miter saw bed is lower than the feed tables \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783092033759079\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1783092033759079",
-      "created": "2026-07-03T15:20:33.237Z"
     },
     {
       "id": "86ajb6kqn",
