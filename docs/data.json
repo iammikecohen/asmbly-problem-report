@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:24:59.219Z",
+  "updated": "2026-08-19T14:42:50.949Z",
   "tasks": [
     {
       "id": "86ak28d9q",
@@ -72,18 +72,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-15-2026-2218-multi-purpose-room-other/16415",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786849587183619",
       "created": "2026-08-16T03:06:26.078Z"
-    },
-    {
-      "id": "86ak1b0bb",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Whoever was using SawStop 2 didn’t clean",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Whoever was using SawStop 2 didn’t clean\nAdditional Info:  SawStop 2 had a significant amount of dust on the floor around it. The DC bin is half full with the same redish dust (red oak?) The bin should have been emptied.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786845993886919\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786845993886919",
-      "created": "2026-08-16T02:06:33.301Z"
     },
     {
       "id": "86ak19jpw",
