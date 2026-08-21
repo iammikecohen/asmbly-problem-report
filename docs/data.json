@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-21T03:06:38.209Z",
+  "updated": "2026-08-21T03:32:52.808Z",
   "tasks": [
+    {
+      "id": "86ak44kdg",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Drill Press - Grizzly G0779 Gearhead",
+      "summary": "Table not level",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Drill Press - Grizzly G0779 Gearhead\nSummary:  Table not level \nAdditional Info:  Support table found not level during MSS\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787281591490749\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787281591490749",
+      "created": "2026-08-21T03:06:31.083Z"
+    },
     {
       "id": "86ak43fz4",
       "workspace": "Uncategorized",
