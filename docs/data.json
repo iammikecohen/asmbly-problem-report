@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:32:52.808Z",
+  "updated": "2026-08-21T03:59:56.780Z",
   "tasks": [
     {
       "id": "86ak44kdg",
@@ -120,18 +120,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786814384183139",
       "created": "2026-08-15T17:19:43.739Z"
-    },
-    {
-      "id": "86ak15w04",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Metal Lathe - Grizzly",
-      "summary": "Lathe activation lever not functioning",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  Lathe activation lever not functioning\nAdditional Info:  The set screw has sheared off and will need to be removed and replaced\n\nDiscourse Link: https://yo.asmbly.org/t/8-14-2026-1847-metal-shop-metal-lathe-grizzly/16411\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786749894238019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-14-2026-1847-metal-shop-metal-lathe-grizzly/16411",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786749894238019",
-      "created": "2026-08-14T23:24:53.195Z"
     },
     {
       "id": "86ak0j1c9",
