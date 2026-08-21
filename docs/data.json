@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:13:52.970Z",
+  "updated": "2026-08-21T15:28:15.290Z",
   "tasks": [
     {
       "id": "86ak44kdg",
@@ -180,18 +180,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786301400787109",
       "created": "2026-08-09T18:50:00.392Z"
-    },
-    {
-      "id": "86ajxxuwv",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Wood Lathe - Laguna Revo 12/16 - Ernie",
-      "summary": "Tailstock broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Laguna Revo 12/16 - Ernie\nSummary:  Tailstock broken\nAdditional Info:  No tailstock seen on Bert and the Ernie tail stock is broken, handle not attached \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786152704078149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1786152704078149",
-      "created": "2026-08-08T01:31:42.916Z"
     },
     {
       "id": "86ajxcvrx",
