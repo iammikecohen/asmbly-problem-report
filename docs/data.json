@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:11:39.410Z",
+  "updated": "2026-08-21T16:25:25.416Z",
   "tasks": [
     {
       "id": "86ak44kdg",
@@ -24,18 +24,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-20-2026-2230-metal-shop-cold-saw-baleigh-cs-350/16435",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787281478118659",
       "created": "2026-08-21T03:04:36.566Z"
-    },
-    {
-      "id": "86ak415qg",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Blade loose",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Blade loose\nAdditional Info:  Couldn’t tighten \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787273502739419\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787273502739419",
-      "created": "2026-08-21T00:51:42.218Z"
     },
     {
       "id": "86ak3tnrk",
