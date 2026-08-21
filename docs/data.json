@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-21T02:39:13.995Z",
+  "updated": "2026-08-21T03:06:38.209Z",
   "tasks": [
+    {
+      "id": "86ak43fz4",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Cold Saw - Baleigh CS-350",
+      "summary": "Forward limit block missing",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Cold Saw - Baleigh CS-350\nSummary:  Forward limit block missing \nAdditional Info:  Vise ram assembly able to moved too far forward due to missing limit block.\n\nDiscourse Link: https://yo.asmbly.org/t/8-20-2026-2230-metal-shop-cold-saw-baleigh-cs-350/16435\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787281478118659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-20-2026-2230-metal-shop-cold-saw-baleigh-cs-350/16435",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787281478118659",
+      "created": "2026-08-21T03:04:36.566Z"
+    },
     {
       "id": "86ak415qg",
       "workspace": "Woodshop",
