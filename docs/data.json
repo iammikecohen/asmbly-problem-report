@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-22T04:56:51.756Z",
+  "updated": "2026-08-22T05:09:02.432Z",
   "tasks": [
+    {
+      "id": "86ak4tb9c",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Miter Saw",
+      "summary": "Dust collection hose",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Dust collection hose\nAdditional Info:  Clogged hose and loose fitting was cleared and tightened.  Fitting has two different bolts, could not tighten second bolt.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374723781779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374723781779",
+      "created": "2026-08-22T04:58:43.316Z"
+    },
+    {
+      "id": "86ak4tb8h",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Dust collector hose",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Dust collector hose \nAdditional Info:  Internal 4 inch hose was disconnected.  I found blade would not go down all the way. Opened cabinet, found hose disconnected and cabinet full of debris and dust, cleaned and reconnected hose. May need new hose clamp.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374604422599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374604422599",
+      "created": "2026-08-22T04:56:42.260Z"
+    },
     {
       "id": "86ak4tb4b",
       "workspace": "Woodshop",
@@ -996,18 +1020,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775852750216029",
       "created": "2026-04-10T20:25:49.653Z"
-    },
-    {
-      "id": "86agqzrwc",
-      "workspace": "Textiles",
-      "workspace_slug": "textiles",
-      "equipment": "Brother Se600",
-      "summary": "feed dogs aren’t working for backstitch",
-      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Brother Se600\nSummary:  feed dogs aren’t working for backstitch \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775608687958329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775608687958329",
-      "created": "2026-04-08T00:38:07.397Z"
     },
     {
       "id": "86agqzrwc",
