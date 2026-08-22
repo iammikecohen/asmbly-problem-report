@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:36:38.341Z",
+  "updated": "2026-08-22T19:49:38.268Z",
   "tasks": [
     {
       "id": "86ak4tb9c",
@@ -48,18 +48,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787329782379859",
       "created": "2026-08-21T16:29:41.860Z"
-    },
-    {
-      "id": "86ak3tnrk",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Athena",
-      "summary": "unable to load filament",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  unable to load filament \nAdditional Info:  Left most spot was unable to load PETG filament after multiple attempts\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787246394344879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787246394344879",
-      "created": "2026-08-20T17:19:53.915Z"
     },
     {
       "id": "86ak217fv",
