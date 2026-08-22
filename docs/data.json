@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-22T04:42:23.833Z",
+  "updated": "2026-08-22T04:56:51.756Z",
   "tasks": [
+    {
+      "id": "86ak4tb4b",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Log debris left on bandsaws",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Log debris left on bandsaws\nAdditional Info:  Resaw with bark and other dust and bandsaw 2 left with debris and dust found around 10pm 9/21.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374447198419\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374447198419",
+      "created": "2026-08-22T04:54:06.706Z"
+    },
     {
       "id": "86ak4ggb5",
       "workspace": "3D Printing",
@@ -984,6 +996,18 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775852750216029",
       "created": "2026-04-10T20:25:49.653Z"
+    },
+    {
+      "id": "86agqzrwc",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Brother Se600",
+      "summary": "feed dogs aren’t working for backstitch",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Brother Se600\nSummary:  feed dogs aren’t working for backstitch \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775608687958329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1775608687958329",
+      "created": "2026-04-08T00:38:07.397Z"
     },
     {
       "id": "86agqzrwc",
