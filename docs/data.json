@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-25T00:46:16.750Z",
+  "updated": "2026-08-25T01:29:02.228Z",
   "tasks": [
-    {
-      "id": "86ak5h7ja",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "MIG/TIG Miller Multimatic 220 #2",
-      "summary": "We're out of 1/8\" in tig rods for steel",
-      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  We're out of 1/8\" in tig rods for steel \nAdditional Info:  There were a bunch of 3/32\" rods in the 1/8\" bin\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787609456491689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787609456491689",
-      "created": "2026-08-24T22:10:55.517Z"
-    },
     {
       "id": "86ak4y0dv",
       "workspace": "Woodshop",
