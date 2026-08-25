@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-25T19:02:34.958Z",
+  "updated": "2026-08-25T19:24:04.395Z",
   "tasks": [
+    {
+      "id": "86ak613az",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Shaper Origin Handheld CNC router",
+      "summary": "Corrective mechanism is jammed.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Shaper Origin Handheld CNC router\nSummary:  Corrective mechanism is jammed.\nAdditional Info:  Turn on the machine to the error, I opened up the back dust cover and cleaned the saw dust out of the machine. During start up the z movement will calibrate, then followed by a stutter which I assume is the jam on the corrective mechanism. \n\nDiscourse Link: https://yo.asmbly.org/t/8-25-2026-1409-woodshop-shaper-origin-handheld-cnc-router/16454\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787684897564519\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-25-2026-1409-woodshop-shaper-origin-handheld-cnc-router/16454",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787684897564519",
+      "created": "2026-08-25T19:08:15.909Z"
+    },
     {
       "id": "86ak4y0dv",
       "workspace": "Woodshop",
