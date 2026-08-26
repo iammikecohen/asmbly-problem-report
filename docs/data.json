@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-26T13:20:42.532Z",
+  "updated": "2026-08-26T13:46:24.019Z",
   "tasks": [
+    {
+      "id": "86ak6d24h",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Missing screw on 5-6” micrometer",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Missing screw on 5-6” micrometer\nAdditional Info:  The latch mechanism is missing a screw on the 5-6” micrometer (and therefore won’t latch). Mainly noting for so I remember to fix this later.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787751495460809\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787751495460809",
+      "created": "2026-08-26T13:38:15.072Z"
+    },
     {
       "id": "86ak67z5b",
       "workspace": "Textiles",
