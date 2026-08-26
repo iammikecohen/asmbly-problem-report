@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:54:03.075Z",
+  "updated": "2026-08-26T12:07:19.277Z",
   "tasks": [
     {
       "id": "86ak67z5b",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787705008905659",
       "created": "2026-08-26T00:43:28.492Z"
-    },
-    {
-      "id": "86ak66x7x",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "Missing wrenches",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Missing wrenches\nAdditional Info:  Both silver wrenches are missing. I checked around the area, around the big CNC, and the tool wall. \n\nDiscourse Link: https://yo.asmbly.org/t/8-25-2026-1730-woodshop-laguna-small-cnc/16455\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787697217990339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/8-25-2026-1730-woodshop-laguna-small-cnc/16455",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787697217990339",
-      "created": "2026-08-25T22:33:37.003Z"
     },
     {
       "id": "86ak613az",
