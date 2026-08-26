@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-26T00:25:54.393Z",
+  "updated": "2026-08-26T00:47:12.977Z",
   "tasks": [
+    {
+      "id": "86ak67z5b",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Sewing Machine walking foot Juki LU-562",
+      "summary": "Bobbin fell into the oil pan",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Sewing Machine walking foot Juki LU-562\nSummary:  Bobbin fell into the oil pan\nAdditional Info:  The oil pan is filled with oil\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787705008905659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787705008905659",
+      "created": "2026-08-26T00:43:28.492Z"
+    },
     {
       "id": "86ak66x7x",
       "workspace": "Woodshop",
