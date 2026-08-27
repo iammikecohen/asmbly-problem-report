@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T16:54:14.349Z",
+  "updated": "2026-08-27T20:23:59.268Z",
   "tasks": [
     {
       "id": "86ak6wae5",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787795063915379",
       "created": "2026-08-27T01:44:23.541Z"
-    },
-    {
-      "id": "86ak6w9hd",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Small CNC",
-      "summary": "Touch pro wire needs to be re-soldered",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Touch pro wire needs to be re-soldered\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787794797870319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787794797870319",
-      "created": "2026-08-27T01:39:57.347Z"
     },
     {
       "id": "86ak6h4bf",
