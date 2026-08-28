@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-28T16:11:31.955Z",
+  "updated": "2026-08-28T20:13:41.809Z",
   "tasks": [
+    {
+      "id": "86ak7wu6u",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "vCarve missing swift configuration",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  vCarve missing swift configuration \nAdditional Info:  It seems like the vcarve setup for the big CNC is missing the Swift machine configuration. \n\nI see one for the IQ, I see one for a large machine which is 4x8. And I see one for a desktop machine. Am I completely missing something here or is this somehow missing from the computer itself.\n\nDiscourse Link: https://yo.asmbly.org/t/8-28-2026-1242-woodshop-laguna-swift-cnc-5x10/16469\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787939991821639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/8-28-2026-1242-woodshop-laguna-swift-cnc-5x10/16469",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787939991821639",
+      "created": "2026-08-28T17:59:49.533Z"
+    },
     {
       "id": "86ak6wae5",
       "workspace": "Woodshop",
