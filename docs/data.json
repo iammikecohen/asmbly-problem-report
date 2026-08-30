@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-30T19:03:34.935Z",
+  "updated": "2026-08-30T19:17:48.255Z",
   "tasks": [
+    {
+      "id": "86ak89k04",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "Calibration",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Calibration \nAdditional Info:  Table is out from left to right and vertical travel is very light compared to past \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788116967255229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788116967255229",
+      "created": "2026-08-30T19:09:26.517Z"
+    },
     {
       "id": "86ak88yf8",
       "workspace": "Woodshop",
