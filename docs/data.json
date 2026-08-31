@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-31T16:25:16.502Z",
+  "updated": "2026-08-31T16:33:12.881Z",
   "tasks": [
-    {
-      "id": "86ak8h7vr",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Blade won’t lower fully",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Blade won’t lower fully\nAdditional Info:  The gears are clogged again. Also noticed today lots of sawdust in the cabinet. The DC hose was connected and not clogged. Might want to replace the missing dust gate on both table saws\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788184622822649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788184622822649",
-      "created": "2026-08-31T13:57:02.303Z"
-    },
     {
       "id": "86ak8h3g1",
       "workspace": "Building",
