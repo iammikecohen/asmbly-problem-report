@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-31T05:24:49.734Z",
+  "updated": "2026-08-31T05:34:09.070Z",
   "tasks": [
+    {
+      "id": "86ak8cg7h",
+      "workspace": "Building",
+      "workspace_slug": "building",
+      "equipment": "Unknown Equipment",
+      "summary": "Safety glasses racks low",
+      "description": "Problem Type: Supplies\nWorkspace:  Building\nAsset:  \nSummary:  Safety glasses racks low\nAdditional Info:  Most of the safety glass racks are very low on glasses\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788154442057359\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788154442057359",
+      "created": "2026-08-31T05:34:01.537Z"
+    },
+    {
+      "id": "86ak8cg5u",
+      "workspace": "Building",
+      "workspace_slug": "building",
+      "equipment": "Unknown Equipment",
+      "summary": "No large garbage bags",
+      "description": "Problem Type: Supplies\nWorkspace:  Building\nAsset:  \nSummary:  No large garbage bags\nAdditional Info:  Looked all over and don’t see any large garbage bags. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788154371186999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788154371186999",
+      "created": "2026-08-31T05:32:50.527Z"
+    },
     {
       "id": "86ak89k04",
       "workspace": "Woodshop",
