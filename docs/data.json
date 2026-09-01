@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-01T19:46:56.089Z",
+  "updated": "2026-09-01T20:04:51.477Z",
   "tasks": [
+    {
+      "id": "86ak9kk1r",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt / Disc Combo Sander - Powermatic",
+      "summary": "Sandpaper belt has holes",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt / Disc Combo Sander - Powermatic\nSummary:  Sandpaper belt has holes\nAdditional Info:  Not sure if this is and issue, but the sandpaper belt has worn thru in some places, will add pic \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788292174932799\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788292174932799",
+      "created": "2026-09-01T19:49:34.500Z"
+    },
     {
       "id": "86ak8h3g1",
       "workspace": "Building",
