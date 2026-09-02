@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-02T20:24:38.166Z",
+  "updated": "2026-09-02T20:34:10.783Z",
   "tasks": [
+    {
+      "id": "86akap1g9",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "The orbial sanders are down to 1.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  The orbial sanders are down to 1.\nAdditional Info:  The last remaining operating orbial sander is also not working right... it wobbles.\n\nDiscourse Link: https://yo.asmbly.org/t/9-2-2026-1528-woodshop-other/16500\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788380736603109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-2-2026-1528-woodshop-other/16500",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788380736603109",
+      "created": "2026-09-02T20:25:35.481Z"
+    },
     {
       "id": "86ak9t4p9",
       "workspace": "3D Printing",
