@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-02T01:00:24.156Z",
+  "updated": "2026-09-02T01:32:33.721Z",
   "tasks": [
+    {
+      "id": "86ak9t4p9",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Other",
+      "summary": "fountain bottle filler going off",
+      "description": "Problem Type: Facilities\nWorkspace:  3D Printing\nAsset:  Other\nSummary:  fountain bottle filler going off \nAdditional Info:  The bottle filler on the water fountain is going off randomly with no bottle in front of the sensor.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788312688067239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788312688067239",
+      "created": "2026-09-02T01:31:27.312Z"
+    },
     {
       "id": "86ak9kk1r",
       "workspace": "Woodshop",
