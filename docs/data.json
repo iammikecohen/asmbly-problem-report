@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-03T01:38:15.775Z",
+  "updated": "2026-09-03T01:57:54.690Z",
   "tasks": [
+    {
+      "id": "86akaum9j",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "One of the Cricut mats destroyed",
+      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  \nSummary:  One of the Cricut mats destroyed \nAdditional Info:  I was using one of the light grip Cricut mats, it had had a cut on one of the sides, and it gotten bigger after several Cricut runs. The mat got stuck in the machine so I had to cut it into parts to get it out of Cricut, but it was already beyond the point of saving even before I got it out. In general, other mats also seem to be distressed, either not sticky enough or having deep cuts or bumpy texture or warped\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788400600935229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788400600935229",
+      "created": "2026-09-03T01:56:40.491Z"
+    },
     {
       "id": "86akap1g9",
       "workspace": "Woodshop",
