@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-05T19:32:19.113Z",
+  "updated": "2026-09-05T19:46:52.434Z",
   "tasks": [
+    {
+      "id": "86akd0vh5",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "AC Issues",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  AC Issues\nAdditional Info:  AC continues to flash Condensate Pan on the thermostat and cool at diminished rate. When it happened again Thursday evening the entire studio smelled like a wet dog. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788637327206979\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788637327206979",
+      "created": "2026-09-05T19:42:06.707Z"
+    },
     {
       "id": "86akaum9j",
       "workspace": "Textiles",
