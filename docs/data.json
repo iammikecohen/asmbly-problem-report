@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-05T20:04:18.761Z",
+  "updated": "2026-09-05T20:21:48.064Z",
   "tasks": [
+    {
+      "id": "86akd19hr",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Puck holder broke.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Puck holder broke.\nAdditional Info:  The puck holder broke off.\n\nDiscourse Link: https://yo.asmbly.org/t/9-5-2026-1542-woodshop-laguna-small-cnc/16515\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788639049965999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-5-2026-1542-woodshop-laguna-small-cnc/16515",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788639049965999",
+      "created": "2026-09-05T20:10:48.799Z"
+    },
     {
       "id": "86akd0vh5",
       "workspace": "Ceramics",
