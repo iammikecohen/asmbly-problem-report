@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-06T17:18:29.642Z",
+  "updated": "2026-09-06T17:32:02.851Z",
   "tasks": [
+    {
+      "id": "86akdk3mx",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Unknown Equipment",
+      "summary": "Water on floor under water fountain",
+      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  \nSummary:  Water on floor under water fountain\nAdditional Info:  Looks like the water fountain is leaking onto floor in MPR\n\nDiscourse Link: https://yo.asmbly.org/t/9-6-2026-1246-multi-purpose-room/16519\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788715553485189\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-6-2026-1246-multi-purpose-room/16519",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788715553485189",
+      "created": "2026-09-06T17:25:52.295Z"
+    },
     {
       "id": "86akd27hn",
       "workspace": "Woodshop",
