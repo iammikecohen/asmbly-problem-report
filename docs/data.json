@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-06T23:46:50.737Z",
+  "updated": "2026-09-07T00:13:50.136Z",
   "tasks": [
+    {
+      "id": "86akdrzzd",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "micrometer battery dead",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  micrometer battery dead\nAdditional Info:  Left on rolling shelf by stewards desk\n\nDiscourse Link: https://yo.asmbly.org/t/9-6-2026-1948-metal-shop-other/16522\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788739796099149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-6-2026-1948-metal-shop-other/16522",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788739796099149",
+      "created": "2026-09-07T00:09:54.936Z"
+    },
     {
       "id": "86akdk3mx",
       "workspace": "Multi-Purpose Room",
