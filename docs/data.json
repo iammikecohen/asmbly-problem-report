@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-08T14:47:15.738Z",
+  "updated": "2026-09-08T15:05:10.942Z",
   "tasks": [
-    {
-      "id": "86ake91vy",
-      "workspace": "HVAC",
-      "workspace_slug": "hvac",
-      "equipment": "Other",
-      "summary": "Wood shop A/C not keeping up",
-      "description": "Problem Type: Facilities\nWorkspace:  HVAC\nAsset:  Other\nSummary:  Wood shop A/C not keeping up\nAdditional Info:  Today when it was 93 degrees outside but the wood shop was only cooled down to 80. It appeared there was air coming out of all the systems but wasn’t cold. I didn’t see an IR thermometer on the stewards closet to check air temp; will try to bring mine tomorrow. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788828081964839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788828081964839",
-      "created": "2026-09-08T00:41:21.506Z"
-    },
     {
       "id": "86akdrzzd",
       "workspace": "Uncategorized",
