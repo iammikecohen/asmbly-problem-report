@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-08T16:46:53.916Z",
+  "updated": "2026-09-08T17:04:55.151Z",
   "tasks": [
+    {
+      "id": "86akeuuqq",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "2\" Belt Sander",
+      "summary": "Multiple Issues.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  2\" Belt Sander\nSummary:  Multiple Issues.\nAdditional Info:  1) The piece rest has been sanded into so much that it is difficult to set it perpendicular to the belts while still being an appropriate distance. The gap is too wide. 2) The lip problem on one of the cylinders is becoming critical. You can no longer keep the belt properly centered, regardless of how the tracking is set. I think we can machine a replacement. If it gets much worse, I will red tag the machine, but that would be bad for some classes.\n\nDiscourse Link: https://yo.asmbly.org/t/9-8-2026-1257-metal-shop-2-belt-sander/16536\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886983510389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-8-2026-1257-metal-shop-2-belt-sander/16536",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886983510389",
+      "created": "2026-09-08T17:03:02.344Z"
+    },
+    {
+      "id": "86akeupc2",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Trinco 300 Abrasive Blaster",
+      "summary": "Vacuum not coming on.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Trinco 300 Abrasive Blaster\nSummary:  Vacuum not coming on.\nAdditional Info:  While it was apparently working yesterday, nothing happens when you flip the dust collector switch. The lights work, so it isn’t a global power issue. I couldn’t see an obvious problem.\n\nDiscourse Link: https://yo.asmbly.org/t/9-8-2026-1133-metal-shop-trinco-300-abrasive-blaster/16535\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886664288469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-8-2026-1133-metal-shop-trinco-300-abrasive-blaster/16535",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886664288469",
+      "created": "2026-09-08T16:57:43.020Z"
+    },
+    {
+      "id": "86akeumr9",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Drill Press - Grizzly G0779 Gearhead",
+      "summary": "Chuck not tightening.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Drill Press - Grizzly G0779 Gearhead\nSummary:  Chuck not tightening.\nAdditional Info:  I have new chuck keys on the way, but I think the issue is more than that; the chuck itself doesn’t seem to be tightening properly. It may need replacing.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886541737069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886541737069",
+      "created": "2026-09-08T16:55:41.289Z"
+    },
     {
       "id": "86akdrzzd",
       "workspace": "Uncategorized",
