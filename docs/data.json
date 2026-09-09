@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-09T02:32:35.692Z",
+  "updated": "2026-09-09T02:49:46.529Z",
   "tasks": [
+    {
+      "id": "86akf6dz0",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Cut through spoil board",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Cut through spoil board \nAdditional Info:  Print went wrong. Both origins and cut depth were set conservatively but the bit plunged too far. Can show evidence of the program and design. Would like to discuss how i can contribute financially to fixing it.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788922079453109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788922079453109",
+      "created": "2026-09-09T02:47:58.936Z"
+    },
     {
       "id": "86akeuuqq",
       "workspace": "Uncategorized",
