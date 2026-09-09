@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-09T19:46:47.247Z",
+  "updated": "2026-09-09T20:04:32.934Z",
   "tasks": [
+    {
+      "id": "86akfxtft",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Small CNC",
+      "summary": "Y shifted mid-run!",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Small CNC\nSummary:  Y shifted mid-run!\nAdditional Info:  I was expanding an existing pocket by 0.1 using a bowl/tray bit\". It started normally. Immediately after the first pass, the tool head shifted at least 2\" in the Y+ axis and carved \"out of bounds\" before I stopped it. Fortunately, this was a test piece. \nA few clues: \n1) I checked the workpiece coordinates afterwards, and the Y was about 35 units off. X and Z looked normal. \n2) When I first homed the machine, it was struggling to move the Y axis towards me. It was making a loud noise and hardly moving. I canceled that, turned the main power off and on and re-homed seemingly without incident. \n3) Before the incident in question, I originally carved the pocket in 2 separate programs: 0-0.5\" and 0.5-1\". At the end there was a small ~0.1\" lip along the inside of just one wall of the pocket suggesting the Y minutely shifted positive before the second program.\n\n\nDiscourse Link: https://yo.asmbly.org/t/9-9-2026-1526-woodshop-laguna-small-cnc/16538\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788984153973619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-9-2026-1526-woodshop-laguna-small-cnc/16538",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788984153973619",
+      "created": "2026-09-09T20:02:32.754Z"
+    },
     {
       "id": "86akf6dz0",
       "workspace": "Woodshop",
