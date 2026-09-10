@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-10T04:05:46.779Z",
+  "updated": "2026-09-10T04:27:42.270Z",
   "tasks": [
+    {
+      "id": "86akg4z7n",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Router Table, Router and lift",
+      "summary": "Speed and motor torque have dropped off,",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Speed and motor torque have dropped off,\nAdditional Info:  I can hear from the pitch that the motor is running more slowly than it used to. I keep wanting to correct people for not using top speed when in fact they are. The motor speed is dropping even more under light loads. Just cutting with a 1/4” round over causes an obvious slowdown. Something is going wrong with the motor. \n\nDiscourse Link: https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679",
+      "created": "2026-09-10T04:18:46.401Z"
+    },
+    {
+      "id": "86akg4y9h",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Microjig table has had it.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Microjig table has had it.\nAdditional Info:  If no one will build a new microjig table for the drill press, we should put the original metal table back on it, because the current table is torn up to the point of being unsafe. The original table is under the rear of the router table. I’ve seen the fence that goes on it somewhere recently too.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013462066909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013462066909",
+      "created": "2026-09-10T04:11:01.550Z"
+    },
+    {
+      "id": "86akg4wwh",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Pieces stalling on last roller.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Pieces stalling on last roller.\nAdditional Info:  Pieces were slowing or stalling as they neared the end. I think the last roller is dirty and slipping on the board. Discovered during WSS class.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013244318909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013244318909",
+      "created": "2026-09-10T04:07:23.881Z"
+    },
     {
       "id": "86akg4tue",
       "workspace": "Woodshop",
