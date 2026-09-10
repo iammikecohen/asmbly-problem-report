@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-10T22:46:46.561Z",
+  "updated": "2026-09-10T23:03:43.121Z",
   "tasks": [
+    {
+      "id": "86akgn1w5",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "Angle wheel not locking",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Angle wheel not locking \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479",
+      "created": "2026-09-10T23:01:08.539Z"
+    },
     {
       "id": "86akgmbnd",
       "workspace": "Woodshop",
