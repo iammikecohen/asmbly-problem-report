@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-10T03:49:22.151Z",
+  "updated": "2026-09-10T04:05:46.779Z",
   "tasks": [
+    {
+      "id": "86akg4tue",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Overflowing.",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Overflowing.\nAdditional Info:  At the start of Woodshop Safety Class, the dust collector catch bin was completely overflowing, backed up into the chute.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013029960509\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013029960509",
+      "created": "2026-09-10T04:03:49.422Z"
+    },
     {
       "id": "86akg3743",
       "workspace": "Woodshop",
