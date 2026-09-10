@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-10T21:46:41.107Z",
+  "updated": "2026-09-10T22:03:46.799Z",
   "tasks": [
+    {
+      "id": "86akgmbnd",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Computer Password Expired",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Computer Password Expired\nAdditional Info:  Password for user \"Laguna\" has expired, can't log in\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789077749912059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789077749912059",
+      "created": "2026-09-10T22:02:28.786Z"
+    },
     {
       "id": "86akg4z7n",
       "workspace": "Woodshop",
