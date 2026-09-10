@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-10T15:33:53.539Z",
+  "updated": "2026-09-10T15:46:36.982Z",
   "tasks": [
-    {
-      "id": "86akgb65q",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Build up on the inside of the blade",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Build up on the inside of the blade\nAdditional Info:  There's a lot of crust stuck to the inside of the blade. Gonna try cleaning it in a bit\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789053767154209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789053767154209",
-      "created": "2026-09-10T15:22:46.677Z"
-    },
     {
       "id": "86akg4z7n",
       "workspace": "Woodshop",
