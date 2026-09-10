@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-10T15:04:46.032Z",
+  "updated": "2026-09-10T15:24:02.929Z",
   "tasks": [
+    {
+      "id": "86akgb65q",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Build up on the inside of the blade",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Build up on the inside of the blade\nAdditional Info:  There's a lot of crust stuck to the inside of the blade. Gonna try cleaning it in a bit\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789053767154209\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789053767154209",
+      "created": "2026-09-10T15:22:46.677Z"
+    },
     {
       "id": "86akg4z7n",
       "workspace": "Woodshop",
@@ -12,18 +24,6 @@
       "discourse_url": "https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679",
       "created": "2026-09-10T04:18:46.401Z"
-    },
-    {
-      "id": "86akg4y9h",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Microjig table has had it.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Microjig table has had it.\nAdditional Info:  If no one will build a new microjig table for the drill press, we should put the original metal table back on it, because the current table is torn up to the point of being unsafe. The original table is under the rear of the router table. I’ve seen the fence that goes on it somewhere recently too.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013462066909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013462066909",
-      "created": "2026-09-10T04:11:01.550Z"
     },
     {
       "id": "86akg4wwh",
