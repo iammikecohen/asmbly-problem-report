@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-12T13:20:10.770Z",
+  "updated": "2026-09-12T13:32:17.555Z",
   "tasks": [
+    {
+      "id": "86akh9bwj",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "---------- Wood Shop ----------",
+      "summary": "New crosscut sleds needed",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  ---------- Wood Shop ----------\nSummary:  New crosscut sleds needed\nAdditional Info:  The current crosscut sleds are wonky, wobble in their tracks, and have gaps where offcuts can pinch and shoot through the front. Recommended features: safety handles and track stops to prevent cutting through the front. Open to suggestions.\n\nDiscourse Link: https://yo.asmbly.org/t/9-12-2026-810-woodshop-wood-shop/16551\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789219636928129\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-12-2026-810-woodshop-wood-shop/16551",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789219636928129",
+      "created": "2026-09-12T13:27:15.782Z"
+    },
     {
       "id": "86akh79uw",
       "workspace": "Uncategorized",
