@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-12T01:51:12.110Z",
+  "updated": "2026-09-12T02:06:32.946Z",
   "tasks": [
+    {
+      "id": "86akh76ae",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Pawl is stuck do planar can’t be fed",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Pawl is stuck do planar can’t be fed\nAdditional Info:  Probably wood jammed in there\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178632872659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178632872659",
+      "created": "2026-09-12T02:03:52.321Z"
+    },
     {
       "id": "86akgn1w5",
       "workspace": "Woodshop",
