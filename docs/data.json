@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T23:32:00.184Z",
+  "updated": "2026-09-12T23:46:38.560Z",
   "tasks": [
     {
       "id": "86akhamfb",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789246725986739",
       "created": "2026-09-12T20:58:45.525Z"
-    },
-    {
-      "id": "86akh9x6d",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Alta Open",
-      "summary": "Open app not working",
-      "description": "Problem Type: Facilities\nWorkspace:  Lasers\nAsset:  Alta Open\nSummary:  Open app not working\nAdditional Info:  I tried to scan my app at the door close to the lasers and it would not grant me access. I do have an active membership.\n\nDiscourse Link: https://yo.asmbly.org/t/9-12-2026-1102-lasers-alta-open/16552\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789230311158429\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-12-2026-1102-lasers-alta-open/16552",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789230311158429",
-      "created": "2026-09-12T16:25:09.700Z"
     },
     {
       "id": "86akh9bwj",
