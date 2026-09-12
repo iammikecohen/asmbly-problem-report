@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-12T02:06:32.946Z",
+  "updated": "2026-09-12T02:31:58.455Z",
   "tasks": [
+    {
+      "id": "86akh79uw",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Vertical Bandsaw - DoAll",
+      "summary": "Guard adjustment stiff",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Vertical Bandsaw - DoAll\nSummary:  Guard adjustment stiff\nAdditional Info:  The guard adjustment knob is extremely difficult to turn; it likely needs disassembly, cleaning, and lubrication.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178797087039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178797087039",
+      "created": "2026-09-12T02:06:36.622Z"
+    },
     {
       "id": "86akh76ae",
       "workspace": "Woodshop",
