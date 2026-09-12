@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-12T20:47:12.813Z",
+  "updated": "2026-09-12T21:04:31.860Z",
   "tasks": [
+    {
+      "id": "86akhamfb",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Metal Lathe - Grizzly",
+      "summary": "Multiple minor issues.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  Multiple minor issues.\nAdditional Info:  1) The pump system’s flow rate is low; it may be blocked. There are also signs of the previously seen leak, which only appears well after the pump is used. 2) Brake fix and adjustment still needs to be done. 3) Threading gear alignment still needs to be checked. 4) Inserts need to be refilled.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789246931740479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789246931740479",
+      "created": "2026-09-12T21:02:10.803Z"
+    },
+    {
+      "id": "86akhakz8",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Mill - Precision Matthews 1054-TV",
+      "summary": "Multiple minor issues",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Mill - Precision Matthews 1054-TV\nSummary:  Multiple minor issues\nAdditional Info:  1) The tramming needs to be checked; it was suspect and then there was a minor tool crash. 2) The R8 collet pin has been worn down and isn’t saying in the track, making collet removal difficult at times. 3) The table is overdue to be re-coated.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789246725986739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789246725986739",
+      "created": "2026-09-12T20:58:45.525Z"
+    },
     {
       "id": "86akh9x6d",
       "workspace": "Lasers",
