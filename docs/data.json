@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-13T01:56:26.575Z",
+  "updated": "2026-09-13T02:14:15.169Z",
   "tasks": [
+    {
+      "id": "86akhba33",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "Powls are stuck, wont work",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Powls are stuck, wont work\nAdditional Info:  The powls probably have wood chips stuck in em. Its barely usable at its current state. Prbbly the safest to fix\n\nDiscourse Link: https://yo.asmbly.org/t/9-12-2026-2015-woodshop-planer-15-powermatic-15hh/16554\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789264642149709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-12-2026-2015-woodshop-planer-15-powermatic-15hh/16554",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789264642149709",
+      "created": "2026-09-13T01:57:20.962Z"
+    },
     {
       "id": "86akhamfb",
       "workspace": "Uncategorized",
