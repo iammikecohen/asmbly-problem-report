@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-13T13:46:54.232Z",
+  "updated": "2026-09-13T14:04:04.996Z",
   "tasks": [
+    {
+      "id": "86akhcfm6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Dust bin / trash cans",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Dust bin / trash cans\nAdditional Info:  Almost all trash cans full and dust collector bin full on arrival \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789308020946279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789308020946279",
+      "created": "2026-09-13T14:00:20.259Z"
+    },
+    {
+      "id": "86akhcfc3",
+      "workspace": "General Areas",
+      "workspace_slug": "general-areas",
+      "equipment": "Other",
+      "summary": "Lobby door",
+      "description": "Problem Type: Facilities\nWorkspace:  General Areas\nAsset:  Other\nSummary:  Lobby door \nAdditional Info:  Door was not latched and unlocked when I arrived this morning. it continues to stick in the open position.  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789307843766009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789307843766009",
+      "created": "2026-09-13T13:57:23.324Z"
+    },
     {
       "id": "86akhba33",
       "workspace": "Woodshop",
