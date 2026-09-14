@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-14T09:06:55.038Z",
+  "updated": "2026-09-14T09:32:43.381Z",
   "tasks": [
-    {
-      "id": "86akhcfm6",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Dust bin / trash cans",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Dust bin / trash cans\nAdditional Info:  Almost all trash cans full and dust collector bin full on arrival \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789308020946279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789308020946279",
-      "created": "2026-09-13T14:00:20.259Z"
-    },
     {
       "id": "86akhcfc3",
       "workspace": "General Areas",
@@ -74,18 +62,6 @@
       "created": "2026-09-12T02:06:36.622Z"
     },
     {
-      "id": "86akh76ae",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Pawl is stuck do planar can’t be fed",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Pawl is stuck do planar can’t be fed\nAdditional Info:  Probably wood jammed in there\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178632872659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178632872659",
-      "created": "2026-09-12T02:03:52.321Z"
-    },
-    {
       "id": "86akgn1w5",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -108,30 +84,6 @@
       "discourse_url": "https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679",
       "created": "2026-09-10T04:18:46.401Z"
-    },
-    {
-      "id": "86akg4wwh",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Pieces stalling on last roller.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Pieces stalling on last roller.\nAdditional Info:  Pieces were slowing or stalling as they neared the end. I think the last roller is dirty and slipping on the board. Discovered during WSS class.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013244318909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013244318909",
-      "created": "2026-09-10T04:07:23.881Z"
-    },
-    {
-      "id": "86akg4tue",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Overflowing.",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Overflowing.\nAdditional Info:  At the start of Woodshop Safety Class, the dust collector catch bin was completely overflowing, backed up into the chute.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013029960509\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013029960509",
-      "created": "2026-09-10T04:03:49.422Z"
     },
     {
       "id": "86akg3743",
@@ -350,18 +302,6 @@
       "created": "2026-08-27T01:44:23.541Z"
     },
     {
-      "id": "86ak6h4bf",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Table Saw 1: Outfeed table low",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Table Saw 1: Outfeed table low\nAdditional Info:  The wood tipped up during a rip cut because of the height difference\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787761513196449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787761513196449",
-      "created": "2026-08-26T16:25:12.753Z"
-    },
-    {
       "id": "86ak6d24h",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -432,18 +372,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787441956407929",
       "created": "2026-08-22T23:39:11.775Z"
-    },
-    {
-      "id": "86ak4tb9c",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Dust collection hose",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Dust collection hose\nAdditional Info:  Clogged hose and loose fitting was cleared and tightened.  Fitting has two different bolts, could not tighten second bolt.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374723781779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787374723781779",
-      "created": "2026-08-22T04:58:43.316Z"
     },
     {
       "id": "86ak217fv",
@@ -720,18 +648,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784500091084799",
       "created": "2026-07-19T22:28:10.175Z"
-    },
-    {
-      "id": "86ajjxvyu",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Ridged Hand Sander",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Ridged Hand Sander\nAdditional Info:  After talking to Robert, threw out ridged hand sander that would not work once pressure was applied. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1784238281736839",
-      "created": "2026-07-16T21:44:41.268Z"
     },
     {
       "id": "86ajjc922",
