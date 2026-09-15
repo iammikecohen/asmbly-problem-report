@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-15T16:37:20.544Z",
+  "updated": "2026-09-15T16:47:48.434Z",
   "tasks": [
-    {
-      "id": "86akj7rrw",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Wood Lathe - Laguna Revo 18/36",
-      "summary": "No power",
-      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  Wood Lathe - Laguna Revo 18/36\nSummary:  No power\nAdditional Info:  No power outlet for plug (special prong type)\n\nDiscourse Link: https://yo.asmbly.org/t/9-15-2026-950-wood-lathe-laguna-revo-18-36/16573\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789481938146279\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-15-2026-950-wood-lathe-laguna-revo-18-36/16573",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789481938146279",
-      "created": "2026-09-15T14:18:56.677Z"
-    },
     {
       "id": "86akhcfc3",
       "workspace": "General Areas",
