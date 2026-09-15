@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:47:48.434Z",
+  "updated": "2026-09-15T17:04:17.290Z",
   "tasks": [
     {
       "id": "86akhcfc3",
@@ -68,7 +68,7 @@
       "equipment": "Table Saw 2 - Sawstop",
       "summary": "Angle wheel not locking",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Angle wheel not locking \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "parts ordered",
       "discourse_url": "https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479",
       "created": "2026-09-10T23:01:08.539Z"
@@ -80,7 +80,7 @@
       "equipment": "Router Table, Router and lift",
       "summary": "Speed and motor torque have dropped off,",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Speed and motor torque have dropped off,\nAdditional Info:  I can hear from the pitch that the motor is running more slowly than it used to. I keep wanting to correct people for not using top speed when in fact they are. The motor speed is dropping even more under light loads. Just cutting with a 1/4” round over causes an obvious slowdown. Something is going wrong with the motor. \n\nDiscourse Link: https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679",
       "created": "2026-09-10T04:18:46.401Z"
