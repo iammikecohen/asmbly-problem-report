@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:50:14.715Z",
+  "updated": "2026-09-16T02:06:58.082Z",
   "tasks": [
     {
       "id": "86akjhahv",
@@ -156,18 +156,6 @@
       "discourse_url": "https://yo.asmbly.org/t/9-8-2026-1257-metal-shop-2-belt-sander/16536",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886983510389",
       "created": "2026-09-08T17:03:02.344Z"
-    },
-    {
-      "id": "86akeupc2",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Trinco 300 Abrasive Blaster",
-      "summary": "Vacuum not coming on.",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Trinco 300 Abrasive Blaster\nSummary:  Vacuum not coming on.\nAdditional Info:  While it was apparently working yesterday, nothing happens when you flip the dust collector switch. The lights work, so it isn’t a global power issue. I couldn’t see an obvious problem.\n\nDiscourse Link: https://yo.asmbly.org/t/9-8-2026-1133-metal-shop-trinco-300-abrasive-blaster/16535\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886664288469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-8-2026-1133-metal-shop-trinco-300-abrasive-blaster/16535",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1788886664288469",
-      "created": "2026-09-08T16:57:43.020Z"
     },
     {
       "id": "86akeumr9",
