@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-16T11:46:38.699Z",
+  "updated": "2026-09-16T12:07:29.619Z",
   "tasks": [
-    {
-      "id": "86akjhahv",
-      "workspace": "Hallway",
-      "workspace_slug": "hallway",
-      "equipment": "Other",
-      "summary": "Lightburn out of date.",
-      "description": "Problem Type: Other\nWorkspace:  Hallway\nAsset:  Other\nSummary:  Lightburn out of date.\nAdditional Info:  Hallway computers lightburn out of date\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789505679352459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789505679352459",
-      "created": "2026-09-15T20:54:38.864Z"
-    },
     {
       "id": "86akjf9gy",
       "workspace": "Ceramics",
