@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T21:32:05.351Z",
+  "updated": "2026-09-17T21:46:43.200Z",
   "tasks": [
     {
       "id": "86akk88w4",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789620245883629",
       "created": "2026-09-17T04:44:04.118Z"
-    },
-    {
-      "id": "86akjf9gy",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Unknown Equipment",
-      "summary": "sink joint for the drain is loose",
-      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  \nSummary:  sink joint for the drain is loose \nAdditional Info:  right side of the sink by the glazing station \n\nDiscourse Link: https://yo.asmbly.org/t/9-15-2026-1451-ceramics/16575\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789500839894539\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-15-2026-1451-ceramics/16575",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789500839894539",
-      "created": "2026-09-15T19:33:57.529Z"
     },
     {
       "id": "86akhcfc3",
