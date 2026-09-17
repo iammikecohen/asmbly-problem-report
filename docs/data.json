@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-17T04:43:49.754Z",
+  "updated": "2026-09-17T04:51:15.437Z",
   "tasks": [
+    {
+      "id": "86akk88w4",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Router Table, Router and lift",
+      "summary": "Lift lock",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Lift lock\nAdditional Info:  Lift lock us not functioning\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789620245883629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789620245883629",
+      "created": "2026-09-17T04:44:04.118Z"
+    },
     {
       "id": "86akjf9gy",
       "workspace": "Ceramics",
