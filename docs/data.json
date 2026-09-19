@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-19T17:32:03.936Z",
+  "updated": "2026-09-19T17:46:46.420Z",
   "tasks": [
+    {
+      "id": "86akmenv7",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "---------- Facilities / General ----------",
+      "summary": "Class time not reserved on skedda",
+      "description": "Problem Type: Other\nWorkspace:  Metal Shop\nAsset:  ---------- Facilities / General ----------\nSummary:  Class time not reserved on skedda\nAdditional Info:  I reserved general metal shop time but there is also an unblocked class here and we have machine contention. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789839432770779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789839432770779",
+      "created": "2026-09-19T17:37:10.854Z"
+    },
     {
       "id": "86akk88w4",
       "workspace": "Woodshop",
