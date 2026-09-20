@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-20T16:46:23.173Z",
+  "updated": "2026-09-20T17:03:45.036Z",
   "tasks": [
+    {
+      "id": "86akmhb10",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Dust collector rotary",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Dust collector rotary \nAdditional Info:  Rotary feed not moving,  was clogged under feed,\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789923092406629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789923092406629",
+      "created": "2026-09-20T16:51:31.120Z"
+    },
     {
       "id": "86akmh0h4",
       "workspace": "Multi-Purpose Room",
