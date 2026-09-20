@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-20T00:14:08.806Z",
+  "updated": "2026-09-20T01:06:46.069Z",
   "tasks": [
+    {
+      "id": "86akmfw7v",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "2\" Belt Sander",
+      "summary": "Belt sander area not cleaned",
+      "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  2\" Belt Sander\nSummary:  Belt sander area not cleaned\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789865311747479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789865311747479",
+      "created": "2026-09-20T00:48:30.179Z"
+    },
     {
       "id": "86akmenv7",
       "workspace": "Uncategorized",
