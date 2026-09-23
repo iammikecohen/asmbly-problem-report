@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-23T17:04:20.119Z",
+  "updated": "2026-09-23T17:23:23.301Z",
   "tasks": [
+    {
+      "id": "86aknx5p9",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Unknown Equipment",
+      "summary": "Dewalt battery has a split in casing",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  \nSummary:  Dewalt battery has a split in casing\nAdditional Info:  I have moved it into the small storage space bc it seems like a hazard.  I just noticed the cracked casing today while working.  If it’s bc it has expanded then needs quick attention.  Maybe split from impact but I don’t know (no impact during my usage)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790184035412179\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790184035412179",
+      "created": "2026-09-23T17:20:34.990Z"
+    },
     {
       "id": "86akmhb10",
       "workspace": "Woodshop",
