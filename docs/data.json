@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:05:54.643Z",
+  "updated": "2026-09-24T20:26:39.090Z",
   "tasks": [
     {
       "id": "86akp93h7",
@@ -14,18 +14,6 @@
       "created": "2026-09-24T16:35:04.995Z"
     },
     {
-      "id": "86akp7tzk",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Edge Sander - South Bend",
-      "summary": "Belt shredded",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Belt shredded \nAdditional Info:  Belt destroyed - replacement belt was not under machine \n\nDiscourse Link: https://yo.asmbly.org/t/9-24-2026-925-woodshop-edge-sander-south-bend/16618\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790261912862929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-24-2026-925-woodshop-edge-sander-south-bend/16618",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790261912862929",
-      "created": "2026-09-24T14:58:31.558Z"
-    },
-    {
       "id": "86aknz110",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -36,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790189887624249",
       "created": "2026-09-23T18:58:07.041Z"
-    },
-    {
-      "id": "86aknx7bv",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Miter Saw",
-      "summary": "Issue with power cord",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Issue with power cord\nAdditional Info:  Losing power at end of travel, seems to be an issue with the power cord\n\nDiscourse Link: https://yo.asmbly.org/t/9-23-2026-1222-woodshop-miter-saw/16614\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790184208782929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-23-2026-1222-woodshop-miter-saw/16614",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790184208782929",
-      "created": "2026-09-23T17:23:27.735Z"
     },
     {
       "id": "86aknx5p9",
