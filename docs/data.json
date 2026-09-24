@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-24T21:05:08.267Z",
+  "updated": "2026-09-24T21:23:01.065Z",
   "tasks": [
+    {
+      "id": "86akpev6n",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Magswitch featherboard broken",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Magswitch featherboard broken\nAdditional Info:  One of the two magswitches on the table saw featherboard is broken, preventing the featherboard from clamping effectively \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790284578071929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790284578071929",
+      "created": "2026-09-24T21:16:15.803Z"
+    },
     {
       "id": "86akp93h7",
       "workspace": "Uncategorized",
