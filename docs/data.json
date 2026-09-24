@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-24T14:50:07.831Z",
+  "updated": "2026-09-24T15:04:58.365Z",
   "tasks": [
+    {
+      "id": "86akp7tzk",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Edge Sander - South Bend",
+      "summary": "Belt shredded",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Edge Sander - South Bend\nSummary:  Belt shredded \nAdditional Info:  Belt destroyed - replacement belt was not under machine \n\nDiscourse Link: https://yo.asmbly.org/t/9-24-2026-925-woodshop-edge-sander-south-bend/16618\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790261912862929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-24-2026-925-woodshop-edge-sander-south-bend/16618",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790261912862929",
+      "created": "2026-09-24T14:58:31.558Z"
+    },
     {
       "id": "86aknz110",
       "workspace": "Uncategorized",
