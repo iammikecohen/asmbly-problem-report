@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-24T23:22:05.237Z",
+  "updated": "2026-09-24T23:32:20.740Z",
   "tasks": [
+    {
+      "id": "86akpfujx",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Glue Up table leg bent inwards",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Glue Up table leg bent inwards\nAdditional Info:  glue up table appeared ready to collapse - I manually moved the leg back into a vertical position\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790292391223019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790292391223019",
+      "created": "2026-09-24T23:26:30.657Z"
+    },
     {
       "id": "86akpev6n",
       "workspace": "Woodshop",
