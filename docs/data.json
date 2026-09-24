@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-24T16:28:00.969Z",
+  "updated": "2026-09-24T16:41:12.160Z",
   "tasks": [
+    {
+      "id": "86akp93h7",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Cold Saw - Baleigh CS-350",
+      "summary": "Out of coolant",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Cold Saw - Baleigh CS-350\nSummary:  Out of coolant\nAdditional Info:  Someone is trying to use the cold saw but it’s out of cutting fluid.  I’d fix it if I knew how to fill em!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790267705508259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790267705508259",
+      "created": "2026-09-24T16:35:04.995Z"
+    },
     {
       "id": "86akp7tzk",
       "workspace": "Woodshop",
