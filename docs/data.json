@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-25T02:06:17.671Z",
+  "updated": "2026-09-25T02:32:28.293Z",
   "tasks": [
+    {
+      "id": "86akpggac",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Copco Compressor / Shop Compressed Air",
+      "summary": "No compressed air in the metal shop.",
+      "description": "Problem Type: Facilities\nWorkspace:  Metal Shop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  No compressed air in the metal shop.\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-24-2026-2128-metal-shop-copco-compressor-shop-compressed-air/16623\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790302475838119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-24-2026-2128-metal-shop-copco-compressor-shop-compressed-air/16623",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790302475838119",
+      "created": "2026-09-25T02:14:34.692Z"
+    },
     {
       "id": "86akpg88q",
       "workspace": "General Areas",
