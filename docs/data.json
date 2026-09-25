@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:43:40.153Z",
+  "updated": "2026-09-25T18:51:40.538Z",
   "tasks": [
     {
       "id": "86akpgy8h",
@@ -14,18 +14,6 @@
       "created": "2026-09-25T03:15:22.062Z"
     },
     {
-      "id": "86akpggac",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "No compressed air in the metal shop.",
-      "description": "Problem Type: Facilities\nWorkspace:  Metal Shop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  No compressed air in the metal shop.\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-24-2026-2128-metal-shop-copco-compressor-shop-compressed-air/16623\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790302475838119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-24-2026-2128-metal-shop-copco-compressor-shop-compressed-air/16623",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790302475838119",
-      "created": "2026-09-25T02:14:34.692Z"
-    },
-    {
       "id": "86akpg88q",
       "workspace": "General Areas",
       "workspace_slug": "general-areas",
@@ -36,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790301084929199",
       "created": "2026-09-25T01:51:24.184Z"
-    },
-    {
-      "id": "86akpg3da",
-      "workspace": "General Areas",
-      "workspace_slug": "general-areas",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "No compressed air throughout shop",
-      "description": "Problem Type: Equipment\nWorkspace:  General Areas\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  No compressed air throughout shop\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790297178001859\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790297178001859",
-      "created": "2026-09-25T00:46:17.408Z"
     },
     {
       "id": "86akpfujx",
