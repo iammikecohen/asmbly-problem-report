@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-26T16:47:09.531Z",
+  "updated": "2026-09-26T17:04:24.940Z",
   "tasks": [
+    {
+      "id": "86akpy02f",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Copco Compressor / Shop Compressed Air",
+      "summary": "3 hose drops in woodshop need repair",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  3 hose drops in woodshop need repair\nAdditional Info:  All 3 hose drops in the woodshop need the ends replaced.  The hose needs be chopped off, and reinstall the hose barb.  One drop is leaking profusely, another drop hose is checked and should be replaced entirely.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790441553099439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790441553099439",
+      "created": "2026-09-26T16:52:32.532Z"
+    },
     {
       "id": "86akpxzk9",
       "workspace": "Woodshop",
