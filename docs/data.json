@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-26T01:48:16.967Z",
+  "updated": "2026-09-26T02:06:12.692Z",
   "tasks": [
+    {
+      "id": "86akpvu9j",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Grit gate was unplugged",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Grit gate was unplugged\nAdditional Info:  Walking by the saw i noticed the light wasn't on for the blast gate. The plug was completely out. I'm thinking someone bumped it with something rather than it fell out but will monitor.\n\nDiscourse Link: https://yo.asmbly.org/t/9-25-2026-2027-woodshop-table-saw-1-sawstop/16630\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387734175329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-25-2026-2027-woodshop-table-saw-1-sawstop/16630",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387734175329",
+      "created": "2026-09-26T01:55:33.092Z"
+    },
+    {
+      "id": "86akpvty3",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Miter Saw",
+      "summary": "Flexing the power cord cuts power",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Miter Saw\nSummary:  Flexing the power cord cuts power\nAdditional Info:  Finally reproduced the issue. Going to have to detch the unit for a while to play with it. Will be unusable for a least a couple hours but it seems like just a wiring issue and not a motor issue.\n\nDiscourse Link: https://yo.asmbly.org/t/9-25-2026-2038-woodshop-miter-saw/16629\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387385070549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-25-2026-2038-woodshop-miter-saw/16629",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387385070549",
+      "created": "2026-09-26T01:49:43.666Z"
+    },
     {
       "id": "86akpvtp2",
       "workspace": "Woodshop",
