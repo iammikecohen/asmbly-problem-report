@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-26T01:28:07.229Z",
+  "updated": "2026-09-26T01:48:16.967Z",
   "tasks": [
+    {
+      "id": "86akpvtp2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drum Sander - Supermax 25/50",
+      "summary": "Motor stopped",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Motor stopped\nAdditional Info:  Jose said this stopped thursday but trying it independently showed it worked. the next day it was out again. the drum doesn't spin either even though it should be just passing through power instead of contingent on the conveyor.\n\nDiscourse Link: https://yo.asmbly.org/t/9-25-2026-2006-woodshop-drum-sander-supermax-25-50/16628\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387173391039\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-25-2026-2006-woodshop-drum-sander-supermax-25-50/16628",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387173391039",
+      "created": "2026-09-26T01:46:12.280Z"
+    },
     {
       "id": "86akpgy8h",
       "workspace": "3D Printing",
