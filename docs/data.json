@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-27T16:25:43.765Z",
+  "updated": "2026-09-27T16:36:14.533Z",
   "tasks": [
+    {
+      "id": "86akq2rrj",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "Filament stuck in machine",
+      "description": "Problem Type: Supplies\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Filament stuck in machine\nAdditional Info:  Print finished as normal, but filament would not unload from ABS. Attempt to use unload from device UI show the error “Printer is abnormal; Unable to operate.”\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790526395887189\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790526395887189",
+      "created": "2026-09-27T16:26:35.440Z"
+    },
     {
       "id": "86akpy02f",
       "workspace": "Woodshop",
