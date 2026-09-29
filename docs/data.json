@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:41:26.542Z",
+  "updated": "2026-09-29T15:51:04.274Z",
   "tasks": [
     {
       "id": "86akpy02f",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790441553099439",
       "created": "2026-09-26T16:52:32.532Z"
-    },
-    {
-      "id": "86akpvu9j",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Grit gate was unplugged",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Grit gate was unplugged\nAdditional Info:  Walking by the saw i noticed the light wasn't on for the blast gate. The plug was completely out. I'm thinking someone bumped it with something rather than it fell out but will monitor.\n\nDiscourse Link: https://yo.asmbly.org/t/9-25-2026-2027-woodshop-table-saw-1-sawstop/16630\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387734175329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-25-2026-2027-woodshop-table-saw-1-sawstop/16630",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790387734175329",
-      "created": "2026-09-26T01:55:33.092Z"
     },
     {
       "id": "86akpvty3",
@@ -132,18 +120,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790184035412179",
       "created": "2026-09-23T17:20:34.990Z"
-    },
-    {
-      "id": "86akmhb10",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "Dust collector rotary",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Dust collector rotary \nAdditional Info:  Rotary feed not moving,  was clogged under feed,\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789923092406629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789923092406629",
-      "created": "2026-09-20T16:51:31.120Z"
     },
     {
       "id": "86akmh0h4",
@@ -444,18 +420,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-28-2026-1242-woodshop-laguna-swift-cnc-5x10/16469",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787939991821639",
       "created": "2026-08-28T17:59:49.533Z"
-    },
-    {
-      "id": "86ak6wae5",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC Dust Collector",
-      "summary": "Dust collector remote needs new battery",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC Dust Collector\nSummary:  Dust collector remote needs new battery \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787795063915379\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787795063915379",
-      "created": "2026-08-27T01:44:23.541Z"
     },
     {
       "id": "86ak6d24h",
