@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:35:33.967Z",
+  "updated": "2026-09-29T02:53:55.874Z",
   "tasks": [
     {
       "id": "86akqjr45",
@@ -12,18 +12,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790643544643729",
       "created": "2026-09-29T00:59:04.196Z"
-    },
-    {
-      "id": "86akqjhh8",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Brent CXC Pottery Wheel",
-      "summary": "Wheels do not stop",
-      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Wheels do not stop\nAdditional Info:  Wheels don't stop spinning even when the foot piece isn't depressed. When you walk in the door from outside, on the left side the second and fourth furthest wheels and on the right side the closest wheel.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790639121836669\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790639121836669",
-      "created": "2026-09-28T23:45:21.271Z"
     },
     {
       "id": "86akpy02f",
