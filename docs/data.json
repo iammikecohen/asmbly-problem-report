@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-01T19:46:48.235Z",
+  "updated": "2026-10-01T20:05:43.693Z",
   "tasks": [
+    {
+      "id": "86akrmeqy",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Drill Press - Grizzly G0779 Gearhead",
+      "summary": "Brush for lubricant at drill press",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  Drill Press - Grizzly G0779 Gearhead\nSummary:  Brush for lubricant at drill press \nAdditional Info:  Brish for lubricant at drill press is completely disintegrated \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790884087309909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790884087309909",
+      "created": "2026-10-01T19:48:06.787Z"
+    },
     {
       "id": "86akrc2z8",
       "workspace": "3D Printing",
