@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-01T01:20:59.744Z",
+  "updated": "2026-10-01T01:56:34.018Z",
   "tasks": [
+    {
+      "id": "86akrbjbv",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Blade support bearing unserviceable",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Blade support bearing unserviceable \nAdditional Info:  Machine red tagged, will get a new bearing tomorrow \n\nDiscourse Link: https://yo.asmbly.org/t/9-30-2026-2039-woodshop-24-resaw-band-saw-grizzly-g0569/16658\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790819384970909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/9-30-2026-2039-woodshop-24-resaw-band-saw-grizzly-g0569/16658",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790819384970909",
+      "created": "2026-10-01T01:49:43.823Z"
+    },
+    {
+      "id": "86akrbj7y",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Wood Lathe - Laguna Revo 12/16 - Ernie",
+      "summary": "Please remove me from PR",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Laguna Revo 12/16 - Ernie\nSummary:  Please remove me from PR\nAdditional Info:  I miss Bert, can we have a playdate?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790819258091239\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790819258091239",
+      "created": "2026-10-01T01:47:36.334Z"
+    },
     {
       "id": "86akpy02f",
       "workspace": "Woodshop",
