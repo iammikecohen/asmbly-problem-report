@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-01T23:33:41.018Z",
+  "updated": "2026-10-01T23:47:07.176Z",
   "tasks": [
+    {
+      "id": "86akrpmpb",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Grit gate broken on sawstop 1",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Grit gate broken on sawstop 1\nAdditional Info:  I left it the way I found it, with the gate pulled out (suction on).\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790898383290309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790898383290309",
+      "created": "2026-10-01T23:46:22.468Z"
+    },
     {
       "id": "86akrmeqy",
       "workspace": "Uncategorized",
