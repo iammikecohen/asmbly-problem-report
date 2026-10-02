@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-02T22:04:41.466Z",
+  "updated": "2026-10-02T22:24:23.481Z",
   "tasks": [
+    {
+      "id": "86akrzhd7",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Tormach PCNC 1100",
+      "summary": "Probe Z is wrong",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Tormach PCNC 1100\nSummary:  Probe Z is wrong\nAdditional Info:  Probing Z results in a value that is high by maybe .250\"\n\nDiscourse Link: https://yo.asmbly.org/t/10-2-2026-1736-metal-shop-tormach-pcnc-1100/16668\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790979344454399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-2-2026-1736-metal-shop-tormach-pcnc-1100/16668",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790979344454399",
+      "created": "2026-10-02T22:15:42.625Z"
+    },
     {
       "id": "86akrw1ea",
       "workspace": "Woodshop",
