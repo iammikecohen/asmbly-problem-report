@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:04:18.904Z",
+  "updated": "2026-10-02T17:24:47.913Z",
   "tasks": [
     {
       "id": "86akrw1ea",
@@ -7,10 +7,10 @@
       "workspace_slug": "woodshop",
       "equipment": "Planer 15\"- Powermatic 15HH",
       "summary": "Vacuum not working",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Vacuum not working\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: Pending\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Vacuum not working\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790960645751879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
       "status": "Open",
       "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "Pending",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790960645751879",
       "created": "2026-10-02T17:04:04.926Z"
     },
     {
