@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-03T03:15:27.032Z",
+  "updated": "2026-10-03T03:53:49.696Z",
   "tasks": [
+    {
+      "id": "86akt0rjx",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Sun Wukong",
+      "summary": "Thermal anomaly.",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Thermal anomaly. \nAdditional Info:  Beeping like crazy so I paused the print \n\nDiscourse Link: https://yo.asmbly.org/t/10-2-2026-2218-3d-printing-prusa-mk3s-sun-wukong/16669\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790999545578879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-2-2026-2218-3d-printing-prusa-mk3s-sun-wukong/16669",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790999545578879",
+      "created": "2026-10-03T03:52:24.417Z"
+    },
     {
       "id": "86akrzhd7",
       "workspace": "Uncategorized",
