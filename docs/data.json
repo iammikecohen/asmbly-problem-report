@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-03T12:20:58.133Z",
+  "updated": "2026-10-03T14:13:14.421Z",
   "tasks": [
+    {
+      "id": "86akt1end",
+      "workspace": "General Areas",
+      "workspace_slug": "general-areas",
+      "equipment": "Other",
+      "summary": "Need 4’ LED lights",
+      "description": "Problem Type: Supplies\nWorkspace:  General Areas\nAsset:  Other\nSummary:  Need 4’ LED lights\nAdditional Info:  Used all the existing spare lights. https://www.amazon.com/Sunco-Fluorescent-Replacement-Daylight-Compatible/dp/B07ZZM3ZZ3/ref=sr_1_1_sspa\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791033707344139\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791033707344139",
+      "created": "2026-10-03T13:21:46.882Z"
+    },
     {
       "id": "86akt0rjx",
       "workspace": "3D Printing",
