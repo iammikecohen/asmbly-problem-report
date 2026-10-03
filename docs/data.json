@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-03T16:47:50.675Z",
+  "updated": "2026-10-03T18:10:15.425Z",
   "tasks": [
+    {
+      "id": "86akt1uu1",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Trashcan wheel bases",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Trashcan wheel bases\nAdditional Info:  Three trash cans with no rolling wheel bases. Difficult to move to dumpster. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791049170686649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791049170686649",
+      "created": "2026-10-03T17:39:29.784Z"
+    },
+    {
+      "id": "86akt1tft",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Unknown Equipment",
+      "summary": "4 calipers need their battery replaced",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  \nSummary:  4 calipers need their battery replaced\nAdditional Info:  The calipers in the tool area without cases\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791047009581189\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791047009581189",
+      "created": "2026-10-03T17:03:28.334Z"
+    },
     {
       "id": "86akt1hwy",
       "workspace": "3D Printing",
