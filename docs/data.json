@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-04T16:48:51.096Z",
+  "updated": "2026-10-04T18:02:26.968Z",
   "tasks": [
+    {
+      "id": "86akt38zq",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Tormach PCNC 1100",
+      "summary": "Chips not cleaned up",
+      "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  Tormach PCNC 1100\nSummary:  Chips not cleaned up\nAdditional Info:  Lots of aluminum chips left in the bottom of the machine\n\nDiscourse Link: https://yo.asmbly.org/t/10-4-2026-1250-metal-shop-tormach-pcnc-1100/16675\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791135778093829\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-4-2026-1250-metal-shop-tormach-pcnc-1100/16675",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791135778093829",
+      "created": "2026-10-04T17:42:56.960Z"
+    },
     {
       "id": "86akt1uu1",
       "workspace": "Woodshop",
