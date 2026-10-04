@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:22:53.209Z",
+  "updated": "2026-10-04T23:34:32.191Z",
   "tasks": [
     {
       "id": "86akt3ra6",
@@ -216,18 +216,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790884087309909",
       "created": "2026-10-01T19:48:06.787Z"
-    },
-    {
-      "id": "86akrc2z8",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "BambuLabs P1S - Chantico",
-      "summary": "Hotend broken in collision",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Chantico\nSummary:  Hotend broken in collision\nAdditional Info:  A print seems to have come loose and collided with the hotend, causing it to disconnect.\n\nDiscourse Link: https://yo.asmbly.org/t/9-30-2026-2156-3d-printing-bambulabs-p1s-chantico/16659\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790822342948729\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/9-30-2026-2156-3d-printing-bambulabs-p1s-chantico/16659",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790822342948729",
-      "created": "2026-10-01T02:39:01.897Z"
     },
     {
       "id": "86akpy02f",
