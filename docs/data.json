@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-04T20:24:24.032Z",
+  "updated": "2026-10-04T21:11:03.198Z",
   "tasks": [
+    {
+      "id": "86akt3qva",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Planer 15\"- Powermatic 15HH",
+      "summary": "blast gate",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  blast gate\nAdditional Info:  broken blast gate control arm\n\nDiscourse Link: https://yo.asmbly.org/t/10-4-2026-1604-woodshop-planer-15-powermatic-15hh/16677\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148150203709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-4-2026-1604-woodshop-planer-15-powermatic-15hh/16677",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148150203709",
+      "created": "2026-10-04T21:09:09.092Z"
+    },
+    {
+      "id": "86akt3qrg",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "power button",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  power button\nAdditional Info:  will not turn on. possible switch issue\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148082792509\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148082792509",
+      "created": "2026-10-04T21:08:02.282Z"
+    },
+    {
+      "id": "86akt3qab",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "table",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  table\nAdditional Info:  table will not lock at 90 deg or any angle.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791147839240329\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791147839240329",
+      "created": "2026-10-04T21:03:58.832Z"
+    },
+    {
+      "id": "86akt3py2",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drum Sander - Supermax 25/50",
+      "summary": "power cord",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  power cord\nAdditional Info:  Power cord sparked and popped in my hand when I was working with the cable. The NEMA plug at the end of the grit control box became completely disconnected from the end of the wire. The copper wire was fused and melted when it came out.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791147718624529\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791147718624529",
+      "created": "2026-10-04T21:01:58.054Z"
+    },
     {
       "id": "86akt3gkd",
       "workspace": "Uncategorized",
