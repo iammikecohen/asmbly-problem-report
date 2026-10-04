@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-04T19:21:00.950Z",
+  "updated": "2026-10-04T20:24:24.032Z",
   "tasks": [
+    {
+      "id": "86akt3gkd",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Tormach PCNC 1100",
+      "summary": "Coordinate system problems",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Tormach PCNC 1100\nSummary:  Coordinate system problems\nAdditional Info:  I just machined one operation, and then started a second. The Z somehow dropped 1/4” in between\n\nDiscourse Link: https://yo.asmbly.org/t/10-4-2026-1418-metal-shop-tormach-pcnc-1100/16676\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791143425739439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-4-2026-1418-metal-shop-tormach-pcnc-1100/16676",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791143425739439",
+      "created": "2026-10-04T19:50:24.526Z"
+    },
     {
       "id": "86akt38zq",
       "workspace": "Uncategorized",
