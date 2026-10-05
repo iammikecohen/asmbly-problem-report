@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T22:47:24.636Z",
+  "updated": "2026-10-05T23:04:42.588Z",
   "tasks": [
+    {
+      "id": "86aktbb1f",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Glazing Area",
+      "summary": "Ant infestation rain",
+      "description": "Problem Type: Cleaning\nWorkspace:  Ceramics\nAsset:  Glazing Area\nSummary:  Ant infestation rain\nAdditional Info:  Lots of ants\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791241228544309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791241228544309",
+      "created": "2026-10-05T23:00:28.038Z"
+    },
     {
       "id": "86aktawfu",
       "workspace": "Woodshop",
