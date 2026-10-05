@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T21:24:45.697Z",
+  "updated": "2026-10-05T21:36:57.557Z",
   "tasks": [
+    {
+      "id": "86aktawfu",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
+      "summary": "Won't turn on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Won't turn on\nAdditional Info:  Checked the breaker and key and both were on but pressing the green button didn't activate the motor\n\nDiscourse Link: https://yo.asmbly.org/t/10-5-2026-1624-woodshop-24-resaw-band-saw-grizzly-g0569/16683\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791235893750959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-5-2026-1624-woodshop-24-resaw-band-saw-grizzly-g0569/16683",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791235893750959",
+      "created": "2026-10-05T21:31:32.176Z"
+    },
     {
       "id": "86akt92k0",
       "workspace": "Multi-Purpose Room",
