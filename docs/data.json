@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T16:47:09.370Z",
+  "updated": "2026-10-05T17:04:20.737Z",
   "tasks": [
+    {
+      "id": "86akt87rb",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "MagSwitch",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  MagSwitch\nAdditional Info:  one of the magnets on the Mag-switch feather-board will not lock \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791219803978519\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791219803978519",
+      "created": "2026-10-05T17:03:23.531Z"
+    },
     {
       "id": "86akt68rj",
       "workspace": "3D Printing",
