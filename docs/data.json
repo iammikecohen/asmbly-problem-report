@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T23:04:42.588Z",
+  "updated": "2026-10-05T23:23:06.579Z",
   "tasks": [
+    {
+      "id": "86aktbd8f",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Cleaning",
+      "description": "Problem Type: Cleaning\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Cleaning \nAdditional Info:  Wheel splash pan not fully cleaned and wheel head not fully cleaned after use discovered at 6pm \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791242325827659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791242325827659",
+      "created": "2026-10-05T23:18:45.081Z"
+    },
     {
       "id": "86aktbb1f",
       "workspace": "Ceramics",
