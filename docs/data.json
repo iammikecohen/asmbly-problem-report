@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-05T13:35:01.104Z",
+  "updated": "2026-10-05T13:54:49.205Z",
   "tasks": [
+    {
+      "id": "86akt68rj",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Chantico",
+      "summary": "Filament stuck in AMS",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Chantico\nSummary:  Filament stuck in AMS\nAdditional Info:  Filament stuck in the AMS position 3; machine won’t release the filament\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791208301347049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791208301347049",
+      "created": "2026-10-05T13:51:40.928Z"
+    },
+    {
+      "id": "86akt68k0",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Bastet",
+      "summary": "Filament stuck in AMS",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Bastet\nSummary:  Filament stuck in AMS\nAdditional Info:  Filament stuck in the AMS position 2; machine won’t release the filament\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791208258574469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791208258574469",
+      "created": "2026-10-05T13:50:58.117Z"
+    },
     {
       "id": "86akt4jbx",
       "workspace": "Woodshop",
