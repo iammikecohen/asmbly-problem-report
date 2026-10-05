@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T17:24:15.544Z",
+  "updated": "2026-10-05T17:36:38.424Z",
   "tasks": [
+    {
+      "id": "86akt8gw8",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "Octoprint can't connect to all 3",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Octoprint can't connect to all 3\nAdditional Info:  I have tried restarting all 3 printers\n\nDiscourse Link: https://yo.asmbly.org/t/10-5-2026-1237-3d-printing-prusa-mk3s-hermes/16682\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791221506566739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-5-2026-1237-3d-printing-prusa-mk3s-hermes/16682",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791221506566739",
+      "created": "2026-10-05T17:31:44.596Z"
+    },
     {
       "id": "86akt87rb",
       "workspace": "Woodshop",
