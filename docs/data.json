@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-05T04:39:48.786Z",
+  "updated": "2026-10-05T05:15:16.880Z",
   "tasks": [
+    {
+      "id": "86akt4jbx",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drum Sander - Supermax 25/50",
+      "summary": "blast gate open, tool is off",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  blast gate open, tool is off\nAdditional Info:  DC is running, and the blast gate won't shut. I cycled power on the tool to see if it would notice the change, but no luck.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791175558465469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791175558465469",
+      "created": "2026-10-05T04:45:57.876Z"
+    },
     {
       "id": "86akt3ra6",
       "workspace": "Woodshop",
