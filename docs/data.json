@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-06T13:18:35.601Z",
+  "updated": "2026-10-06T13:38:35.738Z",
   "tasks": [
+    {
+      "id": "17tx4wxg6yv",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Drill Press - Grizzly G0779 Gearhead",
+      "summary": "Big holder separated",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Drill Press - Grizzly G0779 Gearhead\nSummary:  Big holder separated \nAdditional Info:  Drilling fine -holder separated . Not sure how it’s supposed to stay connected doesn’t look snapped and there’s what appears to be a screw hole in it \n\nDiscourse Link: https://yo.asmbly.org/t/10-6-2026-858-metal-shop-drill-press-grizzly-g0779-gearhead/16687\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791293286824189\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-6-2026-858-metal-shop-drill-press-grizzly-g0779-gearhead/16687",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791293286824189",
+      "created": "2026-10-06T13:28:05.700Z"
+    },
     {
       "id": "17tx4wxg6gu",
       "workspace": "Woodshop",
