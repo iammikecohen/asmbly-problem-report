@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-06T23:04:36.719Z",
+  "updated": "2026-10-06T23:24:49.465Z",
   "tasks": [
+    {
+      "id": "17tx4wxg8t7",
+      "workspace": "General Areas",
+      "workspace_slug": "general-areas",
+      "equipment": "Alta Open",
+      "summary": "Doorbell not ringing any bells",
+      "description": "Problem Type: Facilities\nWorkspace:  General Areas\nAsset:  Alta Open\nSummary:  Doorbell not ringing any bells\nAdditional Info:  The lobby doorbell seems to only ring the lobby phone. Not the most useful\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791328016167889\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791328016167889",
+      "created": "2026-10-06T23:06:55.320Z"
+    },
     {
       "id": "17tx4wxg8db",
       "workspace": "Woodshop",
