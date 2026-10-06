@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-06T04:53:06.524Z",
+  "updated": "2026-10-06T05:05:01.733Z",
   "tasks": [
+    {
+      "id": "17tx4wxg6gu",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Router Table, Router and lift",
+      "summary": "Spindle lock not locking",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Spindle lock not locking \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/10-6-2026-037-woodshop-router-table-router-and-lift/16686\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791262906538559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-6-2026-037-woodshop-router-table-router-and-lift/16686",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791262906538559",
+      "created": "2026-10-06T05:01:44.501Z"
+    },
     {
       "id": "86aktbd8f",
       "workspace": "Ceramics",
