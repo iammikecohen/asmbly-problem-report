@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-07T20:42:23.572Z",
+  "updated": "2026-10-07T20:52:11.736Z",
   "tasks": [
+    {
+      "id": "17tx4wxgccx",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Wheel only goes in reverse",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Wheel only goes in reverse\nAdditional Info:  Corner wheel nearest to the extender - works fine in reverse but does not spin when switch is set to forward.  It was unplugged when I got here and I guess this is why, so I unplugged it again. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791406143455129\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791406143455129",
+      "created": "2026-10-07T20:49:03.011Z"
+    },
     {
       "id": "17tx4wxg8t7",
       "workspace": "General Areas",
