@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-07T15:36:08.369Z",
+  "updated": "2026-10-07T15:55:22.426Z",
   "tasks": [
-    {
-      "id": "17tx4wxg8y1",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Other",
-      "summary": "Bread rack",
-      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Bread rack\nAdditional Info:  Missing one of the ware boards \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791342958761099\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791342958761099",
-      "created": "2026-10-07T03:15:58.053Z"
-    },
     {
       "id": "17tx4wxg8t7",
       "workspace": "General Areas",
