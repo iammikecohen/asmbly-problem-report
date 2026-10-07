@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:36:41.456Z",
+  "updated": "2026-10-07T22:49:27.202Z",
   "tasks": [
     {
       "id": "17tx4wxgccx",
@@ -384,18 +384,6 @@
       "discourse_url": "https://yo.asmbly.org/t/9-24-2026-2215-3d-printing-prusa-mk3s-apollo/16624",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790306123483389",
       "created": "2026-09-25T03:15:22.062Z"
-    },
-    {
-      "id": "86akpg88q",
-      "workspace": "General Areas",
-      "workspace_slug": "general-areas",
-      "equipment": "General Computer 2",
-      "summary": "word is not working",
-      "description": "Problem Type: Other\nWorkspace:  General Areas\nAsset:  General Computer 2\nSummary:  word is not working\nAdditional Info:  Request to install libreoffice - needs admin password\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790301084929199\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790301084929199",
-      "created": "2026-09-25T01:51:24.184Z"
     },
     {
       "id": "86akpfujx",
