@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-08T14:47:20.198Z",
+  "updated": "2026-10-08T15:05:06.313Z",
   "tasks": [
+    {
+      "id": "17tx4wxge5p",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Felder RL 350 Main Shop Dust Collector",
+      "summary": "Dust collector bin",
+      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  Dust collector bin\nAdditional Info:  Bin was full and overloaded. Piles of dust around bin.\n\nDiscourse Link: https://yo.asmbly.org/t/10-8-2026-926-woodshop-felder-rl-350-main-shop-dust-collector/16696\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791471273502709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-8-2026-926-woodshop-felder-rl-350-main-shop-dust-collector/16696",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791471273502709",
+      "created": "2026-10-08T14:54:32.512Z"
+    },
     {
       "id": "17tx4wxgccx",
       "workspace": "Ceramics",
