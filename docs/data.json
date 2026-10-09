@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-09T19:22:47.181Z",
+  "updated": "2026-10-09T19:36:05.955Z",
   "tasks": [
-    {
-      "id": "17tx4wxgjr7",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "No air pressure",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  No air pressure\nAdditional Info:  I'm not getting air pressure at the Tormach, and the compressor sounds too quiet\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791572256459029\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791572256459029",
-      "created": "2026-10-09T18:57:35.910Z"
-    },
     {
       "id": "17tx4wxggge",
       "workspace": "Woodshop",
