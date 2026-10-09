@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-09T07:36:42.926Z",
+  "updated": "2026-10-09T07:57:32.299Z",
   "tasks": [
+    {
+      "id": "17tx4wxggge",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Unknown Equipment",
+      "summary": "Extension by CNC fell from ceiling",
+      "description": "Problem Type: Other\nWorkspace:  Woodshop\nAsset:  \nSummary:  Extension by CNC fell from ceiling\nAdditional Info:  It didn’t hit me\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791532457359589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791532457359589",
+      "created": "2026-10-09T07:54:16.724Z"
+    },
     {
       "id": "17tx4wxge5p",
       "workspace": "Woodshop",
