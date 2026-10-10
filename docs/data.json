@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-10T15:24:00.102Z",
+  "updated": "2026-10-10T15:36:01.982Z",
   "tasks": [
+    {
+      "id": "17tx4wxgkyq",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Metal Lathe - Grizzly",
+      "summary": "X-axis of DRO failed",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  X-axis of DRO failed\nAdditional Info:  Something has broken in the measuring part of the x-axis DRO. That functionality is completely missing now.\n\n(Discovered by Andres; report relayed by Ethan; Andres has volunteered to investigate and repair but will need parts ordered.)\n\nDiscourse Link: https://yo.asmbly.org/t/10-10-2026-1003-metal-shop-metal-lathe-grizzly/16702\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791646151108009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-10-2026-1003-metal-shop-metal-lathe-grizzly/16702",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791646151108009",
+      "created": "2026-10-10T15:29:09.874Z"
+    },
     {
       "id": "17tx4wxggge",
       "workspace": "Woodshop",
