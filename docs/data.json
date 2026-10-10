@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-10T20:49:17.398Z",
+  "updated": "2026-10-10T21:04:39.406Z",
   "tasks": [
+    {
+      "id": "17tx4wxgm4y",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "Blast gate is not opening fully",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Blast gate is not opening fully\nAdditional Info:  The blast gate is not opening fully, will attach photo\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791665655039049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791665655039049",
+      "created": "2026-10-10T20:54:14.334Z"
+    },
     {
       "id": "17tx4wxgkyq",
       "workspace": "Uncategorized",
