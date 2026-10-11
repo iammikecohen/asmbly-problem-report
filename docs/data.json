@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-11T16:40:56.749Z",
+  "updated": "2026-10-11T16:50:48.661Z",
   "tasks": [
+    {
+      "id": "17tx4wxgmpj",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Chuck key missing",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Chuck key missing\nAdditional Info:  “The chuck key should always be on the magnet or in your hand, nowhere else.” Someone disobeyed that injunction, and now no one else can use the machine.\n\nDiscourse Link: https://yo.asmbly.org/t/10-11-2026-1142-woodshop-drill-press-20-powermatic/16705\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737329112069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-11-2026-1142-woodshop-drill-press-20-powermatic/16705",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737329112069",
+      "created": "2026-10-11T16:48:47.830Z"
+    },
+    {
+      "id": "17tx4wxgmph",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Fence T-slot feet broke.",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Fence T-slot feet broke.\nAdditional Info:  For some reason, someone used the T-slot feet from the Microjig fence on the old drill press fence. Predictably, those broke apart. Right now, you have to manually clamp the fence to the table. What happened to the original T-nuts?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737200698219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737200698219",
+      "created": "2026-10-11T16:46:39.825Z"
+    },
     {
       "id": "17tx4wxgm4y",
       "workspace": "Woodshop",
