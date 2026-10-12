@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-12T17:26:27.127Z",
+  "updated": "2026-10-12T17:40:04.707Z",
   "tasks": [
+    {
+      "id": "17tx4wxgpzr",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "blast gate arm broke",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  blast gate arm broke\nAdditional Info:  The blast gate arm on SawStop 1 is broken. The gate door is on the floor near the gate. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791826190301109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791826190301109",
+      "created": "2026-10-12T17:29:49.779Z"
+    },
     {
       "id": "17tx4wxgpjj",
       "workspace": "Uncategorized",
