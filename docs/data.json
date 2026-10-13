@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-13T17:37:41.977Z",
+  "updated": "2026-10-13T17:50:55.852Z",
   "tasks": [
+    {
+      "id": "17tx4wxgxun",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Toolset puck height wrong",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Toolset puck height wrong\nAdditional Info:  Puck seems to off by about 1.5mm (1/16”) in the wrong direction, leading to overcuts to the spoilboard\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791913103074959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791913103074959",
+      "created": "2026-10-13T17:38:22.358Z"
+    },
     {
       "id": "17tx4wxgudh",
       "workspace": "Lobby",
