@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:06:58.469Z",
+  "updated": "2026-10-13T18:34:06.954Z",
   "tasks": [
     {
       "id": "17tx4wxgxun",
@@ -60,18 +60,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791826190301109",
       "created": "2026-10-12T17:29:49.779Z"
-    },
-    {
-      "id": "17tx4wxgpjj",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "MIG/TIG Miller Multimatic 220 #2",
-      "summary": "Spool feed issues on welder 2.",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Spool feed issues on welder 2. \nAdditional Info:  Spool is performing erratically.  I have a video to demonstrate.  I’ve performed basic online troubleshooting to no avail.  The wheels that feed the wire will stop spinning then spin fast.\n\nIssue is bad enough that you can’t use the welder right now. \n\nDiscourse Link: https://yo.asmbly.org/t/10-12-2026-1048-metal-shop-mig-tig-miller-multimatic-220-2/16710\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791818576990149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-12-2026-1048-metal-shop-mig-tig-miller-multimatic-220-2/16710",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791818576990149",
-      "created": "2026-10-12T15:22:54.418Z"
     },
     {
       "id": "17tx4wxgmzd",
