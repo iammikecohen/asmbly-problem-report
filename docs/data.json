@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-13T13:04:19.556Z",
+  "updated": "2026-10-13T13:36:47.791Z",
   "tasks": [
+    {
+      "id": "17tx4wxgudh",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Unknown Equipment",
+      "summary": "Elkay water dispenser Filter Orange",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  \nSummary:  Elkay water dispenser Filter Orange \nAdditional Info:  In the front lobby, the Elkay water dispenser displays ORANGE for filter status.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791897263070909\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791897263070909",
+      "created": "2026-10-13T13:14:22.123Z"
+    },
     {
       "id": "17tx4wxgtv3",
       "workspace": "Multi-Purpose Room",
