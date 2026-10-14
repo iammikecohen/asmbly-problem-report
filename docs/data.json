@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-14T17:04:12.502Z",
+  "updated": "2026-10-14T17:23:14.200Z",
   "tasks": [
+    {
+      "id": "17tx4wxh6d5",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Left running",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Left running\nAdditional Info:  Someone left this running unattended for an unknown amount of time. No one nearby\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791997642561849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791997642561849",
+      "created": "2026-10-14T17:07:22.058Z"
+    },
     {
       "id": "17tx4wxh648",
       "workspace": "Uncategorized",
