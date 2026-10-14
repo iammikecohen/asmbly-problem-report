@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:26:59.015Z",
+  "updated": "2026-10-14T15:41:55.119Z",
   "tasks": [
     {
       "id": "17tx4wxh2aq",
@@ -60,18 +60,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791833871179509",
       "created": "2026-10-12T19:37:50.432Z"
-    },
-    {
-      "id": "17tx4wxgpzr",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "blast gate arm broke",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  blast gate arm broke\nAdditional Info:  The blast gate arm on SawStop 1 is broken. The gate door is on the floor near the gate. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791826190301109\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791826190301109",
-      "created": "2026-10-12T17:29:49.779Z"
     },
     {
       "id": "17tx4wxgmzd",
@@ -470,18 +458,6 @@
       "created": "2026-10-02T16:45:01.429Z"
     },
     {
-      "id": "86akrpmpb",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 1 - Sawstop",
-      "summary": "Grit gate broken on sawstop 1",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Grit gate broken on sawstop 1\nAdditional Info:  I left it the way I found it, with the gate pulled out (suction on).\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790898383290309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790898383290309",
-      "created": "2026-10-01T23:46:22.468Z"
-    },
-    {
       "id": "86akrmeqy",
       "workspace": "Uncategorized",
       "workspace_slug": "uncategorized",
@@ -590,18 +566,6 @@
       "created": "2026-09-20T13:53:18.542Z"
     },
     {
-      "id": "86akk88w4",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Router Table, Router and lift",
-      "summary": "Lift lock",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Lift lock\nAdditional Info:  Lift lock us not functioning\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789620245883629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789620245883629",
-      "created": "2026-09-17T04:44:04.118Z"
-    },
-    {
       "id": "86akhcfc3",
       "workspace": "General Areas",
       "workspace_slug": "general-areas",
@@ -672,18 +636,6 @@
       "discourse_url": "https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479",
       "created": "2026-09-10T23:01:08.539Z"
-    },
-    {
-      "id": "86akg4z7n",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Router Table, Router and lift",
-      "summary": "Speed and motor torque have dropped off,",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Router Table, Router and lift\nSummary:  Speed and motor torque have dropped off,\nAdditional Info:  I can hear from the pitch that the motor is running more slowly than it used to. I keep wanting to correct people for not using top speed when in fact they are. The motor speed is dropping even more under light loads. Just cutting with a 1/4” round over causes an obvious slowdown. Something is going wrong with the motor. \n\nDiscourse Link: https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "https://yo.asmbly.org/t/9-9-2026-2340-woodshop-router-table-router-and-lift/16542",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789013927533679",
-      "created": "2026-09-10T04:18:46.401Z"
     },
     {
       "id": "86akg3743",
