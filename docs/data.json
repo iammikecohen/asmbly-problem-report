@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-15T20:35:20.512Z",
+  "updated": "2026-10-15T20:48:18.363Z",
   "tasks": [
+    {
+      "id": "17tx4wxhgm2",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Unknown Equipment",
+      "summary": "Bathroom sink not draining",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  \nSummary:  Bathroom sink not draining \nAdditional Info:  Lobby bathroom sink is either draining super slow or not at all. Tried depressing the little drain stopper mechanism and it didn’t make a difference \n\nDiscourse Link: https://yo.asmbly.org/t/10-15-2026-1554-lobby/16727\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792096863983719\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-15-2026-1554-lobby/16727",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792096863983719",
+      "created": "2026-10-15T20:41:02.750Z"
+    },
     {
       "id": "17tx4wxheaj",
       "workspace": "3D Printing",
@@ -44,7 +56,7 @@
       "equipment": "Track Saw - Makita",
       "summary": "Alignment Adjustment no working",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Track Saw - Makita\nSummary:  Alignment Adjustment no working\nAdditional Info:  The front alignment adjustment on the track saw is not working. As a result, the saw is able to swing at least 1/8\" towards and away from the track. Result is inaccurate cuts as well as damaging the plastic alignment guides on all the tracks. Saw needs to be repaired and tracks need to be repaired afterwards. \n\nDiscourse Link: https://yo.asmbly.org/t/10-13-2026-2159-woodshop-track-saw-makita/16718\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791945787171219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "parts ordered",
       "discourse_url": "https://yo.asmbly.org/t/10-13-2026-2159-woodshop-track-saw-makita/16718",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791945787171219",
       "created": "2026-10-14T02:43:05.817Z"
