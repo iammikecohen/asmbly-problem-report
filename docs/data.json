@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-15T18:06:41.648Z",
+  "updated": "2026-10-15T18:28:50.647Z",
   "tasks": [
+    {
+      "id": "17tx4wxheaj",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "Makes clicks and exudes poorly",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Makes clicks and exudes poorly\nAdditional Info:  I arrived and the sheets were dirty and someone had clipped out the filament rather that unloading it. The machine clicks as it runs and failed to exude properly. The way it prints is very hard to remove from the satin steel sheets.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119",
+      "created": "2026-10-15T18:16:41.496Z"
+    },
     {
       "id": "17tx4wxh6d5",
       "workspace": "Woodshop",
