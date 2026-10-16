@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T18:44:56.600Z",
+  "updated": "2026-10-16T18:53:23.765Z",
   "tasks": [
     {
       "id": "17tx4wxhjbb",
@@ -8,7 +8,7 @@
       "equipment": "Drill Press 20\" - Powermatic",
       "summary": "table",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  table\nAdditional Info:  table will not lock in any angle, lift gears bad, table height lock hard to lock\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119790135409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119790135409",
       "created": "2026-10-16T03:03:09.565Z"
