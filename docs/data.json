@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-16T02:51:58.047Z",
+  "updated": "2026-10-16T03:05:43.868Z",
   "tasks": [
+    {
+      "id": "17tx4wxhjbb",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "table",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  table\nAdditional Info:  table will not lock in any angle, lift gears bad, table height lock hard to lock\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119790135409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119790135409",
+      "created": "2026-10-16T03:03:09.565Z"
+    },
+    {
+      "id": "17tx4wxhjav",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "no vacuum cleaner device here",
+      "description": "Problem Type: Cleaning\nWorkspace:  Textiles\nAsset:  \nSummary:  no vacuum cleaner device here\nAdditional Info:  Is there a small vacuum dedicated for the textiles room?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119464835029\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792119464835029",
+      "created": "2026-10-16T02:57:44.348Z"
+    },
     {
       "id": "17tx4wxhgm2",
       "workspace": "Lobby",
