@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-17T13:04:11.558Z",
+  "updated": "2026-10-17T13:20:46.575Z",
   "tasks": [
+    {
+      "id": "17tx4wxhunx",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "Not cutting. Maybe at half power.",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Not cutting. Maybe at half power. \nAdditional Info:  Laser not cutting 1/4 in wood at 100% power and 20 speed. Needing multiple passes. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792242273874619\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792242273874619",
+      "created": "2026-10-17T13:04:33.385Z"
+    },
     {
       "id": "17tx4wxhjbb",
       "workspace": "Woodshop",
