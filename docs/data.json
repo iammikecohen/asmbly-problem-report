@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:03:38.480Z",
+  "updated": "2026-10-19T19:20:16.757Z",
   "tasks": [
     {
       "id": "17tx4wxhwf6",
@@ -168,18 +168,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791772369745689",
       "created": "2026-10-12T02:32:49.186Z"
-    },
-    {
-      "id": "17tx4wxgmwp",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Dust collection not working.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Dust collection not working.\nAdditional Info:  Chute is open but planer is shooting woood everywhere\n\nDiscourse Link: https://yo.asmbly.org/t/10-11-2026-2058-woodshop-planer-15-powermatic-15hh/16707\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791766868923849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-11-2026-2058-woodshop-planer-15-powermatic-15hh/16707",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791766868923849",
-      "created": "2026-10-12T01:01:06.364Z"
     },
     {
       "id": "17tx4wxgm4y",
