@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-19T01:37:36.097Z",
+  "updated": "2026-10-19T01:59:35.590Z",
   "tasks": [
+    {
+      "id": "17tx4wxhwf6",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Sun Wukong",
+      "summary": "thermal anomaly message with loud beepin",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  thermal anomaly message with loud beepin\nAdditional Info:  I never heard beeps so loud from the 3d printer before\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792374157055289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792374157055289",
+      "created": "2026-10-19T01:42:36.462Z"
+    },
     {
       "id": "17tx4wxhw40",
       "workspace": "Lobby",
