@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:06:31.426Z",
+  "updated": "2026-10-19T18:31:23.113Z",
   "tasks": [
     {
       "id": "17tx4wxhwf6",
@@ -182,18 +182,6 @@
       "created": "2026-10-12T01:01:06.364Z"
     },
     {
-      "id": "17tx4wxgmph",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Fence T-slot feet broke.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Fence T-slot feet broke.\nAdditional Info:  For some reason, someone used the T-slot feet from the Microjig fence on the old drill press fence. Predictably, those broke apart. Right now, you have to manually clamp the fence to the table. What happened to the original T-nuts?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737200698219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791737200698219",
-      "created": "2026-10-11T16:46:39.825Z"
-    },
-    {
       "id": "17tx4wxgm4y",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -264,18 +252,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791328016167889",
       "created": "2026-10-06T23:06:55.320Z"
-    },
-    {
-      "id": "17tx4wxg8db",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Sanding Table",
-      "summary": "Filters completely full",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Sanding Table\nSummary:  Filters completely full\nAdditional Info:  These filters are totally full and not very functional. They need to be changed out every three to four weeks.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791317830252719\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791317830252719",
-      "created": "2026-10-06T20:17:09.738Z"
     },
     {
       "id": "17tx4wxg6yv",
