@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-19T17:46:46.498Z",
+  "updated": "2026-10-19T18:06:31.426Z",
   "tasks": [
-    {
-      "id": "17tx4wxhzgy",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade is snapped",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade is snapped\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/10-19-2026-1043-woodshop-14-bandsaw-1-grizzly/16744\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792422054218119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-19-2026-1043-woodshop-14-bandsaw-1-grizzly/16744",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792422054218119",
-      "created": "2026-10-19T15:00:52.922Z"
-    },
     {
       "id": "17tx4wxhwf6",
       "workspace": "3D Printing",
@@ -96,18 +84,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119",
       "created": "2026-10-15T18:16:41.496Z"
-    },
-    {
-      "id": "17tx4wxh6d5",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Left running",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Left running\nAdditional Info:  Someone left this running unattended for an unknown amount of time. No one nearby\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791997642561849\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791997642561849",
-      "created": "2026-10-14T17:07:22.058Z"
     },
     {
       "id": "17tx4wxh648",
@@ -362,18 +338,6 @@
       "created": "2026-10-05T18:30:30.766Z"
     },
     {
-      "id": "86akt4jbx",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Drum Sander - Supermax 25/50",
-      "summary": "blast gate open, tool is off",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  blast gate open, tool is off\nAdditional Info:  DC is running, and the blast gate won't shut. I cycled power on the tool to see if it would notice the change, but no luck.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791175558465469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791175558465469",
-      "created": "2026-10-05T04:45:57.876Z"
-    },
-    {
       "id": "86akt3ra6",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -396,18 +360,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148296699779",
       "created": "2026-10-04T21:11:36.287Z"
-    },
-    {
-      "id": "86akt3qrg",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "power button",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  power button\nAdditional Info:  will not turn on. possible switch issue\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148082792509\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148082792509",
-      "created": "2026-10-04T21:08:02.282Z"
     },
     {
       "id": "86akt3qab",
