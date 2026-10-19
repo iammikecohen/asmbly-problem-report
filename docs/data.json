@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-19T14:52:03.952Z",
+  "updated": "2026-10-19T15:05:32.390Z",
   "tasks": [
+    {
+      "id": "17tx4wxhzgy",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Blade is snapped",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Blade is snapped\nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/10-19-2026-1043-woodshop-14-bandsaw-1-grizzly/16744\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792422054218119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-19-2026-1043-woodshop-14-bandsaw-1-grizzly/16744",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792422054218119",
+      "created": "2026-10-19T15:00:52.922Z"
+    },
     {
       "id": "17tx4wxhwf6",
       "workspace": "3D Printing",
