@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:41:50.518Z",
+  "updated": "2026-10-19T13:54:24.096Z",
   "tasks": [
     {
       "id": "17tx4wxhwf6",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792362983796579",
       "created": "2026-10-18T22:36:22.889Z"
-    },
-    {
-      "id": "17tx4wxhvzc",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Other",
-      "summary": "Blue Ox air filter not on",
-      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Blue Ox air filter not on\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792351273916599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792351273916599",
-      "created": "2026-10-18T19:21:12.580Z"
     },
     {
       "id": "17tx4wxhunx",
