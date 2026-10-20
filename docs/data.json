@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-20T05:25:11.310Z",
+  "updated": "2026-10-20T05:37:58.009Z",
   "tasks": [
+    {
+      "id": "17tx4wxj5e3",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Athena",
+      "summary": "Front plate",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Front plate\nAdditional Info:  While returning to home position after completing a print, the front plate of the extruder popped off and unplugged. The hot end looks okay but I dont have brain width to troubleshoot a tool i havent repaired before\n\nDiscourse Link: https://yo.asmbly.org/t/10-20-2026-054-3d-printing-bambulabs-p1s-athena/16751\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792474022163069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-20-2026-054-3d-printing-bambulabs-p1s-athena/16751",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792474022163069",
+      "created": "2026-10-20T05:27:00.537Z"
+    },
     {
       "id": "17tx4wxhwf6",
       "workspace": "3D Printing",
