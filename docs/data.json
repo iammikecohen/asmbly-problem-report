@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:29:37.201Z",
+  "updated": "2026-10-20T18:46:59.484Z",
   "tasks": [
     {
       "id": "17tx4wxj5e3",
@@ -156,18 +156,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-12-2026-1534-metal-shop-metal-lathe-grizzly/16714",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791836621337809",
       "created": "2026-10-12T20:23:40.320Z"
-    },
-    {
-      "id": "17tx4wxgq6h",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "Broken plug on extension cord",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  \nSummary:  Broken plug on extension cord \nAdditional Info:  The male end piece on the orange extension cord is broken \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791833871179509\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791833871179509",
-      "created": "2026-10-12T19:37:50.432Z"
     },
     {
       "id": "17tx4wxgmzd",
