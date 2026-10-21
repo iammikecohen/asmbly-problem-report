@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-21T23:22:12.133Z",
+  "updated": "2026-10-21T23:34:53.256Z",
   "tasks": [
+    {
+      "id": "17tx4wxjqty",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "Wheel doesn't stop",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Wheel doesn't stop\nAdditional Info:  First wheel on your right when you walk in from outside doesn't stay off when pedal isn't compressed\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792625423424469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792625423424469",
+      "created": "2026-10-21T23:30:21.262Z"
+    },
     {
       "id": "17tx4wxjntx",
       "workspace": "3D Printing",
