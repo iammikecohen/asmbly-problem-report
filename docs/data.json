@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-22T20:05:04.081Z",
+  "updated": "2026-10-22T20:24:53.887Z",
   "tasks": [
+    {
+      "id": "17tx4wxjzar",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Elegoo Resin Printer - Tethys",
+      "summary": "Cleaning cycle not working",
+      "description": "Problem Type: Cleaning\nWorkspace:  3D Printing\nAsset:  Elegoo Resin Printer - Tethys\nSummary:  Cleaning cycle not working \nAdditional Info:  Tapping start for the cleaning cycle briefly flashes The start then it stops. Cleaning nothing. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792700203785359\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792700203785359",
+      "created": "2026-10-22T20:16:42.346Z"
+    },
     {
       "id": "17tx4wxjtmb",
       "workspace": "3D Printing",
