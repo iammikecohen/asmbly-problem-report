@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-22T21:34:12.167Z",
+  "updated": "2026-10-22T21:47:19.909Z",
   "tasks": [
+    {
+      "id": "17tx4wxjzqe",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Other",
+      "summary": "Air purifier fan is not on in this room",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  Other\nSummary:  Air purifier fan is not on in this room \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/10-22-2026-1638-ceramics-other/16767\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792704887685819\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-22-2026-1638-ceramics-other/16767",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792704887685819",
+      "created": "2026-10-22T21:34:46.311Z"
+    },
     {
       "id": "17tx4wxjzar",
       "workspace": "3D Printing",
