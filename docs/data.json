@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-22T22:46:46.190Z",
+  "updated": "2026-10-22T23:04:06.544Z",
   "tasks": [
+    {
+      "id": "17tx4wxjzzt",
+      "workspace": "Building",
+      "workspace_slug": "building",
+      "equipment": "Other",
+      "summary": "Lobby doorbell makes a horrible noise",
+      "description": "Problem Type: Facilities\nWorkspace:  Building\nAsset:  Other\nSummary:  Lobby doorbell makes a horrible noise \nAdditional Info:  When the lobby doorbell is pressed, it makes a horrible noise. The ringer still works, but it is extremely loud on the outside.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792710083876219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792710083876219",
+      "created": "2026-10-22T23:01:23.267Z"
+    },
     {
       "id": "17tx4wxjzz7",
       "workspace": "Woodshop",
