@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-22T12:58:13.947Z",
+  "updated": "2026-10-22T13:19:59.209Z",
   "tasks": [
+    {
+      "id": "17tx4wxjtmb",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Apollo",
+      "summary": "Stuck on paused thermal error",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Stuck on paused thermal error\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792674368104989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792674368104989",
+      "created": "2026-10-22T13:06:07.449Z"
+    },
     {
       "id": "17tx4wxjqty",
       "workspace": "Ceramics",
