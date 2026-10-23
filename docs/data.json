@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-23T00:11:57.272Z",
+  "updated": "2026-10-23T00:57:58.892Z",
   "tasks": [
+    {
+      "id": "17tx4wxk0b0",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Brent CXC Pottery Wheel",
+      "summary": "The wheel spins when pedal is set off",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  The wheel spins when pedal is set off\nAdditional Info:  Left yellow tag on wheel closest to inside door; checked multiple times, and wheel spins (slowly) when should be off completely. When moved forward, spins very quickly (no clear middle speed). \n\nDiscourse Link: https://yo.asmbly.org/t/10-22-2026-1944-ceramics-brent-cxc-pottery-wheel/16770\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792716111135989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-22-2026-1944-ceramics-brent-cxc-pottery-wheel/16770",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792716111135989",
+      "created": "2026-10-23T00:41:49.988Z"
+    },
     {
       "id": "17tx4wxjzzt",
       "workspace": "Building",
