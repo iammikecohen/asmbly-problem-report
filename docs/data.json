@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-23T02:34:53.322Z",
+  "updated": "2026-10-23T02:54:50.659Z",
   "tasks": [
-    {
-      "id": "17tx4wxk0b0",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Brent CXC Pottery Wheel",
-      "summary": "The wheel spins when pedal is set off",
-      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  The wheel spins when pedal is set off\nAdditional Info:  Left yellow tag on wheel closest to inside door; checked multiple times, and wheel spins (slowly) when should be off completely. When moved forward, spins very quickly (no clear middle speed). \n\nDiscourse Link: https://yo.asmbly.org/t/10-22-2026-1944-ceramics-brent-cxc-pottery-wheel/16770\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792716111135989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-22-2026-1944-ceramics-brent-cxc-pottery-wheel/16770",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792716111135989",
-      "created": "2026-10-23T00:41:49.988Z"
-    },
     {
       "id": "17tx4wxjzzt",
       "workspace": "Building",
@@ -60,18 +48,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792674368104989",
       "created": "2026-10-22T13:06:07.449Z"
-    },
-    {
-      "id": "17tx4wxjqty",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Brent CXC Pottery Wheel",
-      "summary": "Wheel doesn't stop",
-      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Brent CXC Pottery Wheel\nSummary:  Wheel doesn't stop\nAdditional Info:  First wheel on your right when you walk in from outside doesn't stay off when pedal isn't compressed\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792625423424469\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792625423424469",
-      "created": "2026-10-21T23:30:21.262Z"
     },
     {
       "id": "17tx4wxjntx",
