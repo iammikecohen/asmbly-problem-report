@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-24T18:05:24.881Z",
+  "updated": "2026-10-24T18:26:23.505Z",
   "tasks": [
+    {
+      "id": "17tx4wxk9c4",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "Booking before has 4hrs left to print?",
+      "description": "Problem Type: Other\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Booking before has 4hrs left to print?\nAdditional Info:  Sunwukong did not finish my print so can’t pivot there \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792865710672089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792865710672089",
+      "created": "2026-10-24T18:15:09.697Z"
+    },
     {
       "id": "17tx4wxk9bv",
       "workspace": "Woodshop",
