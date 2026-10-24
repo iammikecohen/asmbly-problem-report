@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-24T10:46:30.010Z",
+  "updated": "2026-10-24T11:03:58.536Z",
   "tasks": [
+    {
+      "id": "17tx4wxk94p",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Other",
+      "summary": "Iron left plugged",
+      "description": "Problem Type: Cleaning\nWorkspace:  Textiles\nAsset:  Other\nSummary:  Iron left plugged\nAdditional Info:  Found it in this state this morning. Nobody was in the textiles room.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792839776109319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792839776109319",
+      "created": "2026-10-24T11:02:55.092Z"
+    },
     {
       "id": "17tx4wxk7tq",
       "workspace": "Woodshop",
