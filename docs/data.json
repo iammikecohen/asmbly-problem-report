@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-24T17:47:04.675Z",
+  "updated": "2026-10-24T18:05:24.881Z",
   "tasks": [
+    {
+      "id": "17tx4wxk9bv",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 1 - Sawstop",
+      "summary": "Duat hose",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 1 - Sawstop\nSummary:  Duat hose \nAdditional Info:  Internal hose is short,  may need to replace found broken,  clipped of broken section, need to replace 4 inch hose clip\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792864374711569\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792864374711569",
+      "created": "2026-10-24T17:52:53.919Z"
+    },
     {
       "id": "17tx4wxk9bt",
       "workspace": "Uncategorized",
