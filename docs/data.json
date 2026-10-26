@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-26T14:50:58.418Z",
+  "updated": "2026-10-26T15:27:58.340Z",
   "tasks": [
+    {
+      "id": "17tx4wxkfxj",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Apollo",
+      "summary": "Thermal error on 2 printers",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Thermal error on 2 printers\nAdditional Info:  Both Apollo and sun wukong had thermal errors when trying to print. Did we update firmware recently? The nozzle setting was weirdly changed on hermes too and I had to fix that.\n\nDiscourse Link: https://yo.asmbly.org/t/10-26-2026-911-3d-printing-prusa-mk3s-apollo/16786\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793026338541949\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-26-2026-911-3d-printing-prusa-mk3s-apollo/16786",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793026338541949",
+      "created": "2026-10-26T14:52:17.482Z"
+    },
     {
       "id": "17tx4wxkfc5",
       "workspace": "Woodshop",
