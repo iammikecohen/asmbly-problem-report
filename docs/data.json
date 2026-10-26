@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-26T13:30:52.460Z",
+  "updated": "2026-10-26T14:50:58.418Z",
   "tasks": [
+    {
+      "id": "17tx4wxkfc5",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "microjig clamps missing from drill press",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  microjig clamps missing from drill press\nAdditional Info:  We used to keep the drill press clamps hanging from the press table/tray. Lately these have disappeared and are nowhere to be found.\n\nDiscourse Link: https://yo.asmbly.org/t/10-26-2026-934-woodshop-other/16785\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793024742769459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-26-2026-934-woodshop-other/16785",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793024742769459",
+      "created": "2026-10-26T14:25:41.487Z"
+    },
     {
       "id": "17tx4wxkb57",
       "workspace": "Woodshop",
