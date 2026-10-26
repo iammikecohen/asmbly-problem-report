@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-26T17:48:27.737Z",
+  "updated": "2026-10-26T18:08:21.849Z",
   "tasks": [
-    {
-      "id": "17tx4wxkhk7",
-      "workspace": "Office",
-      "workspace_slug": "office",
-      "equipment": "Other",
-      "summary": "cannot book laser in Skedda",
-      "description": "Problem Type: Other\nWorkspace:  Office\nAsset:  Other\nSummary:  cannot book laser in Skedda\nAdditional Info:  I have a screenshot, where to upload it?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793034612337589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793034612337589",
-      "created": "2026-10-26T17:10:11.549Z"
-    },
     {
       "id": "17tx4wxkfxj",
       "workspace": "3D Printing",
@@ -72,18 +60,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792901957566929",
       "created": "2026-10-25T04:19:16.641Z"
-    },
-    {
-      "id": "17tx4wxk9c4",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "Booking before has 4hrs left to print?",
-      "description": "Problem Type: Other\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Booking before has 4hrs left to print?\nAdditional Info:  Sunwukong did not finish my print so can’t pivot there \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792865710672089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792865710672089",
-      "created": "2026-10-24T18:15:09.697Z"
     },
     {
       "id": "17tx4wxk9bv",
