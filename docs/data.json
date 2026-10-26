@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-26T02:00:08.707Z",
+  "updated": "2026-10-26T02:32:04.614Z",
   "tasks": [
+    {
+      "id": "17tx4wxkb57",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Table Saw 2 - Sawstop",
+      "summary": "Threw break cartridge on table saw 2",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Threw break cartridge on table saw 2\nAdditional Info:  Not sure how (no flashing codes and no material had been fed yet). I attempted to remove the dado and cartridge, but it wasn’t coming out easily and I didn’t want to force it further and do any damage).  Unfortunately, it’s all still in there. Sorry, y’all. I can come help remove it (with some guidance). let me know what I owe for the cartridge and dado.\n\nDiscourse Link: https://yo.asmbly.org/t/10-25-2026-2105-woodshop-table-saw-2-sawstop/16782\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792980132357659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-25-2026-2105-woodshop-table-saw-2-sawstop/16782",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792980132357659",
+      "created": "2026-10-26T02:02:11.047Z"
+    },
     {
       "id": "17tx4wxka5w",
       "workspace": "Woodshop",
