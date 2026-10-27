@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-27T13:01:22.583Z",
+  "updated": "2026-10-27T13:31:11.932Z",
   "tasks": [
-    {
-      "id": "17tx4wxkq3k",
-      "workspace": "Multi-Purpose Room",
-      "workspace_slug": "multi-purpose-room",
-      "equipment": "Other",
-      "summary": "Fridge Receptacle Has No Power",
-      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Fridge Receptacle Has No Power\nAdditional Info:  Gem found it in the morning that the fridge lost power. The GFCI receptacle for the fridge is not resetting. I haven't tested yet if it is the receptacle or if there's a deeper issue. No breakers in the MPR are tripped.\n\nCurrently plugged into another receptacle and is working.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793105839035879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793105839035879",
-      "created": "2026-10-27T12:57:18.413Z"
-    },
     {
       "id": "17tx4wxkp1v",
       "workspace": "Lasers",
