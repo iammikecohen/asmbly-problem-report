@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-27T05:04:47.184Z",
+  "updated": "2026-10-27T05:25:58.201Z",
   "tasks": [
+    {
+      "id": "17tx4wxkp1v",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Motor skips",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Motor skips\nAdditional Info:  Starts cutting, then shifts to a new position with a loud noise and then continues there\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793078083005129\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793078083005129",
+      "created": "2026-10-27T05:14:42.516Z"
+    },
     {
       "id": "17tx4wxkfxj",
       "workspace": "3D Printing",
