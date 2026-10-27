@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-27T22:32:19.703Z",
+  "updated": "2026-10-27T22:46:39.519Z",
   "tasks": [
+    {
+      "id": "17tx4wxm0eb",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Dewalt Angle Grinder issue",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Dewalt Angle Grinder issue\nAdditional Info:  Unable to remove collar nut on angle grinder; too tight, bent spanner wrench.\n\nDiscourse Link: https://yo.asmbly.org/t/10-27-2026-1759-metal-shop-other/16790\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793140329068449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-27-2026-1759-metal-shop-other/16790",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793140329068449",
+      "created": "2026-10-27T22:32:07.989Z"
+    },
     {
       "id": "17tx4wxkt2z",
       "workspace": "Lasers",
