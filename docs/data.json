@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:32:40.969Z",
+  "updated": "2026-10-27T18:46:32.605Z",
   "tasks": [
     {
       "id": "17tx4wxkt2z",
@@ -948,18 +948,6 @@
       "discourse_url": "https://yo.asmbly.org/t/8-25-2026-1409-woodshop-shaper-origin-handheld-cnc-router/16454",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787684897564519",
       "created": "2026-08-25T19:08:15.909Z"
-    },
-    {
-      "id": "86ak4y0dv",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "Scroll saw",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Scroll saw\nAdditional Info:  Missing blade top blade chuck on top. Most parts could not find to order.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787519929554409\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1787519929554409",
-      "created": "2026-08-23T21:18:48.655Z"
     },
     {
       "id": "86ak4x6j9",
