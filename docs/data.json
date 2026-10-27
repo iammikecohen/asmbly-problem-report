@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-27T15:28:04.477Z",
+  "updated": "2026-10-27T15:44:04.959Z",
   "tasks": [
+    {
+      "id": "17tx4wxkt2z",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Not cutting out whole shape",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Not cutting out whole shape\nAdditional Info:  Laser not cutting through wood in spots\n\nDiscourse Link: https://yo.asmbly.org/t/10-27-2026-1006-lasers-dorian/16788\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793115014815429\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-27-2026-1006-lasers-dorian/16788",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793115014815429",
+      "created": "2026-10-27T15:30:13.432Z"
+    },
     {
       "id": "17tx4wxkp1v",
       "workspace": "Lasers",
