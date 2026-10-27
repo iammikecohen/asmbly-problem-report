@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:04:40.511Z",
+  "updated": "2026-10-27T18:21:21.425Z",
   "tasks": [
     {
       "id": "17tx4wxkt2z",
@@ -132,18 +132,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792710083876219",
       "created": "2026-10-22T23:01:23.267Z"
-    },
-    {
-      "id": "17tx4wxjzz7",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "24\" Resaw Band Saw - Grizzly G0569",
-      "summary": "Intermittent noise in lower housing.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  24\" Resaw Band Saw - Grizzly G0569\nSummary:  Intermittent noise in lower housing.\nAdditional Info:  Possibly bearing noise in motor shaft area, also noticed burning rubber smell \n\nDiscourse Link: https://yo.asmbly.org/t/10-22-2026-1720-woodshop-24-resaw-band-saw-grizzly-g0569/16769\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792709132102869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-22-2026-1720-woodshop-24-resaw-band-saw-grizzly-g0569/16769",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792709132102869",
-      "created": "2026-10-22T22:45:30.033Z"
     },
     {
       "id": "17tx4wxjtmb",
