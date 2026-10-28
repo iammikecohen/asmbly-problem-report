@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-28T17:17:45.992Z",
+  "updated": "2026-10-28T17:32:48.207Z",
   "tasks": [
+    {
+      "id": "17tx4wxm83h",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Z-Index changed between cuts",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Z-Index changed between cuts\nAdditional Info:  When the member's second pass started the z-axis reset and a made a sound that seemed like resistance. when the tool lowered to make it's next, deeper pass it was an inch or 2 above where it needed to be. No issue jogging the z to the top.\n\nDiscourse Link: https://yo.asmbly.org/t/10-28-2026-1247-woodshop-laguna-swift-cnc-5x10/16792\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793208414766589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-28-2026-1247-woodshop-laguna-swift-cnc-5x10/16792",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793208414766589",
+      "created": "2026-10-28T17:26:53.653Z"
+    },
     {
       "id": "17tx4wxm0eb",
       "workspace": "Uncategorized",
