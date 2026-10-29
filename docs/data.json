@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:50:50.489Z",
+  "updated": "2026-10-29T17:03:31.875Z",
   "tasks": [
     {
       "id": "17tx4wxm83h",
@@ -228,18 +228,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119",
       "created": "2026-10-15T18:16:41.496Z"
-    },
-    {
-      "id": "17tx4wxh2aq",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Track Saw - Makita",
-      "summary": "Alignment Adjustment no working",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Track Saw - Makita\nSummary:  Alignment Adjustment no working\nAdditional Info:  The front alignment adjustment on the track saw is not working. As a result, the saw is able to swing at least 1/8\" towards and away from the track. Result is inaccurate cuts as well as damaging the plastic alignment guides on all the tracks. Saw needs to be repaired and tracks need to be repaired afterwards. \n\nDiscourse Link: https://yo.asmbly.org/t/10-13-2026-2159-woodshop-track-saw-makita/16718\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791945787171219\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
-      "discourse_url": "https://yo.asmbly.org/t/10-13-2026-2159-woodshop-track-saw-makita/16718",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791945787171219",
-      "created": "2026-10-14T02:43:05.817Z"
     },
     {
       "id": "17tx4wxgxun",
