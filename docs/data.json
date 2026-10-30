@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T06:45:34.896Z",
+  "updated": "2026-10-30T07:03:57.236Z",
   "tasks": [
     {
       "id": "17tx4wxmn1g",
@@ -24,18 +24,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-28-2026-1247-woodshop-laguna-swift-cnc-5x10/16792",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793208414766589",
       "created": "2026-10-28T17:26:53.653Z"
-    },
-    {
-      "id": "17tx4wxm0eb",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Other",
-      "summary": "Dewalt Angle Grinder issue",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Dewalt Angle Grinder issue\nAdditional Info:  Unable to remove collar nut on angle grinder; too tight, bent spanner wrench.\n\nDiscourse Link: https://yo.asmbly.org/t/10-27-2026-1759-metal-shop-other/16790\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793140329068449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-27-2026-1759-metal-shop-other/16790",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793140329068449",
-      "created": "2026-10-27T22:32:07.989Z"
     },
     {
       "id": "17tx4wxkt2z",
@@ -1944,18 +1932,6 @@
       "discourse_url": "https://yo.asmbly.org/t/2-19-2026-1842-lasers-dorian/15361",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771547389955559",
       "created": "2026-02-20T00:29:48.665Z"
-    },
-    {
-      "id": "86afhu3ck",
-      "workspace": "Metal-Shop",
-      "workspace_slug": "metal-shop",
-      "equipment": "Other",
-      "summary": "Tig lead grinder",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Tig lead grinder\nAdditional Info:  Arbor loose in tool; bad bearing maybe \n\nDiscourse Link: https://yo.asmbly.org/t/2-18-2026-2142-metal-shop-other/15351\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771471609352389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/2-18-2026-2142-metal-shop-other/15351",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1771471609352389",
-      "created": "2026-02-19T03:26:48.363Z"
     },
     {
       "id": "86afgby2f",
