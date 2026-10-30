@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-30T00:59:50.616Z",
+  "updated": "2026-10-30T01:16:27.780Z",
   "tasks": [
+    {
+      "id": "17tx4wxmn1g",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Unknown Equipment",
+      "summary": "Cricut software asking for money",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  \nSummary:  Cricut software asking for money\nAdditional Info:  When I print, I see checkout page requesting credit card information\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793322100314899\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793322100314899",
+      "created": "2026-10-30T01:01:39.860Z"
+    },
     {
       "id": "17tx4wxm83h",
       "workspace": "Woodshop",
