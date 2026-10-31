@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-31T17:31:41.590Z",
+  "updated": "2026-10-31T17:46:36.012Z",
   "tasks": [
+    {
+      "id": "17tx4wxn7be",
+      "workspace": "Bathrooms",
+      "workspace_slug": "bathrooms",
+      "equipment": "Other",
+      "summary": "Lobby bathroom light didn't come on",
+      "description": "Problem Type: Facilities\nWorkspace:  Bathrooms\nAsset:  Other\nSummary:  Lobby bathroom light didn't come on\nAdditional Info:  Couldn't find the light switch?!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793468007282309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793468007282309",
+      "created": "2026-10-31T17:33:26.761Z"
+    },
     {
       "id": "17tx4wxm83h",
       "workspace": "Woodshop",
