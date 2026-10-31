@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-31T20:46:27.957Z",
+  "updated": "2026-10-31T21:02:51.117Z",
   "tasks": [
+    {
+      "id": "17tx4wxn7dt",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Unknown Equipment",
+      "summary": "Aluminum recycling bin broken",
+      "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  \nSummary:  Aluminum recycling bin broken\nAdditional Info:  My off cut fell on it and broke it :(\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793479729173059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793479729173059",
+      "created": "2026-10-31T20:48:48.506Z"
+    },
     {
       "id": "17tx4wxn7db",
       "workspace": "Multi-Purpose Room",
