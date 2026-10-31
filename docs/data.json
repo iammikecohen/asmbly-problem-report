@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-31T19:46:35.852Z",
+  "updated": "2026-10-31T20:03:12.537Z",
   "tasks": [
+    {
+      "id": "17tx4wxn7db",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "i don’t think the vending charged me",
+      "description": "Problem Type: Equipment\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  i don’t think the vending charged me\nAdditional Info:  so i just went to the donate link and gave money\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793476903958119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793476903958119",
+      "created": "2026-10-31T20:01:43.377Z"
+    },
+    {
+      "id": "17tx4wxn7d8",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Sawgrass Sublimation Printer",
+      "summary": "bypass tray isn’t enabled in driver",
+      "description": "Problem Type: Equipment\nWorkspace:  Textiles\nAsset:  Sawgrass Sublimation Printer\nSummary:  bypass tray isn’t enabled in driver\nAdditional Info:  need an admin to check the “enable bypass tray” check box\n\nDiscourse Link: https://yo.asmbly.org/t/10-31-2026-1431-textiles-sawgrass-sublimation-printer/16799\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793476298164069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/10-31-2026-1431-textiles-sawgrass-sublimation-printer/16799",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793476298164069",
+      "created": "2026-10-31T19:51:37.149Z"
+    },
     {
       "id": "17tx4wxn7be",
       "workspace": "Bathrooms",
