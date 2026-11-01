@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-01T17:31:56.537Z",
+  "updated": "2026-11-01T17:46:39.972Z",
   "tasks": [
-    {
-      "id": "17tx4wxn9qp",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Tarkin",
-      "summary": "Lightburn won’t run",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Lightburn won’t run\nAdditional Info:  Both Tarkin and Dorian are down \n\nDiscourse Link: https://yo.asmbly.org/t/11-1-2026-1005-lasers-tarkin/16803\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793551092326979\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-1-2026-1005-lasers-tarkin/16803",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793551092326979",
-      "created": "2026-11-01T16:38:11.274Z"
-    },
     {
       "id": "17tx4wxn9pq",
       "workspace": "Textiles",
