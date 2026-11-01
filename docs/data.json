@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:46:39.972Z",
+  "updated": "2026-11-01T18:03:18.489Z",
   "tasks": [
     {
       "id": "17tx4wxn9pq",
@@ -98,18 +98,6 @@
       "created": "2026-10-27T05:14:42.516Z"
     },
     {
-      "id": "17tx4wxkfxj",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Apollo",
-      "summary": "Thermal error on 2 printers",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Thermal error on 2 printers\nAdditional Info:  Both Apollo and sun wukong had thermal errors when trying to print. Did we update firmware recently? The nozzle setting was weirdly changed on hermes too and I had to fix that.\n\nDiscourse Link: https://yo.asmbly.org/t/10-26-2026-911-3d-printing-prusa-mk3s-apollo/16786\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793026338541949\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-26-2026-911-3d-printing-prusa-mk3s-apollo/16786",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793026338541949",
-      "created": "2026-10-26T14:52:17.482Z"
-    },
-    {
       "id": "17tx4wxkfc5",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -170,18 +158,6 @@
       "created": "2026-10-22T23:01:23.267Z"
     },
     {
-      "id": "17tx4wxjtmb",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Apollo",
-      "summary": "Stuck on paused thermal error",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Stuck on paused thermal error\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792674368104989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792674368104989",
-      "created": "2026-10-22T13:06:07.449Z"
-    },
-    {
       "id": "17tx4wxjg0h",
       "workspace": "Textiles",
       "workspace_slug": "textiles",
@@ -204,18 +180,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-20-2026-054-3d-printing-bambulabs-p1s-athena/16751",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792474022163069",
       "created": "2026-10-20T05:27:00.537Z"
-    },
-    {
-      "id": "17tx4wxhwf6",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Sun Wukong",
-      "summary": "thermal anomaly message with loud beepin",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  thermal anomaly message with loud beepin\nAdditional Info:  I never heard beeps so loud from the 3d printer before\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792374157055289\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792374157055289",
-      "created": "2026-10-19T01:42:36.462Z"
     },
     {
       "id": "17tx4wxhw40",
@@ -264,18 +228,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-15-2026-1554-lobby/16727",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792096863983719",
       "created": "2026-10-15T20:41:02.750Z"
-    },
-    {
-      "id": "17tx4wxheaj",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "Makes clicks and exudes poorly",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Makes clicks and exudes poorly\nAdditional Info:  I arrived and the sheets were dirty and someone had clipped out the filament rather that unloading it. The machine clicks as it runs and failed to exude properly. The way it prints is very hard to remove from the satin steel sheets.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792088203005119",
-      "created": "2026-10-15T18:16:41.496Z"
     },
     {
       "id": "17tx4wxgxun",
