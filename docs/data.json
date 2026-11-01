@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-01T14:31:51.905Z",
+  "updated": "2026-11-01T14:46:50.673Z",
   "tasks": [
+    {
+      "id": "17tx4wxn9pq",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Other",
+      "summary": "AC in textiles is out",
+      "description": "Problem Type: Facilities\nWorkspace:  Textiles\nAsset:  Other\nSummary:  AC in textiles is out\nAdditional Info:  Thermostat says condensate\n\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793543793788299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793543793788299",
+      "created": "2026-11-01T14:36:33.281Z"
+    },
     {
       "id": "17tx4wxn7dt",
       "workspace": "Uncategorized",
