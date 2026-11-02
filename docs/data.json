@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-02T13:46:35.526Z",
+  "updated": "2026-11-02T14:03:53.729Z",
   "tasks": [
+    {
+      "id": "17tx4wxnczw",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Sun Wukong",
+      "summary": "Printer reports thermal anomaly",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Printer reports thermal anomaly \nAdditional Info:  Printer beeps constantly while printing\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627810606089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627810606089",
+      "created": "2026-11-02T13:56:50.056Z"
+    },
+    {
+      "id": "17tx4wxnczq",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Apollo",
+      "summary": "Printer is failing self test",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Printer is failing self test\nAdditional Info:  Self test reports error on Y axis\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627696979599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627696979599",
+      "created": "2026-11-02T13:54:56.488Z"
+    },
     {
       "id": "17tx4wxnbzx",
       "workspace": "3D Printing",
