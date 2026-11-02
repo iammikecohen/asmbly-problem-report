@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-02T14:46:46.229Z",
+  "updated": "2026-11-02T15:03:33.525Z",
   "tasks": [
+    {
+      "id": "17tx4wxnd6p",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 2 - Grizzly",
+      "summary": "broken blade",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  broken blade\nAdditional Info:  I came in this morning, and the blade was broken. NOTE: the blast gate was green and the DC was running for god knows how long b/c no one had been in before me. I turned off the switch on the band saw and the gate closed and DC shut off. Weird b/c the saw wasn't running, just the switch was on.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793631660364739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793631660364739",
+      "created": "2026-11-02T15:00:59.935Z"
+    },
     {
       "id": "17tx4wxnczw",
       "workspace": "3D Printing",
