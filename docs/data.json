@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-02T03:20:27.251Z",
+  "updated": "2026-11-02T03:31:57.116Z",
   "tasks": [
+    {
+      "id": "17tx4wxnbzx",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Hermes",
+      "summary": "Hermes is reporting Y crash errors",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Hermes is reporting Y crash errors\nAdditional Info:  The device is also reporting self test failed\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590147009859\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590147009859",
+      "created": "2026-11-02T03:29:06.498Z"
+    },
+    {
+      "id": "17tx4wxnbzw",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Extruder",
+      "summary": "Extruder cover missing",
+      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Extruder\nSummary:  Extruder cover missing \nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590067756929\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590067756929",
+      "created": "2026-11-02T03:27:47.147Z"
+    },
     {
       "id": "17tx4wxnbyk",
       "workspace": "3D Printing",
