@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-02T02:21:56.170Z",
+  "updated": "2026-11-02T02:31:52.431Z",
   "tasks": [
+    {
+      "id": "17tx4wxnbyk",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa XL",
+      "summary": "Beeping: PUPPY DWARF 5 not responding",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa XL\nSummary:  Beeping: PUPPY DWARF 5 not responding\nAdditional Info:  the 3d printer has stopped in the middle of a job\n\nDiscourse Link: https://yo.asmbly.org/t/11-1-2026-2001-3d-printing-prusa-xl/16807\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793586129229299\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-1-2026-2001-3d-printing-prusa-xl/16807",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793586129229299",
+      "created": "2026-11-02T02:22:08.003Z"
+    },
     {
       "id": "17tx4wxn9pq",
       "workspace": "Textiles",
