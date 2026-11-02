@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:31:59.601Z",
+  "updated": "2026-11-02T22:46:38.423Z",
   "tasks": [
     {
       "id": "17tx4wxnczw",
@@ -72,18 +72,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793543793788299",
       "created": "2026-11-01T14:36:33.281Z"
-    },
-    {
-      "id": "17tx4wxn7dt",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Unknown Equipment",
-      "summary": "Aluminum recycling bin broken",
-      "description": "Problem Type: Cleaning\nWorkspace:  Metal Shop\nAsset:  \nSummary:  Aluminum recycling bin broken\nAdditional Info:  My off cut fell on it and broke it :(\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793479729173059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793479729173059",
-      "created": "2026-10-31T20:48:48.506Z"
     },
     {
       "id": "17tx4wxn7db",
@@ -320,10 +308,22 @@
       "equipment": "Metal Lathe - Grizzly",
       "summary": "Crossfeed DRO \"X\" stopped reading.",
       "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  Crossfeed DRO \"X\" stopped reading. \nAdditional Info:  I swapped the connector on the back of the DRO from Y/Z to X/Y and the issue remained. So I swapped the connector back. I also tried to power cycle the DRO a couple times. I did not see an obvious defect in the cable jacketing either.\n\nDiscourse Link: https://yo.asmbly.org/t/10-12-2026-1534-metal-shop-metal-lathe-grizzly/16714\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791836621337809\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "https://yo.asmbly.org/t/10-12-2026-1534-metal-shop-metal-lathe-grizzly/16714",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791836621337809",
       "created": "2026-10-12T20:23:40.320Z"
+    },
+    {
+      "id": "17tx4wxgpjj",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Spool feed issues on welder 2.",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Spool feed issues on welder 2. \nAdditional Info:  Spool is performing erratically.  I have a video to demonstrate.  I’ve performed basic online troubleshooting to no avail.  The wheels that feed the wire will stop spinning then spin fast.\n\nIssue is bad enough that you can’t use the welder right now. \n\nDiscourse Link: https://yo.asmbly.org/t/10-12-2026-1048-metal-shop-mig-tig-miller-multimatic-220-2/16710\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791818576990149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "in progress",
+      "discourse_url": "https://yo.asmbly.org/t/10-12-2026-1048-metal-shop-mig-tig-miller-multimatic-220-2/16710",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791818576990149",
+      "created": "2026-10-12T15:22:54.418Z"
     },
     {
       "id": "17tx4wxgmzd",
@@ -356,7 +356,7 @@
       "equipment": "Metal Lathe - Grizzly",
       "summary": "X-axis of DRO failed",
       "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  X-axis of DRO failed\nAdditional Info:  Something has broken in the measuring part of the x-axis DRO. That functionality is completely missing now.\n\n(Discovered by Andres; report relayed by Ethan; Andres has volunteered to investigate and repair but will need parts ordered.)\n\nDiscourse Link: https://yo.asmbly.org/t/10-10-2026-1003-metal-shop-metal-lathe-grizzly/16702\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791646151108009\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "https://yo.asmbly.org/t/10-10-2026-1003-metal-shop-metal-lathe-grizzly/16702",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791646151108009",
       "created": "2026-10-10T15:29:09.874Z"
@@ -590,18 +590,6 @@
       "created": "2026-10-01T19:48:06.787Z"
     },
     {
-      "id": "86akpy02f",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Copco Compressor / Shop Compressed Air",
-      "summary": "3 hose drops in woodshop need repair",
-      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  3 hose drops in woodshop need repair\nAdditional Info:  All 3 hose drops in the woodshop need the ends replaced.  The hose needs be chopped off, and reinstall the hose barb.  One drop is leaking profusely, another drop hose is checked and should be replaced entirely.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790441553099439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790441553099439",
-      "created": "2026-09-26T16:52:32.532Z"
-    },
-    {
       "id": "86akpgy8h",
       "workspace": "3D Printing",
       "workspace_slug": "3d-printing",
@@ -624,18 +612,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790292391223019",
       "created": "2026-09-24T23:26:30.657Z"
-    },
-    {
-      "id": "86akp93h7",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Cold Saw - Baleigh CS-350",
-      "summary": "Out of coolant",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Cold Saw - Baleigh CS-350\nSummary:  Out of coolant\nAdditional Info:  Someone is trying to use the cold saw but it’s out of cutting fluid.  I’d fix it if I knew how to fill em!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790267705508259\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790267705508259",
-      "created": "2026-09-24T16:35:04.995Z"
     },
     {
       "id": "86aknz110",
