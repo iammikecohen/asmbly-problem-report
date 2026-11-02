@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:46:59.626Z",
+  "updated": "2026-11-02T21:03:43.875Z",
   "tasks": [
     {
       "id": "17tx4wxnczw",
@@ -530,18 +530,6 @@
       "created": "2026-10-03T17:39:29.784Z"
     },
     {
-      "id": "86akt1tft",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Unknown Equipment",
-      "summary": "4 calipers need their battery replaced",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  \nSummary:  4 calipers need their battery replaced\nAdditional Info:  The calipers in the tool area without cases\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791047009581189\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791047009581189",
-      "created": "2026-10-03T17:03:28.334Z"
-    },
-    {
       "id": "86akt1hwy",
       "workspace": "3D Printing",
       "workspace_slug": "3d-printing",
@@ -588,30 +576,6 @@
       "discourse_url": "https://yo.asmbly.org/t/10-2-2026-1736-metal-shop-tormach-pcnc-1100/16668",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790979344454399",
       "created": "2026-10-02T22:15:42.625Z"
-    },
-    {
-      "id": "86akrw1ea",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Vacuum not working",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Vacuum not working\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790960645751879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790960645751879",
-      "created": "2026-10-02T17:04:04.926Z"
-    },
-    {
-      "id": "86akrvu86",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Planer 15\"- Powermatic 15HH",
-      "summary": "Sawdust backing up",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Planer 15\"- Powermatic 15HH\nSummary:  Sawdust backing up\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790959502130439\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790959502130439",
-      "created": "2026-10-02T16:45:01.429Z"
     },
     {
       "id": "86akrmeqy",
