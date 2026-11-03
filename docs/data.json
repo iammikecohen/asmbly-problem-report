@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-03T16:18:14.659Z",
+  "updated": "2026-11-03T16:32:09.906Z",
   "tasks": [
+    {
+      "id": "17tx4wxnm1j",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Unknown Equipment",
+      "summary": "Running low on Baltic birch plywood",
+      "description": "Problem Type: Supplies\nWorkspace:  Lasers\nAsset:  \nSummary:  Running low on Baltic birch plywood \nAdditional Info:  There’s one or two sheets left of each of the various sizes of plywood in the laser room \n\nDiscourse Link: https://yo.asmbly.org/t/11-3-2026-1036-lasers/16812\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793723085376559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-3-2026-1036-lasers/16812",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793723085376559",
+      "created": "2026-11-03T16:24:43.405Z"
+    },
     {
       "id": "17tx4wxnczw",
       "workspace": "3D Printing",
