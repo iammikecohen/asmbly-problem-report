@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-03T20:31:59.135Z",
+  "updated": "2026-11-03T20:46:45.366Z",
   "tasks": [
+    {
+      "id": "17tx4wxnvet",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Very low power, not cutting",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Very low power, not cutting\nAdditional Info:  Even at 100% power and 6mm/sec, barely marks a piece of acrylic\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793738215788179\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793738215788179",
+      "created": "2026-11-03T20:36:55.345Z"
+    },
     {
       "id": "17tx4wxnm8z",
       "workspace": "Lasers",
