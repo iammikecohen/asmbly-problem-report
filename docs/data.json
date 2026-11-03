@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-03T16:32:09.906Z",
+  "updated": "2026-11-03T16:46:52.847Z",
   "tasks": [
+    {
+      "id": "17tx4wxnm8z",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Not cutting",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Not cutting\nAdditional Info:  Even on 100 power, slowest speed, it barely marked my wood. \n\nDiscourse Link: https://yo.asmbly.org/t/11-3-2026-1034-lasers-dorian/16813\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793724282597389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-3-2026-1034-lasers-dorian/16813",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793724282597389",
+      "created": "2026-11-03T16:44:40.965Z"
+    },
     {
       "id": "17tx4wxnm1j",
       "workspace": "Lasers",
