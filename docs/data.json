@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-04T19:32:15.378Z",
+  "updated": "2026-11-04T19:46:36.938Z",
   "tasks": [
+    {
+      "id": "17tx4wxp11d",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Blade Slipped",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:   Blade Slipped\nAdditional Info:  Was working great otherwise.\n\nDiscourse Link: https://yo.asmbly.org/t/11-4-2026-1324-woodshop-14-bandsaw-1-grizzly/16819\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793820993111019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-4-2026-1324-woodshop-14-bandsaw-1-grizzly/16819",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793820993111019",
+      "created": "2026-11-04T19:36:31.829Z"
+    },
     {
       "id": "17tx4wxp0aa",
       "workspace": "Uncategorized",
