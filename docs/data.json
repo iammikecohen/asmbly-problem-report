@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-04T15:03:28.452Z",
+  "updated": "2026-11-04T15:17:55.236Z",
   "tasks": [
+    {
+      "id": "17tx4wxnz2p",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Horizontal Bandsaw - Central Machinery",
+      "summary": "Cutting fluid line is kinked",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Horizontal Bandsaw - Central Machinery\nSummary:  Cutting fluid line is kinked\nAdditional Info:  It’s keeping the fluid from cooling while cutting.  Gonna ruin the blade.  Can manually run fluid from squeeze bottle for now (on bandsaw table), but recommend adding a 90 degree elbow to line coming out of pump above blue holding tank to prevent kink. \n\nDiscourse Link: https://yo.asmbly.org/t/11-4-2026-956-metal-shop-horizontal-bandsaw-central-machinery/16817\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793805124944689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-4-2026-956-metal-shop-horizontal-bandsaw-central-machinery/16817",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793805124944689",
+      "created": "2026-11-04T15:12:03.640Z"
+    },
     {
       "id": "17tx4wxnvet",
       "workspace": "Lasers",
