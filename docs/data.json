@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:32:03.179Z",
+  "updated": "2026-11-05T15:46:43.473Z",
   "tasks": [
     {
       "id": "17tx4wxp3xd",
@@ -242,30 +242,6 @@
       "created": "2026-10-27T05:14:42.516Z"
     },
     {
-      "id": "17tx4wxkfc5",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Other",
-      "summary": "microjig clamps missing from drill press",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  microjig clamps missing from drill press\nAdditional Info:  We used to keep the drill press clamps hanging from the press table/tray. Lately these have disappeared and are nowhere to be found.\n\nDiscourse Link: https://yo.asmbly.org/t/10-26-2026-934-woodshop-other/16785\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793024742769459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-26-2026-934-woodshop-other/16785",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793024742769459",
-      "created": "2026-10-26T14:25:41.487Z"
-    },
-    {
-      "id": "17tx4wxkb57",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Threw break cartridge on table saw 2",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Threw break cartridge on table saw 2\nAdditional Info:  Not sure how (no flashing codes and no material had been fed yet). I attempted to remove the dado and cartridge, but it wasn’t coming out easily and I didn’t want to force it further and do any damage).  Unfortunately, it’s all still in there. Sorry, y’all. I can come help remove it (with some guidance). let me know what I owe for the cartridge and dado.\n\nDiscourse Link: https://yo.asmbly.org/t/10-25-2026-2105-woodshop-table-saw-2-sawstop/16782\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792980132357659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-25-2026-2105-woodshop-table-saw-2-sawstop/16782",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1792980132357659",
-      "created": "2026-10-26T02:02:11.047Z"
-    },
-    {
       "id": "17tx4wxk9wp",
       "workspace": "Lasers",
       "workspace_slug": "lasers",
@@ -432,18 +408,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791772369745689",
       "created": "2026-10-12T02:32:49.186Z"
-    },
-    {
-      "id": "17tx4wxgm4y",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "Blast gate is not opening fully",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Blast gate is not opening fully\nAdditional Info:  The blast gate is not opening fully, will attach photo\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791665655039049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791665655039049",
-      "created": "2026-10-10T20:54:14.334Z"
     },
     {
       "id": "17tx4wxgkyq",
@@ -812,7 +776,7 @@
       "equipment": "Table Saw 2 - Sawstop",
       "summary": "Angle wheel not locking",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Angle wheel not locking \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "parts ordered",
+      "status": "Open",
       "discourse_url": "https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479",
       "created": "2026-09-10T23:01:08.539Z"
