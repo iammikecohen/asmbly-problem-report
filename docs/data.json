@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-05T17:03:43.355Z",
+  "updated": "2026-11-05T17:17:09.492Z",
   "tasks": [
+    {
+      "id": "17tx4wxp869",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 1 - Grizzly",
+      "summary": "Snapped blade",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Snapped blade\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793898265251869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793898265251869",
+      "created": "2026-11-05T17:04:23.248Z"
+    },
     {
       "id": "17tx4wxp3xd",
       "workspace": "Education / Classes",
