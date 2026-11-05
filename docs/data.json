@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-05T00:36:47.707Z",
+  "updated": "2026-11-05T00:50:49.948Z",
   "tasks": [
+    {
+      "id": "17tx4wxp3bc",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "I think the speed setting is stuck",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  I think the speed setting is stuck \nAdditional Info:  No matter what I set the speed to it doesn’t change. \n\nDiscourse Link: https://yo.asmbly.org/t/11-4-2026-1820-lasers-tarkin/16821\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793839048736319\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-4-2026-1820-lasers-tarkin/16821",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793839048736319",
+      "created": "2026-11-05T00:37:27.529Z"
+    },
     {
       "id": "17tx4wxp11d",
       "workspace": "Woodshop",
