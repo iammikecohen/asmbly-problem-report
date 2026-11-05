@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-05T02:46:39.120Z",
+  "updated": "2026-11-05T03:03:36.729Z",
   "tasks": [
+    {
+      "id": "17tx4wxp3xd",
+      "workspace": "Education / Classes",
+      "workspace_slug": "education--classes",
+      "equipment": "Other",
+      "summary": "Missing battery",
+      "description": "Problem Type: Equipment\nWorkspace:  Education / Classes\nAsset:  Other\nSummary:  Missing battery\nAdditional Info:  There is a missing headset battery noticed on 11/4\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793847143573449\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793847143573449",
+      "created": "2026-11-05T02:52:23.069Z"
+    },
+    {
+      "id": "17tx4wxp3x9",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Unknown Equipment",
+      "summary": "Running low on 3/32 aluminum tig rods",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  \nSummary:  Running low on 3/32 aluminum tig rods\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793846861190019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793846861190019",
+      "created": "2026-11-05T02:47:40.578Z"
+    },
     {
       "id": "17tx4wxp3bc",
       "workspace": "Lasers",
