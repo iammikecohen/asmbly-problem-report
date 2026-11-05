@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:46:43.473Z",
+  "updated": "2026-11-05T16:03:44.720Z",
   "tasks": [
     {
       "id": "17tx4wxp3xd",
@@ -516,30 +516,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791225031160879",
       "created": "2026-10-05T18:30:30.766Z"
-    },
-    {
-      "id": "86akt3ra6",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Belt Sander - Large 36\" Powermatic",
-      "summary": "sanding belt",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  sanding belt\nAdditional Info:  The belt left burn marks on the material during sander class when the workpiece was run through the center of the sander.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148494293629\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148494293629",
-      "created": "2026-10-04T21:14:53.855Z"
-    },
-    {
-      "id": "86akt3r0p",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Felder RL 350 Main Shop Dust Collector",
-      "summary": "dust bin",
-      "description": "Problem Type: Cleaning\nWorkspace:  Woodshop\nAsset:  Felder RL 350 Main Shop Dust Collector\nSummary:  dust bin\nAdditional Info:  found dust bin completely full and overflowing this morning during WSS \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148296699779\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791148296699779",
-      "created": "2026-10-04T21:11:36.287Z"
     },
     {
       "id": "86akt3qab",
