@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-06T23:03:08.781Z",
+  "updated": "2026-11-06T23:16:44.720Z",
   "tasks": [
+    {
+      "id": "17tx4wxpjdk",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Athena",
+      "summary": "someones print failed & clogged",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  someones print failed & clogged\nAdditional Info:  The bambus are acting up couldnt get print adhesion to work on hanuman and saw part of someone elses job on chantico failed too\n\nDiscourse Link: https://yo.asmbly.org/t/11-6-2026-1703-3d-printing-bambulabs-p1s-athena/16832\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794006430912979\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-6-2026-1703-3d-printing-bambulabs-p1s-athena/16832",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794006430912979",
+      "created": "2026-11-06T23:07:09.547Z"
+    },
     {
       "id": "17tx4wxphhh",
       "workspace": "Office",
