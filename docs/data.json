@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-06T21:16:45.407Z",
+  "updated": "2026-11-06T21:31:52.105Z",
   "tasks": [
+    {
+      "id": "17tx4wxphhh",
+      "workspace": "Office",
+      "workspace_slug": "office",
+      "equipment": "Other",
+      "summary": "brother printer in office",
+      "description": "Problem Type: Equipment\nWorkspace:  Office\nAsset:  Other\nSummary:  brother printer in office \nAdditional Info:  brother printer in office can't connect to wifi\n\nDiscourse Link: https://yo.asmbly.org/t/11-6-2026-1502-office-other/16831\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794000429640139\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-6-2026-1502-office-other/16831",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794000429640139",
+      "created": "2026-11-06T21:27:08.489Z"
+    },
     {
       "id": "17tx4wxpgdn",
       "workspace": "Woodshop",
