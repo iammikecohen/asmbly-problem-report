@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-06T20:17:07.830Z",
+  "updated": "2026-11-06T20:31:57.872Z",
   "tasks": [
+    {
+      "id": "17tx4wxpgdn",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Framing loose on woodshop door",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Framing loose on woodshop door \nAdditional Info:  Inside framing on left side walking out is not properly attached. Fell completely off, was put back in place and taped there temporarily.\n\nDiscourse Link: https://yo.asmbly.org/t/11-6-2026-1441-woodshop-other/16830\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793996929410399\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-6-2026-1441-woodshop-other/16830",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793996929410399",
+      "created": "2026-11-06T20:28:48.136Z"
+    },
     {
       "id": "17tx4wxp869",
       "workspace": "Woodshop",
