@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-07T22:31:37.865Z",
+  "updated": "2026-11-07T22:46:45.998Z",
   "tasks": [
+    {
+      "id": "17tx4wxpkpn",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Sun Wukong",
+      "summary": "Failed print - thermal anomaly",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Failed print - thermal anomaly\nAdditional Info:  An alarm was going off and the print was all mangled and detached from the bed. I don't know how to operate 3D printers, so just stopped it to stop the alarm. \n\nDiscourse Link: https://yo.asmbly.org/t/11-7-2026-1610-3d-printing-prusa-mk3s-sun-wukong/16838\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794091037839479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-7-2026-1610-3d-printing-prusa-mk3s-sun-wukong/16838",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794091037839479",
+      "created": "2026-11-07T22:37:16.735Z"
+    },
     {
       "id": "17tx4wxpkn8",
       "workspace": "Ceramics",
