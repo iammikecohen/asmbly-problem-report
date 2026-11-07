@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-07T21:03:04.934Z",
+  "updated": "2026-11-07T21:16:52.536Z",
   "tasks": [
+    {
+      "id": "17tx4wxpkn8",
+      "workspace": "Ceramics",
+      "workspace_slug": "ceramics",
+      "equipment": "Unknown Equipment",
+      "summary": "Sink won’t turn off",
+      "description": "Problem Type: Facilities\nWorkspace:  Ceramics\nAsset:  \nSummary:  Sink won’t turn off\nAdditional Info:  You have to crank the handles extremely hard and most people don’t do it\n\nDiscourse Link: https://yo.asmbly.org/t/11-7-2026-1558-ceramics/16836\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794085506556459\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-7-2026-1558-ceramics/16836",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794085506556459",
+      "created": "2026-11-07T21:05:05.439Z"
+    },
     {
       "id": "17tx4wxpkkz",
       "workspace": "Lasers",
