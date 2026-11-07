@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-07T04:47:14.897Z",
+  "updated": "2026-11-07T05:03:32.628Z",
   "tasks": [
+    {
+      "id": "17tx4wxpk1w",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Cold Saw - Baleigh CS-350",
+      "summary": "Vise lock loose",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Cold Saw - Baleigh CS-350\nSummary:  Vise lock loose\nAdditional Info:  Would sometimes be pulled back by the saw even when it’s fully out and locked\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794027058147989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794027058147989",
+      "created": "2026-11-07T04:50:57.367Z"
+    },
+    {
+      "id": "17tx4wxpk1v",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #1",
+      "summary": "Argon out",
+      "description": "Problem Type: Supplies\nWorkspace:  Metal Shop\nAsset:  MIG/TIG Miller Multimatic 220 #1\nSummary:  Argon out\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794026921604229\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794026921604229",
+      "created": "2026-11-07T04:48:41.158Z"
+    },
     {
       "id": "17tx4wxpjxu",
       "workspace": "Woodshop",
