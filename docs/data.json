@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-08T07:31:53.478Z",
+  "updated": "2026-11-08T07:46:38.187Z",
   "tasks": [
+    {
+      "id": "17tx4wxpm51",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Unknown Equipment",
+      "summary": "Air hose nozzle blew off",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  \nSummary:  Air hose nozzle blew off\nAdditional Info:  Air hose nozzle blew off of drop hose over large woodshop table next to big cnc & sawstop.\n\nDiscourse Link: https://yo.asmbly.org/t/11-8-2026-101-woodshop/16843\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794123848711539\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-8-2026-101-woodshop/16843",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794123848711539",
+      "created": "2026-11-08T07:44:07.593Z"
+    },
     {
       "id": "17tx4wxpktg",
       "workspace": "Woodshop",
