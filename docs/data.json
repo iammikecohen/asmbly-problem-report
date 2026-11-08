@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-08T00:52:36.750Z",
+  "updated": "2026-11-08T01:03:41.733Z",
   "tasks": [
     {
-      "id": "17tx4wxpkrm",
+      "id": "17tx4wxpktg",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
-      "equipment": "Drum Sander - Supermax 25/50",
-      "summary": "Belt ripped, but useable.",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Belt ripped, but useable. \nAdditional Info:  A piece of the belt has been ripped out, but the belt still seems useable. Shall I replace the belt or just mark the unusable spot on the infeed side?\n\nDiscourse Link: https://yo.asmbly.org/t/11-7-2026-1816-woodshop-drum-sander-supermax-25-50/16841\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794097103647739\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "equipment": "Belt Sander - Large 36\" Powermatic",
+      "summary": "Belt ripped but useable. Replace?",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Belt Sander - Large 36\" Powermatic\nSummary:  Belt ripped but useable. Replace?\nAdditional Info:  A piece of the belt has been ripped out, but the belt still seems useable. Shall I replace the belt or just mark the unusable spot on the infeed side?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794099217809709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
       "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-7-2026-1816-woodshop-drum-sander-supermax-25-50/16841",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794097103647739",
-      "created": "2026-11-08T00:18:22.459Z"
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794099217809709",
+      "created": "2026-11-08T00:53:37.039Z"
     },
     {
       "id": "17tx4wxpkpn",
