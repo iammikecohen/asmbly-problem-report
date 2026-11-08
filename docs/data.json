@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:03:28.209Z",
+  "updated": "2026-11-08T20:16:41.508Z",
   "tasks": [
     {
       "id": "17tx4wxpme3",
@@ -264,42 +264,6 @@
       "discourse_url": "https://yo.asmbly.org/t/11-3-2026-1036-lasers/16812",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793723085376559",
       "created": "2026-11-03T16:24:43.405Z"
-    },
-    {
-      "id": "17tx4wxnczw",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Sun Wukong",
-      "summary": "Printer reports thermal anomaly",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Printer reports thermal anomaly \nAdditional Info:  Printer beeps constantly while printing\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627810606089\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627810606089",
-      "created": "2026-11-02T13:56:50.056Z"
-    },
-    {
-      "id": "17tx4wxnczq",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Apollo",
-      "summary": "Printer is failing self test",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Apollo\nSummary:  Printer is failing self test\nAdditional Info:  Self test reports error on Y axis\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627696979599\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793627696979599",
-      "created": "2026-11-02T13:54:56.488Z"
-    },
-    {
-      "id": "17tx4wxnbzx",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Hermes",
-      "summary": "Hermes is reporting Y crash errors",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Hermes\nSummary:  Hermes is reporting Y crash errors\nAdditional Info:  The device is also reporting self test failed\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590147009859\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793590147009859",
-      "created": "2026-11-02T03:29:06.498Z"
     },
     {
       "id": "17tx4wxnbyk",
@@ -744,18 +708,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791033707344139",
       "created": "2026-10-03T13:21:46.882Z"
-    },
-    {
-      "id": "86akt0rjx",
-      "workspace": "3D Printing",
-      "workspace_slug": "3d-printing",
-      "equipment": "Prusa MK3S+ - Sun Wukong",
-      "summary": "Thermal anomaly.",
-      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Thermal anomaly. \nAdditional Info:  Beeping like crazy so I paused the print \n\nDiscourse Link: https://yo.asmbly.org/t/10-2-2026-2218-3d-printing-prusa-mk3s-sun-wukong/16669\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790999545578879\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/10-2-2026-2218-3d-printing-prusa-mk3s-sun-wukong/16669",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1790999545578879",
-      "created": "2026-10-03T03:52:24.417Z"
     },
     {
       "id": "86akrzhd7",
