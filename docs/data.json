@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-08T19:02:42.144Z",
+  "updated": "2026-11-08T19:16:49.970Z",
   "tasks": [
+    {
+      "id": "17tx4wxpme3",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Copco Compressor / Shop Compressed Air",
+      "summary": "Dry rot on air hoses",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  Dry rot on air hoses\nAdditional Info:  JD pointed out after a recent issue that some of our air hoses have dry rot on the outside. To prevent another blowout Let’s replace any that are going bad. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794165285789339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794165285789339",
+      "created": "2026-11-08T19:14:45.228Z"
+    },
     {
       "id": "17tx4wxpmbe",
       "workspace": "Uncategorized",
