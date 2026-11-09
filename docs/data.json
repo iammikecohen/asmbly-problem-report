@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-09T16:18:52.996Z",
+  "updated": "2026-11-09T16:31:58.122Z",
   "tasks": [
+    {
+      "id": "17tx4wxpv3e",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Drill Press 20\" - Powermatic",
+      "summary": "Has power but won't turn on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Has power but won't turn on\nAdditional Info:  The e stop shows power is getting to the unit but the speed readout is blank and won't spin. Also the housing up top seems broken\n\nDiscourse Link: https://yo.asmbly.org/t/11-9-2026-1019-woodshop-drill-press-20-powermatic/16849\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794241107399059\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-9-2026-1019-woodshop-drill-press-20-powermatic/16849",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794241107399059",
+      "created": "2026-11-09T16:18:26.069Z"
+    },
     {
       "id": "17tx4wxpuwr",
       "workspace": "Woodshop",
@@ -576,18 +588,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791406143455129",
       "created": "2026-10-07T20:49:03.011Z"
-    },
-    {
-      "id": "17tx4wxg8t7",
-      "workspace": "General Areas",
-      "workspace_slug": "general-areas",
-      "equipment": "Alta Open",
-      "summary": "Doorbell not ringing any bells",
-      "description": "Problem Type: Facilities\nWorkspace:  General Areas\nAsset:  Alta Open\nSummary:  Doorbell not ringing any bells\nAdditional Info:  The lobby doorbell seems to only ring the lobby phone. Not the most useful\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791328016167889\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1791328016167889",
-      "created": "2026-10-06T23:06:55.320Z"
     },
     {
       "id": "17tx4wxg8t7",
