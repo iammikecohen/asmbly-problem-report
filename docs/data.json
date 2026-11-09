@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-09T15:32:13.733Z",
+  "updated": "2026-11-09T15:47:10.085Z",
   "tasks": [
+    {
+      "id": "17tx4wxpuwr",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Orange 25” tape measure broken.",
+      "description": "Problem Type: Supplies\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Orange 25” tape measure broken.\nAdditional Info:  I’ll leave the broken one, marked with painter’s tape, by the rack of other tape measures \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794238701567269\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794238701567269",
+      "created": "2026-11-09T15:38:20.816Z"
+    },
     {
       "id": "17tx4wxpmz6",
       "workspace": "Lobby",
