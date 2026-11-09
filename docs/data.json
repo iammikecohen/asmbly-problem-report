@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-09T01:18:26.048Z",
+  "updated": "2026-11-09T01:33:05.096Z",
   "tasks": [
+    {
+      "id": "17tx4wxpmz6",
+      "workspace": "Lobby",
+      "workspace_slug": "lobby",
+      "equipment": "Unknown Equipment",
+      "summary": "Front door unlocked",
+      "description": "Problem Type: Facilities\nWorkspace:  Lobby\nAsset:  \nSummary:  Front door unlocked\nAdditional Info:  I can still get a beep as if my phone was unlocking the door, but the lock isn’t engaging. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794187817984639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794187817984639",
+      "created": "2026-11-09T01:30:17.321Z"
+    },
     {
       "id": "17tx4wxpmgq",
       "workspace": "Uncategorized",
