@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-09T22:46:28.841Z",
+  "updated": "2026-11-09T23:03:04.668Z",
   "tasks": [
+    {
+      "id": "17tx4wxpxxt",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Zephyrus",
+      "summary": "Filament jammed; cannot unload.",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Zephyrus\nSummary:  Filament jammed; cannot unload.\nAdditional Info:  Got jammed mid-project. The Bambu Wood PLA filament was working fine with previous projects. I tried using a needle to unclog the nozzle at high temp, but was not successful.\n\nDiscourse Link: https://yo.asmbly.org/t/11-9-2026-1724-3d-printing-bambulabs-p1s-zephyrus/16850\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794265353041659\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-9-2026-1724-3d-printing-bambulabs-p1s-zephyrus/16850",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794265353041659",
+      "created": "2026-11-09T23:02:31.509Z"
+    },
     {
       "id": "17tx4wxpvw1",
       "workspace": "Ceramics",
