@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-10T01:03:27.110Z",
+  "updated": "2026-11-10T01:16:47.491Z",
   "tasks": [
+    {
+      "id": "17tx4wxpy4r",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Athena",
+      "summary": "Bad Bed Adhesion",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Athena\nSummary:  Bad Bed Adhesion\nAdditional Info:  I attempted four prints with alternate filaments and print plates, but after several minutes into the print, it would stop adhering and come loose. I believe this may have contributed to the clog it experienced earlier.\n\nDiscourse Link: https://yo.asmbly.org/t/11-9-2026-1935-3d-printing-bambulabs-p1s-athena/16852\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794272803184749\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-9-2026-1935-3d-printing-bambulabs-p1s-athena/16852",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794272803184749",
+      "created": "2026-11-10T01:06:42.097Z"
+    },
     {
       "id": "17tx4wxpxxt",
       "workspace": "3D Printing",
