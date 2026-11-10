@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:46:38.380Z",
+  "updated": "2026-11-10T19:03:28.056Z",
   "tasks": [
     {
       "id": "17tx4wxq0vn",
@@ -36,18 +36,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794246912352359",
       "created": "2026-11-09T17:55:11.726Z"
-    },
-    {
-      "id": "17tx4wxpvh9",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Dell monitor is cracked",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Dell monitor is cracked\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794244489464669\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794244489464669",
-      "created": "2026-11-09T17:14:48.081Z"
     },
     {
       "id": "17tx4wxpv3e",
@@ -242,18 +230,6 @@
       "created": "2026-11-06T20:28:48.136Z"
     },
     {
-      "id": "17tx4wxp869",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Snapped blade",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:  Snapped blade\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793898265251869\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793898265251869",
-      "created": "2026-11-05T17:04:23.248Z"
-    },
-    {
       "id": "17tx4wxp3xd",
       "workspace": "Education / Classes",
       "workspace_slug": "education--classes",
@@ -276,18 +252,6 @@
       "discourse_url": "https://yo.asmbly.org/t/11-4-2026-1820-lasers-tarkin/16821",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793839048736319",
       "created": "2026-11-05T00:37:27.529Z"
-    },
-    {
-      "id": "17tx4wxp11d",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 1 - Grizzly",
-      "summary": "Blade Slipped",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 1 - Grizzly\nSummary:   Blade Slipped\nAdditional Info:  Was working great otherwise.\n\nDiscourse Link: https://yo.asmbly.org/t/11-4-2026-1324-woodshop-14-bandsaw-1-grizzly/16819\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793820993111019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-4-2026-1324-woodshop-14-bandsaw-1-grizzly/16819",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1793820993111019",
-      "created": "2026-11-04T19:36:31.829Z"
     },
     {
       "id": "17tx4wxp0aa",
@@ -912,18 +876,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789178797087039",
       "created": "2026-09-12T02:06:36.622Z"
-    },
-    {
-      "id": "86akgn1w5",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Table Saw 2 - Sawstop",
-      "summary": "Angle wheel not locking",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Table Saw 2 - Sawstop\nSummary:  Angle wheel not locking \nAdditional Info:  \n\nDiscourse Link: https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/9-10-2026-1802-woodshop-table-saw-2-sawstop/16544",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1789081270610479",
-      "created": "2026-09-10T23:01:08.539Z"
     },
     {
       "id": "86akg3743",
