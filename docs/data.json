@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:18:01.257Z",
+  "updated": "2026-11-11T16:32:06.982Z",
   "tasks": [
     {
       "id": "17tx4wxq4j0",
@@ -74,18 +74,6 @@
       "created": "2026-11-08T21:44:43.492Z"
     },
     {
-      "id": "17tx4wxpmfu",
-      "workspace": "Bathrooms",
-      "workspace_slug": "bathrooms",
-      "equipment": "Other",
-      "summary": "Lobby bathroom light inoperative",
-      "description": "Problem Type: Facilities\nWorkspace:  Bathrooms\nAsset:  Other\nSummary:  Lobby bathroom light inoperative \nAdditional Info:  Toggled the switch on ceiling multiple times but light fixture seems to be faulty.\n\nDiscourse Link: https://yo.asmbly.org/t/11-8-2026-1430-bathrooms-other/16846\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794170917909389\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-8-2026-1430-bathrooms-other/16846",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794170917909389",
-      "created": "2026-11-08T20:48:36.713Z"
-    },
-    {
       "id": "17tx4wxpme3",
       "workspace": "Woodshop",
       "workspace_slug": "woodshop",
@@ -108,18 +96,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794158657614449",
       "created": "2026-11-08T17:24:17.077Z"
-    },
-    {
-      "id": "17tx4wxpmbd",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "Laguna Swift CNC 5x10",
-      "summary": "Computer screen broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Computer screen broken\nAdditional Info:  Looks like it was hit by the pneumatic hose swinging above it\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794158566798549\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794158566798549",
-      "created": "2026-11-08T17:22:46.343Z"
     },
     {
       "id": "17tx4wxpma0",
