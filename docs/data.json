@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-11T16:46:55.161Z",
+  "updated": "2026-11-11T17:03:23.841Z",
   "tasks": [
+    {
+      "id": "17tx4wxq7g2",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "Really Low Power",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Really Low Power\nAdditional Info:  I know Tarkin has been having low-power issues lately, but I just did a materials test on some 1/4\" walnut and got some really low results.\n\nPiece 1:\n* 8 in/min mostly cut through, 7 in/min gave a clean cut\n\nPiece 2:\n* 7 in/min at 100% power barely cut through, 2 in/min cut through but basically disintegrated the wood (there was an ember when I pulled it out)\n* 3 in/min at 80% power didn't even get through the wood\n\nThis seems extremely low power, even given the sign on Tarkin that says it's operating at 50% power. Is this just how Tarkin is for now?\n\nMaybe important to note that for all of the materials tests, the text on the outside has cut completely through the wood. I couldn't find anything to tell me what speed/power those are cut at, but that makes me think it might not be a hardware or materials issue.\n\nDiscourse Link: https://yo.asmbly.org/t/11-11-2026-1002-lasers-tarkin/16865\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794415869663819\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-11-2026-1002-lasers-tarkin/16865",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794415869663819",
+      "created": "2026-11-11T16:51:08.377Z"
+    },
     {
       "id": "17tx4wxq4j0",
       "workspace": "Ceramics",
