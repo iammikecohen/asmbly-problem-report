@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-12T00:08:13.340Z",
+  "updated": "2026-11-12T00:37:33.705Z",
   "tasks": [
-    {
-      "id": "17tx4wxq9e8",
-      "workspace": "Ceramics",
-      "workspace_slug": "ceramics",
-      "equipment": "Extruder",
-      "summary": "The extruder filter is gone",
-      "description": "Problem Type: Equipment\nWorkspace:  Ceramics\nAsset:  Extruder\nSummary:  The extruder filter is gone \nAdditional Info:  The extruder sheet that you lay over your selected shape is gone, not able to choose just one shape per sheet now! I looked around the ceramics studio but didn’t see it\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794430030154989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794430030154989",
-      "created": "2026-11-11T20:47:09.475Z"
-    },
     {
       "id": "17tx4wxq7g2",
       "workspace": "Lasers",
