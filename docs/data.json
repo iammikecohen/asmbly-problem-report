@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:03:14.908Z",
+  "updated": "2026-11-13T15:16:55.714Z",
   "tasks": [
     {
       "id": "17tx4wxqmjz",
@@ -48,18 +48,6 @@
       "discourse_url": "https://yo.asmbly.org/t/11-10-2026-2354-ceramics-bats/16861",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794374162826229",
       "created": "2026-11-11T05:16:00.691Z"
-    },
-    {
-      "id": "17tx4wxq0vn",
-      "workspace": "Uncategorized",
-      "workspace_slug": "uncategorized",
-      "equipment": "Drill Press 20\" - Powermatic",
-      "summary": "Chuck fell off",
-      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Drill Press 20\" - Powermatic\nSummary:  Chuck fell off\nAdditional Info:  I wa siding the drill press, 3 small holes, no issues drilling, then the chuck fell off.  Seems almost like it’s magnetic (???) but can’t get it to stay back on there.  Has this happened to anyone else?\n\nDiscourse Link: https://yo.asmbly.org/t/11-10-2026-901-metal-shop-drill-press-20-powermatic/16854\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794325089809349\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "https://yo.asmbly.org/t/11-10-2026-901-metal-shop-drill-press-20-powermatic/16854",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794325089809349",
-      "created": "2026-11-10T15:38:08.438Z"
     },
     {
       "id": "17tx4wxpvw1",
