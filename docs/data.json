@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-13T21:46:32.985Z",
+  "updated": "2026-11-13T22:02:26.094Z",
   "tasks": [
+    {
+      "id": "17tx4wxqth6",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Copco Compressor / Shop Compressed Air",
+      "summary": "Another hose end blowout",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Copco Compressor / Shop Compressed Air\nSummary:  Another hose end blowout\nAdditional Info:  The previous one likely failed because the hose clamp was too small. For this one, either the wrong hose barb size was used or the hose  is stretched. The hose should be replaced, if not the whole reel. Let me know which will be done, because this one is on my list to replace the junction up top too.\n\nIn the meantime, I STRONGLY suggest that someone go up in the lift and disable this with the valve rather than just a clamp before the compressor is restarted on Sunday.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794606898148679\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794606898148679",
+      "created": "2026-11-13T21:54:57.132Z"
+    },
     {
       "id": "17tx4wxqmjz",
       "workspace": "Woodshop",
