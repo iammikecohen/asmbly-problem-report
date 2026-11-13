@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-13T01:32:58.080Z",
+  "updated": "2026-11-13T01:46:42.949Z",
   "tasks": [
+    {
+      "id": "17tx4wxqmjz",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Track Saw - Makita",
+      "summary": "Connector strip hex screw stripped",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Track Saw - Makita\nSummary:  Connector strip hex screw stripped\nAdditional Info:  Can’t remove the connector strip from one of the Wen track saw guides and most of the other connector strips don’t have screws at all. Probably all stripped and thrown away. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794534348811519\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794534348811519",
+      "created": "2026-11-13T01:45:48.274Z"
+    },
     {
       "id": "17tx4wxqmcc",
       "workspace": "Textiles",
