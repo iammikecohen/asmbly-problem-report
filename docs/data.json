@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-14T21:46:43.708Z",
+  "updated": "2026-11-14T22:03:04.938Z",
   "tasks": [
+    {
+      "id": "17tx4wxqv67",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Metal Shop Clock off",
+      "description": "Problem Type: Facilities\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Metal Shop Clock off\nAdditional Info:  The clock on the Metal Shop north wall is off. It worked yesterday. Anyone know what’s up with that?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794692885939689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794692885939689",
+      "created": "2026-11-14T21:48:05.371Z"
+    },
     {
       "id": "17tx4wxqth6",
       "workspace": "Woodshop",
