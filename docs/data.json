@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-16T16:31:45.005Z",
+  "updated": "2026-11-16T16:46:35.477Z",
   "tasks": [
+    {
+      "id": "17tx4wxr133",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "power output problem, red tag",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  power output problem, red tag\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794846924968519\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794846924968519",
+      "created": "2026-11-16T16:35:24.426Z"
+    },
     {
       "id": "17tx4wxqzy2",
       "workspace": "Uncategorized",
