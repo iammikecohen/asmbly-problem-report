@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-16T14:40:11.197Z",
+  "updated": "2026-11-16T14:53:50.088Z",
   "tasks": [
+    {
+      "id": "17tx4wxqzy2",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Metal Lathe - Grizzly",
+      "summary": "Handle fell off",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Metal Lathe - Grizzly\nSummary:  Handle fell off\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794840342378589\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794840342378589",
+      "created": "2026-11-16T14:45:40.781Z"
+    },
     {
       "id": "17tx4wxqv67",
       "workspace": "Uncategorized",
