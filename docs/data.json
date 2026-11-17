@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-17T18:46:35.611Z",
+  "updated": "2026-11-17T19:03:17.544Z",
   "tasks": [
+    {
+      "id": "17tx4wxra37",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Leak in new kitchenette sink p-trap",
+      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Leak in new kitchenette sink p-trap\nAdditional Info:  Recommend replacing with rigid/non-corrugsted pvc p trap and trap adapter. Will link products in slack.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794941225399959\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1794941225399959",
+      "created": "2026-11-17T18:47:04.131Z"
+    },
     {
       "id": "17tx4wxr63r",
       "workspace": "Lobby",
