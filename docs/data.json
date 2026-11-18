@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-18T20:31:47.267Z",
+  "updated": "2026-11-18T20:46:40.432Z",
   "tasks": [
+    {
+      "id": "17tx4wxrj7u",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Unknown Equipment",
+      "summary": "MPR/textiles HVAC not cooling",
+      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  \nSummary:  MPR/textiles HVAC not cooling\nAdditional Info:  Thermostat set to cool, no error message\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795034715825689\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795034715825689",
+      "created": "2026-11-18T20:45:15.336Z"
+    },
     {
       "id": "17tx4wxrgyx",
       "workspace": "Lasers",
