@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:31:52.352Z",
+  "updated": "2026-11-19T21:46:44.123Z",
   "tasks": [
     {
       "id": "17tx4wxrr9p",
@@ -8,7 +8,7 @@
       "equipment": "Drum Sander - Supermax 25/50",
       "summary": "Dust collector doesn’t turn on w/ sander",
       "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Drum Sander - Supermax 25/50\nSummary:  Dust collector doesn’t turn on w/ sander\nAdditional Info:  Had to use a different tool to get the dust collector going when using the sander. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795100532771019\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795100532771019",
       "created": "2026-11-19T15:02:12.295Z"
