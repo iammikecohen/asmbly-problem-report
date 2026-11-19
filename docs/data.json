@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:46:44.123Z",
+  "updated": "2026-11-19T22:03:17.667Z",
   "tasks": [
     {
       "id": "17tx4wxrr9p",
@@ -24,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795034715825689",
       "created": "2026-11-18T20:45:15.336Z"
-    },
-    {
-      "id": "17tx4wxrgyx",
-      "workspace": "Lasers",
-      "workspace_slug": "lasers",
-      "equipment": "Dorian",
-      "summary": "Low power?",
-      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Low power?\nAdditional Info:  Set at 10/100 with 2 passes and didn’t cut all the way thru 1/4” plywood in a lot of spots. Double checked focus and it appears correct. I haven’t used Dorian in a while, but I don’t think it’s usually this weak? Also making a faint click-click-click noise when moving laser on slow along x axis \n\nDiscourse Link: https://yo.asmbly.org/t/11-18-2026-1331-lasers-dorian/16900\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795028618223249\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "in progress",
-      "discourse_url": "https://yo.asmbly.org/t/11-18-2026-1331-lasers-dorian/16900",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795028618223249",
-      "created": "2026-11-18T19:03:37.196Z"
     },
     {
       "id": "17tx4wxrddm",
