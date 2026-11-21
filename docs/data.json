@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-21T23:03:16.419Z",
+  "updated": "2026-11-21T23:16:30.898Z",
   "tasks": [
+    {
+      "id": "17tx4wxt0nr",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Unknown Equipment",
+      "summary": "Latex gloves disappeared",
+      "description": "Problem Type: Supplies\nWorkspace:  3D Printing\nAsset:  \nSummary:  Latex gloves disappeared\nAdditional Info:  They were there this morning, but tonight they are both (small and large) are gone\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795302517310789\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795302517310789",
+      "created": "2026-11-21T23:08:36.539Z"
+    },
     {
       "id": "17tx4wxt0kj",
       "workspace": "Lasers",
