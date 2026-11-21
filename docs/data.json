@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-21T22:16:41.384Z",
+  "updated": "2026-11-21T22:32:01.153Z",
   "tasks": [
+    {
+      "id": "17tx4wxt0kj",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "chiller error and warning siren",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  chiller error and warning siren\nAdditional Info:  transient\n\nDiscourse Link: https://yo.asmbly.org/t/11-21-2026-1630-lasers-dorian/16922\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795299636724049\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-21-2026-1630-lasers-dorian/16922",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795299636724049",
+      "created": "2026-11-21T22:20:35.684Z"
+    },
     {
       "id": "17tx4wxrwg5",
       "workspace": "Lasers",
