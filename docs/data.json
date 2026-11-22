@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-22T21:16:35.967Z",
+  "updated": "2026-11-22T21:31:59.759Z",
   "tasks": [
+    {
+      "id": "17tx4wxt4e5",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Wood Lathe - Sweet 16 Snuffleupagus",
+      "summary": "not turning on, motor is not free spinn",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Wood Lathe - Sweet 16 Snuffleupagus\nSummary:  not turning on, motor is not free spinn\nAdditional Info:  Looked at it with shop steward, checked brakers, no luck. Will red tag it\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795382207981529\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795382207981529",
+      "created": "2026-11-22T21:16:47.488Z"
+    },
     {
       "id": "17tx4wxt2db",
       "workspace": "Lasers",
