@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-22T19:16:53.850Z",
+  "updated": "2026-11-22T19:31:45.005Z",
   "tasks": [
+    {
+      "id": "17tx4wxt2d3",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "Woodshop garage door doesn't work",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Woodshop garage door doesn't work\nAdditional Info:  It can be opened and close manually. Maybe the e-stop got pulled?\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795375547230069\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795375547230069",
+      "created": "2026-11-22T19:25:46.769Z"
+    },
     {
       "id": "17tx4wxt2c3",
       "workspace": "Woodshop",
