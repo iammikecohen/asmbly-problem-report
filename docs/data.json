@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-22T18:03:20.193Z",
+  "updated": "2026-11-22T18:18:31.951Z",
   "tasks": [
+    {
+      "id": "17tx4wxt2b4",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "Other",
+      "summary": "Tungsten grinder is bad",
+      "description": "Problem Type: Equipment\nWorkspace:  Metal Shop\nAsset:  Other\nSummary:  Tungsten grinder is bad\nAdditional Info:  Tungsten grinder was bad when I came in, no one previously reported it. Will be replacing soon but I have an angle grinder and drill for sharpening in the meantime \n\nDiscourse Link: https://yo.asmbly.org/t/11-22-2026-1234-metal-shop-other/16926\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795371101920709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-22-2026-1234-metal-shop-other/16926",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795371101920709",
+      "created": "2026-11-22T18:11:40.737Z"
+    },
     {
       "id": "17tx4wxt2ay",
       "workspace": "Textiles",
