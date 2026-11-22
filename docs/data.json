@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-22T00:08:54.035Z",
+  "updated": "2026-11-22T00:39:27.055Z",
   "tasks": [
+    {
+      "id": "17tx4wxt12y",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "Prusa MK3S+ - Sun Wukong",
+      "summary": "Thermal anomaly",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  Prusa MK3S+ - Sun Wukong\nSummary:  Thermal anomaly\nAdditional Info:  My print is continuing, and temperatures are fine, but I'm getting a thermal anomaly error on Sun Wukong. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795306207698699\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795306207698699",
+      "created": "2026-11-22T00:10:07.234Z"
+    },
     {
       "id": "17tx4wxt0nr",
       "workspace": "3D Printing",
