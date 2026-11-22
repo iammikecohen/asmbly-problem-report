@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-22T19:31:45.005Z",
+  "updated": "2026-11-22T19:46:38.516Z",
   "tasks": [
+    {
+      "id": "17tx4wxt2db",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Dorian",
+      "summary": "Unknown Rotary Configuration Lightburn",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Dorian\nSummary:  Unknown Rotary Configuration Lightburn\nAdditional Info:  \nThe chuck rotary has successfully been connected, and I have been able to position and focus the laser onto the surface of my cylindrical vessel. In Lightburn rotary setup, I have selected chuck, and have entered 99 steps per rotation. After clicking on Rotary Axis, y axis, TEST button, I see my vessel/chuck make half a rotation. Then after I enter 100 steps per rotation, I see my vessel/chuck make 2.5 rotations. After searching the DORIAN WIKI at https://wiki.asmbly.org/wiki/Dorian  and not finding any relevant information, I searched online with AI (and viewed an informative Lightburn Rotary config video) and got this feedback:       \n\n     \"The chuck should make one full 360° rotation and return to its starting point.\nA drastic jump between 99 and 100 indicates a controller bug, a communication glitch, or a wrong controller profile, because a 1-step increase should be physically imperceptible (less than a fraction of a degree).\nNormal Steps per rotation values for a chuck rotary are typically between 3,200 and 12,800 (or up to 25,000+ on Galvo lasers). When changing the number from 99 to 100 causes the chuck to jump from under half a turn to nearly three full turns, the controller is not reading that number normally\"\n\nI then entered 3000 steps per rotation, and clicked on test, and could see the chuck rotate about an inch, then rotate back to starting position. Please confirm if this is the correct procedure to do the rotary setup and confirm that there is not a controller bug, a communication glitch, or a wrong controller profile. Thanks!\n\nDiscourse Link: https://yo.asmbly.org/t/11-22-2026-1335-lasers-dorian/16927\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795375964286649\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-22-2026-1335-lasers-dorian/16927",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795375964286649",
+      "created": "2026-11-22T19:32:43.201Z"
+    },
     {
       "id": "17tx4wxt2d3",
       "workspace": "Woodshop",
