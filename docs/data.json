@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-23T14:03:42.800Z",
+  "updated": "2026-11-23T14:19:24.290Z",
   "tasks": [
+    {
+      "id": "17tx4wxtd5a",
+      "workspace": "Multi-Purpose Room",
+      "workspace_slug": "multi-purpose-room",
+      "equipment": "Other",
+      "summary": "Keurig coffee maker nozzle clogged",
+      "description": "Problem Type: Facilities\nWorkspace:  Multi-Purpose Room\nAsset:  Other\nSummary:  Keurig coffee maker nozzle clogged\nAdditional Info:  The coffee maker froths and sputters and makes a mess on the counter. The nozzle is probably partially clogged. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795442947184789\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795442947184789",
+      "created": "2026-11-23T14:09:06.536Z"
+    },
     {
       "id": "17tx4wxtb26",
       "workspace": "Woodshop",
