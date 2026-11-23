@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-23T16:03:33.369Z",
+  "updated": "2026-11-23T16:18:07.436Z",
   "tasks": [
+    {
+      "id": "17tx4wxteq8",
+      "workspace": "Office",
+      "workspace_slug": "office",
+      "equipment": "Other",
+      "summary": "Invalid Address in AMZ Business settings",
+      "description": "Problem Type: Facilities\nWorkspace:  Office\nAsset:  Other\nSummary:  Invalid Address in AMZ Business settings\nAdditional Info:  I need help from an admin to our Amazon Business account: Whenever I go to checkout, 2 addresses appear for Asmbly. The first (and default) has an error in it. This has caused my last 2 orders (at least) to be misdelivered and needed to be refunded and reordered.  \nThe address appears as: 3 9701, DESSAU RD instead of 9701 DESSAU RD\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795450391784709\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795450391784709",
+      "created": "2026-11-23T16:13:11.205Z"
+    },
     {
       "id": "17tx4wxtd5a",
       "workspace": "Multi-Purpose Room",
