@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-24T23:46:49.040Z",
+  "updated": "2026-11-25T00:08:07.983Z",
   "tasks": [
+    {
+      "id": "17tx4wxtyee",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "14\" Bandsaw 2 - Grizzly",
+      "summary": "Foot break effectively useless",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Foot break effectively useless\nAdditional Info:  Feels like the pad has worn out\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795564385617789\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795564385617789",
+      "created": "2026-11-24T23:53:05.098Z"
+    },
     {
       "id": "17tx4wxtv81",
       "workspace": "Lasers",
@@ -12,18 +24,6 @@
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795545391176159",
       "created": "2026-11-24T18:36:30.589Z"
-    },
-    {
-      "id": "17tx4wxthr4",
-      "workspace": "Woodshop",
-      "workspace_slug": "woodshop",
-      "equipment": "14\" Bandsaw 2 - Grizzly",
-      "summary": "Blade broken",
-      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  14\" Bandsaw 2 - Grizzly\nSummary:  Blade broken\nAdditional Info:  Blade was skipping when i started the machine up, I tightened the blade guard thinking that it was loose, then when i started cutting, then blade broke.\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795473726792149\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
-      "discourse_url": "Opted Out. Slack notification Only.",
-      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795473726792149",
-      "created": "2026-11-23T22:42:06.291Z"
     },
     {
       "id": "17tx4wxteq8",
