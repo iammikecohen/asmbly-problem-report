@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-25T03:03:38.858Z",
+  "updated": "2026-11-25T03:20:15.021Z",
   "tasks": [
+    {
+      "id": "17tx4wxtyu8",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Other",
+      "summary": "The garage door was not opening",
+      "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  The garage door was not opening\nAdditional Info:  \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795576679861639\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795576679861639",
+      "created": "2026-11-25T03:17:59.419Z"
+    },
     {
       "id": "17tx4wxtyg8",
       "workspace": "Woodshop",
