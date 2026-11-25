@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-25T03:46:41.072Z",
+  "updated": "2026-11-25T04:03:34.522Z",
   "tasks": [
+    {
+      "id": "17tx4wxtyww",
+      "workspace": "Uncategorized",
+      "workspace_slug": "uncategorized",
+      "equipment": "MIG/TIG Miller Multimatic 220 #2",
+      "summary": "Weak gas",
+      "description": "Problem Type: Equipment\nWorkspace:  \nAsset:  MIG/TIG Miller Multimatic 220 #2\nSummary:  Weak gas\nAdditional Info:  Gas feeding issue. Have to be very close to weld for gas to shield.  Gas very weak out of nozzle compared to tank setting. \n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795579111702179\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795579111702179",
+      "created": "2026-11-25T03:58:31.259Z"
+    },
     {
       "id": "17tx4wxtyu8",
       "workspace": "Woodshop",
