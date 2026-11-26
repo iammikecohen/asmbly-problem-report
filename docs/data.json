@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-26T19:02:55.722Z",
+  "updated": "2026-11-26T19:16:51.475Z",
   "tasks": [
+    {
+      "id": "17tx4wxu7xn",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Vinyl Cutter USCutter MH871-MK2",
+      "summary": "Actually reporting for the cricut maker3",
+      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  Vinyl Cutter USCutter MH871-MK2\nSummary:  Actually reporting for the cricut maker3\nAdditional Info:  Just wanted to share that my cut left a mark on one of the strong grip cricut mats! Not sure if this is normal but happy to replace it if not (it looks like horses running)\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795720286543559\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795720286543559",
+      "created": "2026-11-26T19:11:26.055Z"
+    },
     {
       "id": "17tx4wxu4p1",
       "workspace": "Ceramics",
