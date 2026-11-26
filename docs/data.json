@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-26T20:31:47.303Z",
+  "updated": "2026-11-26T20:46:55.964Z",
   "tasks": [
+    {
+      "id": "17tx4wxu8ab",
+      "workspace": "3D Printing",
+      "workspace_slug": "3d-printing",
+      "equipment": "BambuLabs P1S - Hanuman",
+      "summary": "AMS not working",
+      "description": "Problem Type: Equipment\nWorkspace:  3D Printing\nAsset:  BambuLabs P1S - Hanuman\nSummary:  AMS not working\nAdditional Info:  AMS on printer setting says “Printer is abnormal; Unable to operate”. Filament is not being pulled through. \n\nDiscourse Link: https://yo.asmbly.org/t/11-26-2026-1442-3d-printing-bambulabs-p1s-hanuman/16944\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795725169607999\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-26-2026-1442-3d-printing-bambulabs-p1s-hanuman/16944",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795725169607999",
+      "created": "2026-11-26T20:32:48.708Z"
+    },
     {
       "id": "17tx4wxu7xn",
       "workspace": "Textiles",
