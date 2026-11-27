@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:16:47.429Z",
+  "updated": "2026-11-27T23:31:53.739Z",
   "tasks": [
     {
       "id": "17tx4wxucdh",
@@ -92,7 +92,7 @@
       "equipment": "Other",
       "summary": "Wood shop roll up door",
       "description": "Problem Type: Facilities\nWorkspace:  Woodshop\nAsset:  Other\nSummary:  Wood shop roll up door\nAdditional Info:  Not rolling up!\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795566001559339\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
-      "status": "Open",
+      "status": "in progress",
       "discourse_url": "Opted Out. Slack notification Only.",
       "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795566001559339",
       "created": "2026-11-25T00:20:01.054Z"
