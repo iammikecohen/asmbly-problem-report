@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-27T22:31:36.096Z",
+  "updated": "2026-11-27T22:46:47.074Z",
   "tasks": [
+    {
+      "id": "17tx4wxucdh",
+      "workspace": "Textiles",
+      "workspace_slug": "textiles",
+      "equipment": "Vinyl Cutter USCutter MH871-MK2",
+      "summary": "Cricut mat missing cover",
+      "description": "Problem Type: Supplies\nWorkspace:  Textiles\nAsset:  Vinyl Cutter USCutter MH871-MK2\nSummary:  Cricut mat missing cover\nAdditional Info:  For cricut machine, one of the string mats is missing the plastic sheet that keeps it sticky. Putting it against another one to try to help with losing stickiness\n\nDiscourse Link: Opted Out. Slack notification Only.\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795819509134769\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "Opted Out. Slack notification Only.",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795819509134769",
+      "created": "2026-11-27T22:45:08.365Z"
+    },
     {
       "id": "17tx4wxubgg",
       "workspace": "Lasers",
