@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-28T19:16:56.703Z",
+  "updated": "2026-11-28T19:32:10.508Z",
   "tasks": [
+    {
+      "id": "17tx4wxudf8",
+      "workspace": "Lasers",
+      "workspace_slug": "lasers",
+      "equipment": "Tarkin",
+      "summary": "Laser not working",
+      "description": "Problem Type: Equipment\nWorkspace:  Lasers\nAsset:  Tarkin\nSummary:  Laser not working\nAdditional Info:  It’s cutting but leaving a mark on the left side. I can send pics\n\nDiscourse Link: https://yo.asmbly.org/t/11-28-2026-1320-lasers-tarkin/16950\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795894167450309\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-28-2026-1320-lasers-tarkin/16950",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795894167450309",
+      "created": "2026-11-28T19:29:26.418Z"
+    },
     {
       "id": "17tx4wxuct1",
       "workspace": "Woodshop",
