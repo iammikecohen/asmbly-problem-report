@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-28T02:46:36.251Z",
+  "updated": "2026-11-28T03:03:27.522Z",
   "tasks": [
+    {
+      "id": "17tx4wxuct1",
+      "workspace": "Woodshop",
+      "workspace_slug": "woodshop",
+      "equipment": "Laguna Swift CNC 5x10",
+      "summary": "Remote won't turn on",
+      "description": "Problem Type: Equipment\nWorkspace:  Woodshop\nAsset:  Laguna Swift CNC 5x10\nSummary:  Remote won't turn on\nAdditional Info:  I stopped my current cut and removed my flashdrive so I could make adjustments. When putting the flashdrive back into remote, the screen turned blue. I shut down everything and restarted it, and the remote wouldn't turn on at all. \n\nDiscourse Link: https://yo.asmbly.org/t/11-27-2026-2024-woodshop-laguna-swift-cnc-5x10/16947\nSlack Post: https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795834291601989\n\n_Report generated from a filing. This report has also been sent to Asmbly staff, leadership, and space leads with any contact info that was provided. Provide additional photos or resources here to help. When the problem is resolved, ensure it is marked._",
+      "status": "Open",
+      "discourse_url": "https://yo.asmbly.org/t/11-27-2026-2024-woodshop-laguna-swift-cnc-5x10/16947",
+      "slack_url": "https://asmbly-makerspace.slack.com/archives/C063LH7MB45/p1795834291601989",
+      "created": "2026-11-28T02:51:30.569Z"
+    },
     {
       "id": "17tx4wxucdh",
       "workspace": "Textiles",
